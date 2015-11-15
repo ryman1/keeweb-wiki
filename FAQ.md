@@ -18,4 +18,4 @@ A: [Yes](https://github.com/antelle/keeweb/issues/19#issuecomment-154710697)
 
 ### Extensions
 Q: Will KeePass plugins be ever supported?  
-A: No. They are not cross-platform and depends on KeePass libs. But I'm planning to support plugins and themes.  
+A: No. They are not cross-platform and depends on KeePass libs. But I'm planning to support javascript plugins and CSS themes.  
