@@ -4,7 +4,7 @@ A: File format should be 100% compatible but I test integration with KeePass onl
 
 ### Security
 Q: Is it secure?  
-A: The app makes no external requests. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow and disturbing stuff like that. The single request the app performs is version check which can be disabled in app settings.  
+A: The app makes no external requests, it's completely offline. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow and disturbing stuff like that. The single request the app performs is version check which can be disabled in app settings.  
 
 ### Sync
 Q: Why does the app overwrite my files in Dropbox?  
