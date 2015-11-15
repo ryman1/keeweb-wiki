@@ -2,6 +2,10 @@
 Q: Is it compatible to KeePass? What about KeePassX or other clients?  
 A: File format should be 100% compatible but I test integration with KeePass only. Other clients should be ok, if not, please, open an issue and it will be fixed.  
 
+### Security
+Q: Is it secure?  
+A: The app makes no external requests. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow and disturbing stuff like that. The single request the app performs is version check which can be disabled in app settings.  
+
 ### Sync
 Q: Why does the app overwrite my files in Dropbox?  
 A: Because 2-way sync is [not implemented](https://github.com/antelle/keeweb#known-issues) for now, I'm working on it.  
