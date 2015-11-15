@@ -11,11 +11,11 @@ A: A web page cannot open files from your filesystem, so they are cached. When y
 
 ### Self-hosting
 Q: Which server should I use?  
-A: Any static server (nginx, Apache, IIS, ...). The app is single HTML file which is executed on client. Please, read [here](https://github.com/antelle/keeweb#self-hosting) about self-hosting  
+A: Any static server (nginx, Apache, IIS, ...). The app is single HTML file which is executed in browser. Please, read [here](https://github.com/antelle/keeweb#self-hosting) about self-hosting  
 
 Q: Is it possible to use Dropbox in self-hosted version?  
 A: [Yes](https://github.com/antelle/keeweb/issues/19#issuecomment-154710697)  
 
-### Plugins
+### Extensions
 Q: Will KeePass plugins be ever supported?  
-A: No. They are not cross-platform and depends on KeePass libs.  
+A: No. They are not cross-platform and depends on KeePass libs. But I'm planning to support plugins and themes.  
