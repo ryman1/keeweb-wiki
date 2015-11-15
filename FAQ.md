@@ -1,6 +1,6 @@
 ### Compatibility
 Q: Is it compatible to KeePass? What about KeePassX or other clients?  
-A: File format should be 100% compatible but I test integration with KeePass. Other clients should be ok, if not, please, open an issue and it will be fixed.  
+A: File format should be 100% compatible but I test integration with KeePass only. Other clients should be ok, if not, please, open an issue and it will be fixed.  
 
 ### Sync
 Q: Why does the app overwrite my files in Dropbox?  
