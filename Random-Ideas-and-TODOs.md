@@ -1,4 +1,4 @@
-This needs investigation or is hard in some aspect.
+Issues which need investigation or are hard to implement.
 
 - global auto type hotkey
 - unlock on secure Desktop
