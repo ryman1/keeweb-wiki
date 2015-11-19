@@ -7,7 +7,7 @@ Q: Is it secure?
 A: The app makes no external requests, it's completely offline. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow and disturbing stuff like that. The only request this app performs is version check which can be disabled in app settings.  
 
 Q: Why is there a security warning on Windows shows? Why Mac might disallow opening the app? Why the publisher is Unknown?  
-A: There's no malware inside. The code is not signed because it costs money, and for now I'm not going to pay yearly for a free app.  
+A: There's no malware inside. The code is not signed because it costs money (this is not one-time fee), and for now I'm not going to pay yearly for a free app.  
 
 ### Sync
 Q: Why does the app overwrite my files in Dropbox?  
