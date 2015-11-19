@@ -6,3 +6,4 @@ Issues which need investigation or are hard in some aspect.
 - chromeos
 - disallow opening same files twice
 - save files to browser instead of file by default
+- make windows icon without transparency
