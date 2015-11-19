@@ -6,8 +6,8 @@ A: File format should be 100% compatible but I test integration with KeePass onl
 Q: Is it secure?  
 A: The app makes no external requests, it's completely offline. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow and disturbing stuff like that. The only request this app performs is version check which can be disabled in app settings.  
 
-Q: Why Windows shows security warning? Why Mac could not allow to open the app?  
-A: No, there's no malware inside. The code is not signed because it costs money, and I'm not going to pay yearly for a free app. If you want to donate, please, contact me.  
+Q: Why Windows shows security warning? Why Mac could not allow to open the app? Why the publisher is Unknown?  
+A: There's no malware inside. The code is not signed because it costs money, and I'm not going to pay yearly for a free app. If you want to donate, please, contact me.  
 
 ### Sync
 Q: Why does the app overwrite my files in Dropbox?  
