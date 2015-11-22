@@ -10,4 +10,5 @@ Desktop:
 - Linux Ubuntu 12, Debian 8, Fedora 21
 
 Mobile:
-- iOS 9 Safari, Chrome
+- iOS 9 Safari, Chrome (very basic support)
+- ...more platforms support is planned
