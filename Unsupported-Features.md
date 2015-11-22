@@ -8,4 +8,3 @@ Features in this list will not be supported because they are considered visually
 - OK buttons
 - field references
 - manual custom icon management
-- triggers
