@@ -6,3 +6,4 @@ Features in this list will not be supported because they are considered visually
 - entry background/foreground color and custom colors
 - manual maintenance
 - OK buttons
+- field references
