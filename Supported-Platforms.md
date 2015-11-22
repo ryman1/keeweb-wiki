@@ -11,4 +11,4 @@ Desktop:
 
 Mobile:
 - iOS 9 Safari, Chrome (very basic support)
-- ...more mobile platforms support is planned
+- ...other mobile platforms support is planned
