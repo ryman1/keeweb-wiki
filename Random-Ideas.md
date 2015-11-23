@@ -6,3 +6,4 @@ Issues which need investigation or are hard in some aspect.
 - disallow opening same files twice
 - save files to browser instead of file by default
 - make windows icon without transparency
+- different db providers, like [valut](vaultproject.io), [pass](http://www.passwordstore.org/), ...
