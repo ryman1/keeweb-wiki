@@ -1,5 +1,3 @@
-# TODO
-
 ## v0.5
 Dec
 - [ ] conflict-free 2-way merge sync
