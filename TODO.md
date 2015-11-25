@@ -35,7 +35,6 @@ Feb
 - [ ] different storage options
 - [ ] keepasshttp
 - [ ] mobile apps
-- [ ] external crypto devices support
 - [ ] draggable items in left panel
 - [ ] user themes support
 - [ ] plugins
