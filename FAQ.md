@@ -1,6 +1,6 @@
 ### Compatibility
 Q: Is it compatible to KeePass? What about KeePassX or other clients?  
-A: File format should be 100% compatible but I test integration with KeePass only. Other clients should be ok, if not, please, open an issue and it will be fixed.  
+A: File format should be 100% compatible but I test integration with KeePass only. Other clients should be ok, if not, please, open an issue and it will be fixed. Only kdbx (KeePass v2), not kdb (KeePass v1) is supported. You can use KeePass to convert between them.  
 
 ### Security
 Q: Is it secure?  
