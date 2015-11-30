@@ -26,6 +26,7 @@ Feb
 - [ ] file type associations
 - [ ] one-time passwords
 - [ ] audit
+- [ ] group reorder
 - [ ] generation templates
 - [ ] entry templates
 - [ ] drag entries across files
