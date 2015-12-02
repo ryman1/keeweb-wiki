@@ -4,7 +4,7 @@ Dec
 - [ ] rethink locking and storage concept
 - [x] tech debt: unify storage providers
 - [ ] tech debt: reload after db operations
-- [ ] disallow opening same files twice
+- [x] disallow opening same files twice
 - [ ] save files to browser instead of file by default
 
 ## v0.6
