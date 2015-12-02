@@ -2,7 +2,7 @@
 Dec
 - [ ] conflict-free 2-way merge sync
 - [ ] rethink locking and storage concept
-- [ ] tech debt: unify storage providers
+- [x] tech debt: unify storage providers
 - [ ] tech debt: reload after db operations
 - [ ] disallow opening same files twice
 - [ ] save files to browser instead of file by default
