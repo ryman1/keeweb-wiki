@@ -23,6 +23,7 @@ Feb
 - [ ] QA
 
 ## Future
+- [ ] store keyfiles
 - [ ] auto-type for desktop
 - [ ] file type associations
 - [ ] one-time passwords
