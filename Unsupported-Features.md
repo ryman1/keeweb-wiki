@@ -7,4 +7,4 @@ Features in this list will not be supported because they are considered visually
 - manual maintenance
 - OK buttons
 - field references
-- manual custom icon management
+- native scrollbars
