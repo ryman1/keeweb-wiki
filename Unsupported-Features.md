@@ -8,3 +8,4 @@ Features in this list will not be supported because they are considered visually
 - OK buttons
 - field references
 - native scrollbars
+- any kind of server as a part of app
