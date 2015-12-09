@@ -37,6 +37,7 @@ Feb
 - [ ] i18n
 - [ ] allow to increase font size
 - [ ] different storage options
+- [ ] import xml
 - [ ] keepasshttp
 - [ ] mobile apps
 - [ ] draggable items in left panel
