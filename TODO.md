@@ -41,5 +41,6 @@ Feb
 - [ ] mobile apps
 - [ ] draggable items in left panel
 - [ ] user themes support
+- [ ] backups
 - [ ] plugins
 - [ ] auto-tests
