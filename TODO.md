@@ -14,9 +14,8 @@ Dec-Jan
 - [ ] mobile bugfixes
 - [ ] advanced search
 - [ ] help/tips
-- [ ] tech debt: refactor app-view
-- [ ] tech debt: string globalization
-- [ ] tech debt: binaries and history
+- [ ] string globalization
+- [ ] binaries and history
 
 ## v1.0
 Feb
