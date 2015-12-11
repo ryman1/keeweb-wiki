@@ -2,7 +2,7 @@
 Dec
 - [x] conflict-free 2-way merge sync engine
 - [ ] sync ui integration
-- [ ] rethink locking and storage concept
+- [x] rethink locking and storage concept
 - [x] tech debt: unify storage providers
 - [x] tech debt: reload after db operations
 - [x] disallow opening same files twice
