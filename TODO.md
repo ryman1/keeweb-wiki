@@ -11,6 +11,7 @@ Dec
 ## v0.6
 Jan
 - [ ] secure inputs for all passwords
+- [ ] sync bugfixes
 - [ ] mobile bugfixes
 - [ ] advanced search
 - [ ] help/tips
