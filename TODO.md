@@ -22,25 +22,28 @@ Feb
 - [ ] QA
 
 ## Future
-- [ ] store keyfiles
+- [ ] different storage options: OneDrive, GDrive, iCloud Drive
 - [ ] auto-type for desktop
-- [ ] file type associations
+- [ ] i18n
 - [ ] one-time passwords
-- [ ] audit
+- [ ] file type associations
+- [ ] store keyfiles
 - [ ] group reorder
 - [ ] master key policy
 - [ ] generation templates
+- [ ] hide empty or particular fields
+- [ ] autocomplete usernames
+- [ ] customizable table view
+- [ ] audit
 - [ ] entry templates
 - [ ] drag entries across files
-- [ ] customizable table view
-- [ ] i18n
 - [ ] allow to increase font size
-- [ ] different storage options
 - [ ] import xml
 - [ ] keepasshttp
 - [ ] mobile apps
 - [ ] draggable items in left panel
-- [ ] user themes support
-- [ ] backups
+- [ ] user themes
 - [ ] plugins
+- [ ] backups
 - [ ] auto-tests
+- [ ] vault
