@@ -9,7 +9,7 @@ Dec
 - [x] save files to browser instead of file by default
 
 ## v0.6
-Dec-Jan
+Jan
 - [ ] secure inputs for all passwords
 - [ ] mobile bugfixes
 - [ ] advanced search
