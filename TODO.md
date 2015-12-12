@@ -22,7 +22,7 @@ Feb
 - [ ] QA
 
 ## Future
-- [ ] different storage options: OneDrive, GDrive, iCloud Drive
+- [ ] different storage options: OneDrive, GDrive
 - [ ] auto-type for desktop
 - [ ] i18n
 - [ ] one-time passwords
