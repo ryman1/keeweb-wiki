@@ -1,13 +1,3 @@
-## v0.5
-Dec
-- [x] conflict-free 2-way merge sync engine
-- [x] sync ui integration
-- [x] rethink locking and storage concept
-- [x] tech debt: unify storage providers
-- [x] tech debt: reload after db operations
-- [x] disallow opening same files twice
-- [x] save files to browser instead of file by default
-
 ## v0.6
 Jan
 - [ ] secure inputs for all passwords
