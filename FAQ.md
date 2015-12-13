@@ -10,11 +10,11 @@ Q: Why is there a security warning on Windows? Why Mac might disallow opening th
 A: There's no malware inside. The code is not signed because it costs money (this is not one-time fee), and for now I'm not going to pay yearly for a free app.  
 
 ### Sync
-Q: Why does the app overwrite my files in Dropbox?  
-A: Because 2-way sync is [not implemented](https://github.com/antelle/keeweb#known-issues) for now, I'm working on it.  
-
 Q: What is offline?  
 A: A web page cannot open files from your filesystem, so they are cached. When you open an offline file, cached state will be used.  
+
+Q: What will happen if I change password in offline?  
+A: For now, you have to re-open this file on other KeeWeb instances, this will be fixed.  
 
 ### Self-hosting
 Q: Which server should I use?  
