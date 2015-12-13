@@ -1,7 +1,7 @@
 ## v0.5
 Dec
 - [x] conflict-free 2-way merge sync engine
-- [ ] sync ui integration
+- [x] sync ui integration
 - [x] rethink locking and storage concept
 - [x] tech debt: unify storage providers
 - [x] tech debt: reload after db operations
