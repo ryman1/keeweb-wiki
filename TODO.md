@@ -11,6 +11,7 @@ Jan
 ## v1.0
 Feb
 - [ ] QA
+- [ ] website
 
 ## Future
 - [ ] different storage options: OneDrive, GDrive
