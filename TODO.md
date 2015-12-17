@@ -27,6 +27,7 @@ Feb
 - [ ] autocomplete usernames
 - [ ] customizable table view
 - [ ] audit
+- [ ] rename tags
 - [ ] entry templates
 - [ ] drag entries across files
 - [ ] allow to increase font size
