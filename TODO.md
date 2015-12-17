@@ -5,7 +5,7 @@ Jan
 - [ ] mobile bugfixes
 - [ ] advanced search
 - [ ] help/tips
-- [ ] string globalization
+- [x] string globalization
 - [ ] binaries and history
 
 ## v1.0
