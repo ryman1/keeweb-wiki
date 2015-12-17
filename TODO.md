@@ -6,7 +6,7 @@ Jan
 - [ ] advanced search
 - [ ] help/tips
 - [x] string globalization
-- [ ] binaries and history
+- [x] binaries and history
 
 ## v1.0
 Feb
