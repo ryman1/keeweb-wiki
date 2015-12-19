@@ -1,5 +1,6 @@
 ## v0.6
 Jan
+- [ ] field editing bugfixes  
 - [ ] secure inputs for all passwords
 - [ ] sync improvements
 - [ ] mobile bugfixes
