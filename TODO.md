@@ -27,6 +27,7 @@ Feb
 - [ ] hide empty or particular fields
 - [ ] autocomplete usernames
 - [ ] customizable table view
+- [ ] bulk operations
 - [ ] audit
 - [ ] rename tags
 - [ ] entry templates
