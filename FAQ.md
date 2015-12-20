@@ -7,7 +7,7 @@ Q: Is it secure?
 A: The app makes no external requests, it's completely offline. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow and disturbing stuff like that. The only request this app performs is version check which can be disabled in app settings, and it's done via HTTPS. The other behaviour is not different from usual desktop or web apps.  
 
 Q: Can other pages in browser or insecure plugins access my passwords?  
-A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions. If you think there are some plugins/extensions in your browser which you don't trust, or if you don't think your browser is secure enough to isolate websites from accessing each other, it's better to use desktop version and never enter passwords in that browser on any website (or just remove such plugins).  
+A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions. If you think there are some plugins/extensions in your browser which you don't trust, or if you don't think your browser is secure enough to isolate websites from accessing each other, it's better to use desktop version.  
 
 Q: Why is there a security warning on Windows? Why Mac might disallow opening the app? Why the publisher is Unknown?  
 A: There's no malware inside. The code is not signed because it costs money (this is not one-time fee), and for now I'm not going to pay yearly for a free app.  
