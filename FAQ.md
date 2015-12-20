@@ -4,7 +4,7 @@ A: File format should be 100% compatible but I test integration with KeePass onl
 
 ### Security
 Q: Is it secure?  
-A: The app makes no external requests, it's completely offline. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow and disturbing stuff like that. The only request this app performs is version check which can be disabled in app settings, and it's done via HTTPS. The other behaviour is not different from usual desktop or web apps.  
+A: The app makes no external requests, it's completely offline, all your data is stored locally and never sent by network. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow, disturbing and insecure stuff like that. The only request this app performs is version check which can be disabled in app settings, and it's done via HTTPS. The other behaviour is not different from usual desktop or web apps.  
 
 Q: Can other pages in browser or insecure plugins access my passwords?  
 A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions. If you think there are some plugins/extensions in your browser which you don't trust, or if you don't think your browser is secure enough to isolate websites from accessing each other, it's better to use desktop version.  
@@ -16,7 +16,7 @@ Q: What if your github account got hacked?
 A: If you're afraid of that, you can use desktop version, or fork to your account, or deploy to your server. Just to note, the same applies to every password manager app: what if download website is hacked?  
 
 Q: I have forgot my password or lost a keyfile.  
-A: There's no way back. All yout data is encrypted with your password and stored inside kdbx on your computer.  
+A: There's no way to restore. All your data is encrypted with your password and stored inside kdbx on your computer.  
 
 ### Sync
 Q: What is offline?  
