@@ -12,6 +12,7 @@ Jan
 ## v1.0
 Feb
 - [ ] QA
+- [ ] Performance and stability improvements
 - [ ] website
 
 ## Future
