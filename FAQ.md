@@ -12,8 +12,8 @@ A: Other pages must have no access to it. If you have some strange plugins in yo
 Q: Why is there a security warning on Windows? Why Mac might disallow opening the app? Why the publisher is Unknown?  
 A: There's no malware inside. The code is not signed because it costs money (this is not one-time fee), and for now I'm not going to pay yearly for a free app.  
 
-Q: Does it have any protections from trojans or keyloggers?  
-A: No. As any password manager. No app can have protection against other software running with superuser privileges (which is typical for malware). Don't believe in BS.  
+Q: Does it have any protection from trojans or key loggers?  
+A: No. As any password manager. No app can have protection against other software running with superuser privileges (which is typical for malware). Don't believe in BS and don't use password managers if you typically clean out trojans from your computer.  
 
 Q: What if your github account got hacked?  
 A: If you're afraid of that, you can use desktop version, or fork to your account, or deploy to your server. Just to note, the same applies to every password manager app: what if download website or developer's machine is hacked?  
