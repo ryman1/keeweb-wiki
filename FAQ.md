@@ -15,7 +15,7 @@ A: There's no malware inside. The code is not signed because it costs money (thi
 Q: What if your github account got hacked?  
 A: If you're afraid of that, you can use desktop version, or fork to your account, or deploy to your server. Just to note, the same applies to every password manager app: what if download website is hacked?  
 
-Q: I have forgot my password/lost a keyfile?  
+Q: I have forgot my password or lost a keyfile.  
 A: There's no way back. All yout data is encrypted with your password and stored inside kdbx on your computer.  
 
 ### Sync
