@@ -1,3 +1,10 @@
+### General
+Q: Password manager in browser? LOL!  
+A: Don't use browser version if you prefer desktop. There are [desktop clients](https://github.com/antelle/keeweb/releases/latest) for all major OS. It's called Kee*Web* because it's created with web technologies.  
+
+Q: Yet another KeePass client app? Why? What is the motivation?  
+A: There's no good Mac client, no browser version.  
+
 ### Compatibility
 Q: Is it compatible to KeePass? What about KeePassX or other clients?  
 A: File format should be 100% compatible but I test integration with KeePass only. Other clients should be ok, if not, please, open an issue and it will be fixed. Only kdbx (KeePass v2), not kdb (KeePass v1) is supported. You can use KeePass to convert between them.  
