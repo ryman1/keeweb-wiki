@@ -1,6 +1,6 @@
 ### General
 Q: Password manager in browser? LOL!  
-A: Don't use browser version if you prefer desktop. There are [desktop clients](https://github.com/antelle/keeweb/releases/latest) for all major OS. It's called Kee*Web* because it's created with web technologies.  
+A: Don't use browser version if you prefer desktop. There are [desktop clients](https://github.com/antelle/keeweb/releases/latest) for all major OS: Mac, Windows and Linux. It's called Kee*Web* because it's created with web technologies.  
 
 Q: Yet another KeePass client app? Why? What is the motivation?  
 A: Because there's no good Mac app and no browser version.  
