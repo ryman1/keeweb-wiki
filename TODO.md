@@ -5,7 +5,7 @@ Jan
 - [ ] sync improvements
 - [ ] mobile bugfixes
 - [ ] advanced search
-- [ ] help/tips
+- [x] help/tips
 - [x] string globalization
 - [x] binaries and history
 
