@@ -4,7 +4,7 @@ Jan
 - [ ] secure inputs for all passwords
 - [ ] sync improvements
 - [ ] mobile bugfixes
-- [ ] advanced search
+- [x] advanced search
 - [x] help/tips
 - [x] string globalization
 - [x] binaries and history
