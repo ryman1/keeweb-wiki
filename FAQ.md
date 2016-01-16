@@ -33,7 +33,10 @@ Q: What is offline?
 A: A web page cannot open files from your filesystem, so they are cached. When you open an offline file, cached state will be used.  
 
 Q: What will happen if I change password in offline?  
-A: For now, you have to re-open this file on other KeeWeb instances, this will be fixed.  
+A: For now, you have to re-open this file on other KeeWeb instances, this is already fixed in upcoming v0.6 release.  
+
+Q: Can I change the file while it's open in this app?  
+A: You can change but the changes will be overwritten, there will be no notification. This may be changed in future releases.  
 
 ### Self-hosting
 Q: Which server should I use?  
