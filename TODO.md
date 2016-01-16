@@ -2,7 +2,7 @@
 Jan
 - [x] field editing bugfixes  
 - [ ] secure inputs for all passwords
-- [ ] sync improvements
+- [x] sync improvements
 - [ ] mobile bugfixes
 - [x] advanced search
 - [x] help/tips
