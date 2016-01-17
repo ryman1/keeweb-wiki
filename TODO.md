@@ -39,6 +39,6 @@ Feb
 - [ ] user themes
 - [ ] plugins
 - [ ] backups
-- [ ] secure inputs for all passwords  
+- [ ] secure inputs  
 - [ ] auto-tests
 - [ ] vault
