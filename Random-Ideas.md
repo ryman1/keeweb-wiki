@@ -6,3 +6,4 @@ Issues which need investigation or are hard in some aspect.
 - unlock on secure Desktop
 - test on windows hd display (but not mac retina), win mobile, android, chromeos
 - external crypto devices support
+- secure inputs with value xored in memory while editing
