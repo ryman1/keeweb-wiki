@@ -1,7 +1,6 @@
 ## v0.6
 Jan
 - [x] field editing bugfixes  
-- [ ] secure inputs for all passwords
 - [x] sync improvements
 - [ ] mobile bugfixes
 - [x] advanced search
@@ -40,5 +39,6 @@ Feb
 - [ ] user themes
 - [ ] plugins
 - [ ] backups
+- [ ] secure inputs for all passwords  
 - [ ] auto-tests
 - [ ] vault
