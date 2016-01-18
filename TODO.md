@@ -2,7 +2,7 @@
 Jan
 - [x] field editing bugfixes  
 - [x] sync improvements
-- [ ] mobile bugfixes
+- [x] mobile bugfixes
 - [x] advanced search
 - [x] help/tips
 - [x] string globalization
