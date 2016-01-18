@@ -33,6 +33,7 @@ Feb
 - [ ] drag entries across files
 - [ ] allow to increase font size
 - [ ] import xml
+- [ ] import csv and other formats
 - [ ] keepasshttp
 - [ ] mobile apps
 - [ ] draggable items in left panel
