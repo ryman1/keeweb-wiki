@@ -36,3 +36,4 @@ Q3 2016
 - [ ] user themes
 - [ ] plugins
 - [ ] backups
+- [ ] auto-tests
