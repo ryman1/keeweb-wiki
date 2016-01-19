@@ -5,7 +5,7 @@ Feb
 
 ## v1.1
 Q2 2016
-- [ ] different storage options: OneDrive, GDrive
+- [ ] different storage options: OneDrive, GDrive, WebDav
 - [ ] store keyfiles
 - [ ] generation templates
 - [ ] one-time passwords
