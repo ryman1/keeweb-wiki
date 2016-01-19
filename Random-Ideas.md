@@ -7,3 +7,4 @@ Issues which need investigation or are hard in some aspect.
 - win mobile, chromeos
 - external crypto devices support
 - secure inputs with value obfuscated in memory while editing
+- auto-tests
