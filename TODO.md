@@ -1,13 +1,3 @@
-## v0.6
-Jan
-- [x] field editing bugfixes  
-- [x] sync improvements
-- [x] mobile bugfixes
-- [x] advanced search
-- [x] help/tips
-- [x] string globalization
-- [x] binaries and history
-
 ## v1.0
 Feb
 - [ ] performance, stability and quality improvements
