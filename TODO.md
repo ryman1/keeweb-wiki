@@ -3,22 +3,28 @@ Feb
 - [ ] performance, stability and quality improvements
 - [ ] website
 
-## Future
+## v1.1
+Q2 2016
 - [ ] different storage options: OneDrive, GDrive
-- [ ] auto-type for desktop
-- [ ] i18n
-- [ ] one-time passwords
-- [ ] file type associations
 - [ ] store keyfiles
-- [ ] group reorder
-- [ ] master key policy
 - [ ] generation templates
+- [ ] one-time passwords
 - [ ] hide empty or particular fields
 - [ ] autocomplete usernames
+
+## v1.2
+Q3 2016
+- [ ] auto-type for desktop
+- [ ] file type associations
+- [ ] group reorder
+- [ ] master key policy
 - [ ] customizable table view
+- [ ] rename tags
+
+## Future
+- [ ] i18n
 - [ ] bulk operations
 - [ ] audit
-- [ ] rename tags
 - [ ] entry templates
 - [ ] drag entries across files
 - [ ] allow to increase font size
