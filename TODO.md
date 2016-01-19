@@ -6,7 +6,7 @@ Feb
 ## v1.1
 Q2 2016
 - [ ] different storage options: OneDrive, GDrive, WebDav
-- [ ] store keyfiles
+- [ ] option to remember keyfiles
 - [ ] generation templates
 - [ ] one-time passwords
 - [ ] hide empty or particular fields
