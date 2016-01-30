@@ -1,1 +1,1 @@
-The only official web app is here: https://antelle.github.io/keeweb/ or http://app.keeweb.info
+The only official web app is here: https://antelle.github.io/keeweb/
