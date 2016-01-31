@@ -1,5 +1,5 @@
 ## v1.0
-Feb
+Feb (feature freeze; no new app features for this release)
 - [ ] performance, stability and quality improvements
 - [x] website
 
