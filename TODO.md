@@ -1,7 +1,7 @@
 ## v1.0
 Feb
 - [ ] performance, stability and quality improvements
-- [ ] website
+- [x] website
 
 ## v1.1
 Q2 2016
