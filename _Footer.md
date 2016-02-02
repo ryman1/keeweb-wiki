@@ -1,1 +1,1 @@
-The only official web app is here: https://app.keeweb.info
+The only official web app is https://app.keeweb.info
