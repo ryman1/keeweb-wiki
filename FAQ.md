@@ -33,7 +33,7 @@ Q: What is offline?
 A: A web page cannot open files from your filesystem, so they are cached. When you open an offline file, cached state will be used.  
 
 Q: What will happen if I change file on another computer?  
-A: Changed will be loaded by all peers once you save them or auto-save happens.  
+A: Changes will be loaded by all peers once you save them or auto-save happens.  
 
 ### Self-hosting
 Q: Which server should I use?  
