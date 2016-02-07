@@ -6,4 +6,4 @@ Issues which need investigation or are hard in some aspect.
 - unlock on secure Desktop
 - win mobile, chromeos
 - external crypto devices support
-- secure inputs with value obfuscated in memory while editing
+- secure inputs with value xored in memory
