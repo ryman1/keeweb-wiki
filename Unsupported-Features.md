@@ -2,7 +2,7 @@ Features in this list will not be supported because they are considered visually
 
 - any kind of server required to run the app
 - separate trash per file
-- treating trash as usual folder, with tree view and search; configurable search in trash
+- treating trash as usual folder, with tree view and search
 - changing trash group
 - creating folders without names
 - entry background/foreground color and custom colors
