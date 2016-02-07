@@ -48,7 +48,7 @@ A: [Yes](https://github.com/antelle/keeweb/issues/19#issuecomment-154710697) but
 
 ### Extensions
 Q: Will KeePass plugins be ever supported?  
-A: No. They are not cross-platform and depends on KeePass libs. But I'm planning to support javascript plugins and CSS themes.  
+A: No. They are not cross-platform and depend on KeePass libs. But I'm planning to support javascript plugins and CSS themes.  
 
 Q: I want a feature.  
 A: You can [either open a feature request](https://github.com/antelle/keeweb/issues/new?title=[Feature%20request]%20), or sumbit a pullreq with it (but please, contact the author first, because I have strong opinion against some features, e.g. entry background color).  
