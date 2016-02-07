@@ -4,4 +4,4 @@ In order to control some features of desktop app, you can use the following comm
 `--html-path=tmp` path to content files (used for development)  
 
 You can also specify the file which you would like to open as the last argument:  
-`> KeeWeb my.kdbx`
+`KeeWeb my.kdbx`
