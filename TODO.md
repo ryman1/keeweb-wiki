@@ -1,6 +1,6 @@
 ## v1.0
 Feb  
-- [ ] performance, stability and quality improvements
+- [x] performance, stability and quality improvements
 - [x] website
 
 ## v1.1
