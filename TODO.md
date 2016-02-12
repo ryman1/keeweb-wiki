@@ -1,8 +1,3 @@
-## v1.0
-Feb  
-- [x] performance, stability and quality improvements
-- [x] website
-
 ## v1.1
 Q2 2016
 - [ ] different storage options: OneDrive, GDrive, WebDav (the list is not final yet)
