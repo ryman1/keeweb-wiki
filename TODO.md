@@ -1,4 +1,4 @@
-Note: you can preview completed features on dev build: [https://beta.keeweb.info](beta.keeweb.info)
+Note: you can preview completed features on dev build: [beta.keeweb.info](https://beta.keeweb.info)
 ## v1.1
 Q2 2016
 - [ ] different storage options: OneDrive, GDrive, WebDav (the list is not final yet)
