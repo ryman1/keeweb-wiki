@@ -3,7 +3,7 @@ You can preview completed features on dev build [beta.keeweb.info](https://beta.
 Q2 2016
 - [ ] different storage options: OneDrive, GDrive, WebDav (the list is not final yet)
 - [x] option to remember keyfiles
-- [ ] generation templates
+- [x] generation presets
 - [ ] one-time passwords
 - [ ] hide empty or particular fields
 - [ ] autocomplete usernames
