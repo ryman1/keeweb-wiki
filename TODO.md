@@ -19,6 +19,7 @@ Q3 2016
 
 ## Future
 - [ ] i18n
+- [ ] Chromebook support
 - [ ] bulk operations
 - [ ] audit
 - [ ] entry templates
