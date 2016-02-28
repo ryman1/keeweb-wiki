@@ -36,7 +36,7 @@ Q: What will happen if I change file on another computer?
 A: Changes will be loaded by all peers once you save them or auto-save happens.  
 
 Q: Why downloaded file name in Safari is always Unknown?  
-A: It's a known bug, for now, there's no workaround, because Safari doesn't implement latest standards.  
+A: It's a known bug, for now, there's no workaround, because Safari doesn't implement latest web development standards.  
 
 ### Update
 Q: How to use proxy server for this app?  
