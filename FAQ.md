@@ -7,7 +7,7 @@ A: Because there's no good Mac app and no browser version.
 
 ### Compatibility
 Q: Is it compatible with KeePass? What about KeePassX or other clients?  
-A: File format is compatible and all features important to users are supported but I test integration with KeePass only. Other clients should be ok, if not, please, open an issue and it will be fixed. Only kdbx (KeePass v2), not kdb (KeePass v1) is supported. You can use KeePass or KeePassX to convert between them.  
+A: File format is compatible and all features important to users are supported but I test integration with KeePass only. Other clients should be ok, if not, please, open an issue and it will be investigated. Only kdbx (KeePass v2), not kdb (KeePass v1) is supported. You can use KeePass or KeePassX to convert between them.  
 
 ### Security
 Q: Is it secure?  
