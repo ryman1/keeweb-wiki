@@ -6,7 +6,7 @@ Q2 2016
 - [x] generation presets
 - [ ] one-time passwords
 - [ ] hide empty or particular fields
-- [ ] autocomplete usernames
+- [x] autocomplete usernames
 
 ## v1.2
 Q3 2016
