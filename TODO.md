@@ -7,6 +7,7 @@ Q2 2016
 - [ ] one-time passwords
 - [ ] hide empty or particular fields
 - [x] autocomplete usernames
+- [ ] import xml
 
 ## v1.2
 Q3 2016
@@ -25,7 +26,6 @@ Q3 2016
 - [ ] entry templates
 - [ ] drag entries across files
 - [ ] allow to increase font size
-- [ ] import xml
 - [ ] import csv and other formats
 - [ ] keepasshttp
 - [ ] mobile apps
