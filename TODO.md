@@ -7,7 +7,7 @@ Q2 2016
 - [ ] one-time passwords
 - [ ] hide empty or particular fields
 - [x] autocomplete usernames
-- [ ] import xml
+- [x] import xml
 
 ## v1.2
 Q3 2016
