@@ -25,7 +25,6 @@ Q3 2016
 - [ ] audit
 - [ ] entry templates
 - [ ] drag entries across files
-- [ ] allow to increase font size
 - [ ] import csv and other formats
 - [ ] keepasshttp
 - [ ] mobile apps
