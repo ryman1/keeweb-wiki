@@ -29,7 +29,6 @@ Q3 2016
 - [ ] import csv and other formats
 - [ ] keepasshttp
 - [ ] mobile apps
-- [ ] draggable items in left panel
 - [ ] user themes
 - [ ] plugins
 - [ ] backups
