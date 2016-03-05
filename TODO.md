@@ -5,7 +5,7 @@ Q2 2016
 - [x] option to remember keyfiles
 - [x] generation presets
 - [ ] one-time passwords
-- [ ] hide empty or particular fields
+- [x] hide empty fields
 - [x] autocomplete usernames
 - [x] import xml
 
