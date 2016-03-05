@@ -25,10 +25,10 @@ Q3 2016
 - [ ] audit
 - [ ] entry templates
 - [ ] drag entries across files
+- [ ] auto-backups
 - [ ] import csv and other formats
 - [ ] keepasshttp
 - [ ] mobile apps
 - [ ] user themes
 - [ ] plugins
-- [ ] backups
 - [ ] auto-tests
