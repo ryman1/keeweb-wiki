@@ -27,6 +27,7 @@ Q3 2016
 - [ ] drag entries across files
 - [ ] auto-backups
 - [ ] import csv and other formats
+- [ ] print/share
 - [ ] keepasshttp
 - [ ] mobile apps
 - [ ] user themes
