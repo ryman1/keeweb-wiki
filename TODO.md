@@ -1,6 +1,6 @@
 You can preview completed features on dev build [beta.keeweb.info](https://beta.keeweb.info).
 ## v1.1
-Q2 2016
+Apr..May 2016
 - [ ] different storage options: OneDrive, GDrive, WebDAV
 - [x] option to remember keyfiles
 - [x] generation presets
