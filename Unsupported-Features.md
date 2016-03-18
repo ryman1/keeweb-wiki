@@ -7,6 +7,6 @@ Features in this list will not be supported because they are considered visually
 - creating folders without names
 - entry background/foreground color and custom colors
 - OK buttons
-- field references
+- field references, uuids and stuff like that
 - native scrollbars
 - save without compression
