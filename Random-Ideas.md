@@ -8,5 +8,4 @@ Issues which need investigation or are hard in some aspect.
 - external crypto devices support
 - secure inputs with value xored in memory
 - self-check web version updates signature
-- allow to increase font size
 - auto-tests
