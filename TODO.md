@@ -17,6 +17,7 @@ Q3 2016
 - [ ] master key policy
 - [ ] customizable table view
 - [ ] rename tags
+- [ ] select file for new records
 
 ## Future
 - [ ] i18n
