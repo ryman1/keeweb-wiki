@@ -3,8 +3,8 @@ You can preview completed features on dev build [beta.keeweb.info](https://beta.
 Apr..May 2016
 - [x] storage options support
 - [x] WebDAV
-- [ ] OneDrive
 - [ ] Google Drive
+- [ ] OneDrive
 - [x] option to remember keyfiles
 - [x] generation presets
 - [ ] one-time passwords
