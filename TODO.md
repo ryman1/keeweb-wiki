@@ -4,7 +4,7 @@ Apr..May 2016
 - [x] storage options support
 - [x] WebDAV
 - [x] Google Drive
-- [ ] OneDrive
+- [x] OneDrive
 - [x] option to remember keyfiles
 - [x] generation presets
 - [ ] one-time passwords
