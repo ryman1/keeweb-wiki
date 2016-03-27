@@ -1,6 +1,6 @@
 You can preview completed features on dev build [beta.keeweb.info](https://beta.keeweb.info).
 ## v1.1
-Apr..May 2016
+Apr 2016
 - [x] storage options support
 - [x] WebDAV
 - [x] Google Drive
