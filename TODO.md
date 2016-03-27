@@ -21,6 +21,7 @@ Q3 2016
 - [ ] customizable table view
 - [ ] rename tags
 - [ ] select file for new records
+- [ ] optional offline
 
 ## Future
 - [ ] i18n
