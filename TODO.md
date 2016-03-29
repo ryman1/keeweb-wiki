@@ -13,7 +13,7 @@ Apr 2016
 - [x] import xml
 
 ## v1.2
-Q3 2016
+Jun..Jul 2016
 - [ ] auto-type for desktop
 - [ ] file type associations
 - [ ] group reorder
