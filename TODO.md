@@ -36,7 +36,7 @@ Q3 2016
 
 ## Future
 - [ ] i18n
-- [ ] import csv and other formats
+- [ ] import csv
 - [ ] mobile apps
 - [ ] user themes
 - [ ] plugins
