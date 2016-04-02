@@ -30,7 +30,7 @@ Q3 2016
 - [ ] entry templates
 - [ ] bulk operations
 - [ ] auto-backups
-- [ ] chromebook support
+- [ ] chromeos support
 - [ ] drag entries across files
 - [ ] print/share
 
