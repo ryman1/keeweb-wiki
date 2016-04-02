@@ -26,6 +26,7 @@ Jun..Jul 2016
 ## v1.3
 Q3 2016
 - [ ] audit
+- [ ] keepasshttp
 - [ ] entry templates
 - [ ] bulk operations
 - [ ] auto-backups
@@ -36,7 +37,6 @@ Q3 2016
 ## Future
 - [ ] i18n
 - [ ] import csv and other formats
-- [ ] keepasshttp
 - [ ] mobile apps
 - [ ] user themes
 - [ ] plugins
