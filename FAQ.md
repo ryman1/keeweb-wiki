@@ -22,10 +22,7 @@ A: There's no malware inside. The code is not signed because it costs money (thi
 Q: Does it have any protection from trojans or key loggers?  
 A: No. As any password manager. No app can have protection against targeted malware running with superuser privileges (which is typical for malware). Don't believe in bullshit and don't use password managers if it's common for you to clean out trojans from your computer during an antivirus check.  
 
-Q: What if your github account got hacked?  
-A: If you're afraid of that, you can use desktop version, or fork to your account, or deploy to your server. Just to note, the same applies to every password manager app: what if download website or developer's machine is hacked?  
-
-Q: I have forgot my password or lost a keyfile.  
+Q: I have forgot my password or lost a keyfile or password.  
 A: There's no way to restore. All your data is encrypted with your password and stored inside kdbx on your computer.  
 
 ### Sync
