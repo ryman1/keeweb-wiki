@@ -7,7 +7,7 @@ Apr 2016
 - [x] OneDrive
 - [x] option to remember keyfiles
 - [x] generation presets
-- [ ] one-time passwords
+- [x] one-time passwords
 - [x] hide empty fields
 - [x] autocomplete usernames
 - [x] import xml
