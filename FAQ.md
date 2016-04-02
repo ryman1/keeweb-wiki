@@ -38,6 +38,9 @@ A: Changes will be loaded by all peers once you save them or auto-save happens.
 Q: Why downloaded file name in Safari is always Unknown?  
 A: It's a known bug, for now, there's no workaround, because Safari doesn't implement latest web development standards.  
 
+Q: I've changed WebDAV password and cannot sync the db anymore.  
+A: Remove it and add again. Don't forget to download it if there are any changes.  
+
 ### Update
 Q: How to use proxy server for this app?  
 A: The app will use proxy settings from system-wide config. If you want to use custom setting for this app, start it with `--proxy-server` command-line switch.  
