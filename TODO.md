@@ -40,3 +40,4 @@ Q3 2016
 - [ ] mobile apps
 - [ ] user themes
 - [ ] plugins
+- [ ] auto-tests
