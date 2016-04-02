@@ -23,16 +23,19 @@ Jun..Jul 2016
 - [ ] select file for new records
 - [ ] optional offline
 
-## Future
-- [ ] i18n
-- [ ] chromebook support
-- [ ] bulk operations
+## v1.3
+Q3 2016
 - [ ] audit
 - [ ] entry templates
-- [ ] drag entries across files
+- [ ] bulk operations
 - [ ] auto-backups
-- [ ] import csv and other formats
+- [ ] chromebook support
+- [ ] drag entries across files
 - [ ] print/share
+
+## Future
+- [ ] i18n
+- [ ] import csv and other formats
 - [ ] keepasshttp
 - [ ] mobile apps
 - [ ] user themes
