@@ -1,4 +1,4 @@
-Pending tasks
+Pending tasks and unsolved problems
 - [ ] implement updating electron if it's too old but don't download it on each update
 - [ ] use new electron-builder.build
 - [ ] check signatures in web version when it's possible
