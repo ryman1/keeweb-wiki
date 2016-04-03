@@ -9,6 +9,6 @@ Pending tasks and unsolved problems
 - [ ] lint html and scss
 - [ ] replace iconic font with svg
 - [ ] integrate normalize.css v4
-- [ ] find out why using zepto instead of jquery affects performance
+- [ ] find out why using zepto instead of jquery [affects performance](https://github.com/madrobby/zepto/issues/1169)
 - [ ] improve mobile detection, window.orientation will break soon
 - [ ] auto-tests
