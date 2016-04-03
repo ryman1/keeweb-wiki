@@ -11,3 +11,4 @@ Pending nice-to-have tasks
 Deps with troubles
 - [ ] electron-builder has totally changed
 - [ ] using zepto instead of jquery affects performance
+- [ ] normalize.css v4 added too many styles
