@@ -11,4 +11,4 @@ Pending tasks and unsolved problems
 - [ ] integrate normalize.css v4
 - [ ] find out why using zepto instead of jquery [affects performance](https://github.com/madrobby/zepto/issues/1169)
 - [ ] improve mobile detection, window.orientation will break soon
-- [ ] auto-tests
+- [ ] start using auto-tests
