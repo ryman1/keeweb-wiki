@@ -12,4 +12,5 @@ Nice to have
 - [ ] replace iconic font with svg
 - [ ] integrate with normalize.css v4
 - [ ] find out why using zepto instead of jquery affects performance
+- [ ] improve mobile detection, window.orientation will break soon
 - [ ] auto-tests
