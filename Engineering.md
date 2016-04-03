@@ -4,6 +4,7 @@ Pending tasks and unsolved problems
 - [ ] check signatures in web version when it's possible
 - [ ] remove dropbox lib and use v2 endpoints
 - [ ] subscribe to notifications from storages
+- [ ] make desktop build passing not only on mac
 - [ ] setup ci
 - [ ] replace jshint with eslint
 - [ ] lint html and scss
