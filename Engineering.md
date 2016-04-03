@@ -1,5 +1,8 @@
-Pending nice-to-have tasks
+Must have
 - [ ] implement updating electron if it's too old
+- [ ] use new electron-builder
+
+Nice to have
 - [ ] check signatures in web version when it's possible
 - [ ] remove dropbox lib and use v2 endpoints
 - [ ] subscribe to notifications from storages
@@ -7,8 +10,5 @@ Pending nice-to-have tasks
 - [ ] replace jshint with eslint
 - [ ] lint html and scss
 - [ ] replace iconic font with svg
-
-Deps with troubles
-- [ ] electron-builder has totally changed
-- [ ] using zepto instead of jquery affects performance
-- [ ] normalize.css v4 added too many styles
+- [ ] integrate with normalize.css v4
+- [ ] find out why using zepto instead of jquery affects performance
