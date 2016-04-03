@@ -1,5 +1,5 @@
 Must have
-- [ ] implement updating electron if it's too old
+- [ ] implement updating electron if it's too old but don't download it on each update
 - [ ] use new electron-builder
 
 Nice to have
