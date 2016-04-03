@@ -7,3 +7,4 @@ Pending nice-to-have tasks
 - [ ] replace jshint with eslint
 - [ ] lint html and scss
 - [ ] find out why zepto doesn't work for us
+- [ ] replace font with svg
