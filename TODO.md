@@ -33,6 +33,7 @@ Q3 2016
 - [ ] chromeos support
 - [ ] drag entries across files
 - [ ] print/share
+- [ ] context menu
 
 ## Future
 - [ ] i18n
