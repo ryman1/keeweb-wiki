@@ -6,5 +6,8 @@ Pending nice-to-have tasks
 - [ ] setup ci
 - [ ] replace jshint with eslint
 - [ ] lint html and scss
-- [ ] find out why zepto doesn't work for us
 - [ ] replace iconic font with svg
+
+Deps with troubles
+- [ ] electron-builder has totally changed
+- [ ] using zepto instead of jquery causes performance troubles
