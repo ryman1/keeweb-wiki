@@ -1,6 +1,6 @@
 Must have
 - [ ] implement updating electron if it's too old but don't download it on each update
-- [ ] use new electron-builder
+- [ ] use new electron-builder.build
 
 Nice to have
 - [ ] check signatures in web version when it's possible
