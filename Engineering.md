@@ -1,5 +1,5 @@
 Pending tasks and unsolved problems
-- [ ] use new electron-builder.build :boom:  
+- [ ] use new electron-builder.build :boom: :bomb:   
 - [ ] implement updating electron if it's too old but don't download it on each update :bomb: 
 - [ ] check signatures in web version when it's possible
 - [ ] remove dropbox lib and use v2 endpoints
