@@ -1,6 +1,7 @@
 Pending tasks and unsolved problems
 - [ ] use new electron-builder.build :boom: :bomb: :rocket:   
 - [ ] implement updating electron if it's too old but don't download it on each update :bomb: 
+- [ ] improve mobile detection, window.orientation will break soon :bomb: 
 - [ ] check signatures in web version when it's possible
 - [ ] remove dropbox lib and use v2 endpoints
 - [ ] subscribe to notifications from storages
@@ -10,5 +11,4 @@ Pending tasks and unsolved problems
 - [ ] lint html and scss
 - [ ] replace iconic font with svg
 - [ ] find out why using zepto instead of jquery [affects performance](https://github.com/madrobby/zepto/issues/1169)
-- [ ] improve mobile detection, window.orientation will break soon
 - [ ] create auto-tests
