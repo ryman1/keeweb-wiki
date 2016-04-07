@@ -28,6 +28,7 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 ## Substitutions
 
 `{TITLE}` `{USERNAME}` `{URL}` `{PASSWORD}` `{NOTES}` `{GROUP}` `{HMACOTP}`  
+`{S:<entry_field_name>`  
 `{DT_SIMPLE}` `{DT_YEAR}` `{DT_MONTH}` `{DT_DAY}` `{DT_HOUR}` `{DT_MINUTE}` `{DT_SECOND}`  
 `{DT_UTC_SIMPLE}` `{DT_UTC_YEAR}` `{DT_UTC_MONTH}` `{DT_UTC_DAY}` `{DT_UTC_HOUR}` `{DT_UTC_MINUTE}` `{DT_UTC_SECOND}`  
 
