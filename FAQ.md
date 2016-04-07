@@ -9,6 +9,9 @@ A: Because there's no good Mac app and no browser version.
 Q: Is it compatible with KeePass? What about KeePassX or other clients?  
 A: File format is compatible and all features important to users are supported but I test integration with KeePass only. Other clients should be ok, if not, please, open an issue and it will be investigated. Only kdbx (KeePass v2), not kdb (KeePass v1) is supported. You can use KeePass or KeePassX to convert between them.  
 
+Q: WebDAV is not working  
+A: Most probably CORS is not enabled on your server. Please check out this [page](WebDAV-config).  
+
 ### Security
 Q: Is it secure?  
 A: The app makes no external requests, it's completely offline, all your data is stored locally and never sent by network. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow, disturbing and insecure stuff like that. The only request this app performs is version check which can be disabled in app settings, and it's done via HTTPS. The other behaviour is not different from usual desktop or web apps.  
