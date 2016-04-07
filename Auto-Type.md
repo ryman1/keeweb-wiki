@@ -1,6 +1,10 @@
 :construction: :warning: DRAFT   
 
-Auto-Type will be available in v1.2. If you have any comments, please let me know.
+Auto-Type will be available in v1.2. If you have any comments, please let me know.  
+
+# Requirements
+
+Auth-Type is available for all platforms. On Linux, xdotool installation is required: `sudo apt-get install xodotool`.
 
 # Supported
 
