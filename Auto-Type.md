@@ -1,3 +1,4 @@
+[DRAFT] :warning: 
 Auto-Type will be available in v1.2. If you have any comments, please let me know.
 
 # Supported
