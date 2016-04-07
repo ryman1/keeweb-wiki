@@ -35,6 +35,12 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 
 `{DELAY X}` `{DELAY=X}` `{CLEARFIELD}` `{VKEY X}`
 
+## Combinations
+
+`+(abc)` &rarr; ABC (abc with shift)  
+`{a 3}` &rarr; aaa  
+`^^({TAB})` &rarr; ctrl-tab  
+
 # Not supported
 
 `{CAPSLOCK}` `{NUMLOCK}` `{SCROLLLOCK}` `{APPS}` `{HELP}` `{PRTSC}` `{BREAK}`  
