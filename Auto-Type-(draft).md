@@ -1,3 +1,5 @@
+Auto-Type will be available in v1.2.
+
 # Supported
 
 `+` &rarr; shift  
