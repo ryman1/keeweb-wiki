@@ -4,7 +4,7 @@ Auto-Type will be available in v1.2. If you have any comments, please let me kno
 
 # Requirements
 
-Auth-Type is available for all platforms. On Linux, xdotool installation is required: `sudo apt-get install xodotool`.
+Auth-Type is available for all platforms. On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 
 # Supported
 
