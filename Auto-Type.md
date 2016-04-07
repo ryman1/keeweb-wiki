@@ -4,7 +4,8 @@ Auto-Type will be available in v1.2. If you have any comments, please let me kno
 
 # Requirements
 
-Auto-Type is available for all desktop platforms. On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
+Auto-Type is available for all desktop platforms.  
+On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 
 # Supported
 
