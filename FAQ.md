@@ -60,7 +60,7 @@ Q: Will KeePass plugins be ever supported?
 A: No. They are not cross-platform and depend on KeePass libs. But I'm planning to support javascript plugins and CSS themes.  
 
 Q: When my issue will be fixed?  
-A: There's Milestone field. Possible values:
+A: Please check the Milestone field for this issue. Possible values:
 - vN.M.X: in the upcoming hotfix to currently published version
 - vN.M: in the next release N.M, according to the [roadmap](TODO)
 - vN.X: in some release after current release
