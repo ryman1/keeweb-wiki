@@ -40,7 +40,7 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 
 `+(abc)` &rarr; ABC (abc with shift)  
 `{a 3}` &rarr; aaa  
-`^^({TAB})` &rarr; ctrl-tab  
+`^^({TAB} +{TAB})` &rarr; ctrl-tab ctrl-shift-tab  
 
 # Not supported
 
