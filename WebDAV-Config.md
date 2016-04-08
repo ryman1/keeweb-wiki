@@ -27,3 +27,5 @@ if ($request_method = 'OPTIONS') {
     return 204;
 }
 ```
+
+Please note: OPTIONS request must respond with 200 **without** authorization.
