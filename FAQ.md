@@ -65,6 +65,7 @@ A: Please check the Milestone field for this issue. Possible values:
 - vN.M: in vN.M release, according to the [roadmap](TODO)
 - vN.X: in some release after current release
 - Future: I don't know, maybe never
+
 If the issue is assigned, this means that it's already implemented and you can test it on [beta.keeweb.info](https://beta.keeweb.info)  
 
 Q: I want a feature.  
