@@ -28,4 +28,4 @@ if ($request_method = 'OPTIONS') {
 }
 ```
 
-Please note: OPTIONS request must respond with 200 **without** authorization.
+Please note: OPTIONS request must work **without** authorization.
