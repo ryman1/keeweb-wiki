@@ -12,8 +12,8 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 ## Modifiers
 
 `+` &rarr; shift  
-`^` &rarr; cmd on Mac, ctrl on Windows and Linux  
 `%` &rarr; alt  
+`^` &rarr; cmd on Mac, ctrl on Windows and Linux  
 `^^` &rarr; ctrl on all OS  
 
 ## Keys
