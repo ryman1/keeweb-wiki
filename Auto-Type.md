@@ -27,8 +27,8 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 
 ## Substitutions
 
-`{TITLE}` `{USERNAME}` `{URL}` `{PASSWORD}` `{NOTES}` `{GROUP}` `{HMACOTP}`  
-`{S:Custom Field Name}`  
+`{TITLE}` `{USERNAME}` `{URL}` `{PASSWORD}` `{NOTES}` `{GROUP}`  
+`{HMACOTP}` `{S:Custom Field Name}`  
 `{DT_SIMPLE}` `{DT_YEAR}` `{DT_MONTH}` `{DT_DAY}` `{DT_HOUR}` `{DT_MINUTE}` `{DT_SECOND}`  
 `{DT_UTC_SIMPLE}` `{DT_UTC_YEAR}` `{DT_UTC_MONTH}` `{DT_UTC_DAY}` `{DT_UTC_HOUR}` `{DT_UTC_MINUTE}` `{DT_UTC_SECOND}`  
 
@@ -51,5 +51,6 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 `{%ENVVAR%}` `{ENV_DIRSEP}` `{ENV_PROGRAMFILES_X86}` `{APPDIR}`  
 `{INTERNETEXPLORER}` `{FIREFOX}` `{OPERA}` `{GOOGLECHROME}` `{SAFARI}`  
 `{PICKCHARS}` `{PICKCHARS:*}` `{NEWPASSWORD}` `{NEWPASSWORD:*}` `{PASSWORD_ENC}` `{BEEP *}`  
+`{HMACOTP}`  
 `{APPACTIVATE WindowTitle}`  
 `{GROUP_PATH}` `{GROUP_NOTES}` `{DB_PATH}` `{DB_DIR}` `{DB_NAME}` `{DB_BASENAME}` `{DB_EXT}`  
