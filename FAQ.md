@@ -61,10 +61,11 @@ A: No. They are not cross-platform and depend on KeePass libs. But I'm planning 
 
 Q: When my issue will be fixed?  
 A: There's Milestone field. Possible values:
-- vN.M.X: in the upcoming hotfix to currently published version  
-- vN.M: in the next release N.M, according to the [roadmap](TODO)  
-- vN.X: in some release after current release  
+- vN.M.X: in the upcoming hotfix to currently published version
+- vN.M: in the next release N.M, according to the [roadmap](TODO)
+- vN.X: in some release after current release
 - Future: I don't know, maybe never
+If the issue is assigned, this means that it's already implemented and you can test it on [beta.keeweb.info](https://beta.keeweb.info)  
 
 Q: I want a feature.  
 A: You can [either open a feature request](https://github.com/antelle/keeweb/issues/new?title=[Feature%20request]%20), or sumbit a pullreq with it (but please, contact the author first, because I have strong opinion against some features, e.g. entry background color).  
