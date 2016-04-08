@@ -61,7 +61,7 @@ A: No. They are not cross-platform and depend on KeePass libs. But I'm planning 
 
 Q: When my issue will be fixed?  
 A: Please check the Milestone field for this issue. Possible values:
-- vN.M.X: in the upcoming hotfix to currently published version
+- vN.M.X: in the upcoming hotfix for currently published version
 - vN.M: in vN.M release, according to the [roadmap](TODO)
 - vN.X: in some release after current release
 - Future: I don't know, maybe never
