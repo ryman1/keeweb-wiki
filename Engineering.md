@@ -1,13 +1,13 @@
 Pending tasks and unsolved problems
 - [ ] use new electron-builder.build :boom: :bomb: :rocket:   
 - [ ] implement updating electron if it's too old but don't download it on each update :bomb: 
-- [ ] load auto-update manifest for app domain :bomb:
-- [ ] improve mobile detection: window.orientation may break 
-- [ ] check signatures in web version when it's possible
+- [ ] load auto-update manifest for app domain :imp:
+- [ ] improve mobile detection: window.orientation may break :imp:
+- [ ] check signatures in web version when it's possible 
 - [ ] remove dropbox lib and use v2 endpoints
 - [ ] subscribe to notifications from storages
-- [ ] make desktop build passing not only on mac
-- [ ] setup ci
+- [ ] make desktop build passing not only on mac :rage: 
+- [ ] setup ci 
 - [ ] replace jshint with eslint
 - [ ] lint html and scss
 - [ ] replace iconic font with svg
