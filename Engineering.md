@@ -1,6 +1,7 @@
 Pending tasks and unsolved problems
 - [ ] use new electron-builder.build :boom: :bomb: :rocket:   
 - [ ] implement updating electron if it's too old but don't download it on each update :bomb: 
+- [ ] load auto-update manifest for app domain :bomb:
 - [ ] improve mobile detection: window.orientation may break 
 - [ ] check signatures in web version when it's possible
 - [ ] remove dropbox lib and use v2 endpoints
