@@ -6,7 +6,6 @@ Auto-Type will be available in v1.2. If you have any comments, please let me kno
 
 Auto-Type is available for all desktop platforms.  
 On Linux, xdotool installation is required: `sudo apt-get install xdotool`.  
-On Mac OS X, to get title of active window, you could add an app to assistive access.  
 
 # Supported
 
