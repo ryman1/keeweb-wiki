@@ -16,5 +16,5 @@ var value = kwSettings.get('setting');
 kwSettings.set('setting', value);
 kwSettings.set({ setting: value });
 ```
-Values you set here are saved and applied immediately.  
+Values you set here are saved and applied immediately. Please be careful.  
 You can call these methods from dev console.
