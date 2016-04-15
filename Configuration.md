@@ -14,7 +14,6 @@ There's an interface for accessing app settings from [this list](https://github.
 ```javascript
 var value = kwSettings.get('setting');
 kwSettings.set('setting', value);
-// which is equal to 
 kwSettings.set({ setting: value });
 ```
 You can call these methods from dev console.
