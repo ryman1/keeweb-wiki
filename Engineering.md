@@ -1,5 +1,4 @@
 Pending tasks and unsolved problems
-- [ ] use new electron-builder.build (done, switch deb as well) :boom: :bomb: :rocket:   
 - [ ] implement updating electron if it's too old but don't download it on each update :bomb: 
 - [ ] load auto-update manifest for app domain :imp:
 - [ ] improve mobile detection: window.orientation may break :imp:
