@@ -5,7 +5,7 @@ Jun..Jul 2016
 - [x] file type associations
 - [ ] master key policy
 - [ ] customizable table view
-- [ ] rename tags
+- [x] rename tags
 - [ ] select file for new records
 - [ ] optional offline
 
