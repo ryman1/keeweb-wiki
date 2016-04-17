@@ -3,7 +3,6 @@ You can preview completed features on dev build [beta.keeweb.info](https://beta.
 Jun..Jul 2016
 - [ ] auto-type for desktop
 - [x] file type associations
-- [ ] group reorder
 - [ ] master key policy
 - [ ] customizable table view
 - [ ] rename tags
@@ -21,6 +20,7 @@ Q3 2016
 - [ ] drag entries across files
 - [ ] print/share
 - [ ] context menu
+- [ ] group reorder
 
 ## Future
 - [ ] i18n
