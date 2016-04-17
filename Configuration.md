@@ -13,8 +13,8 @@ You can also specify the file which you would like to open as the last argument:
 There's an interface for accessing app settings from [this list](https://github.com/antelle/keeweb/blob/master/app/scripts/models/app-settings-model.js#L8):
 ```javascript
 var value = kwSettings.get('setting');
-kwSettings.set('setting', value);
-kwSettings.set({ setting: value });
+kw.settings.set('setting', value);
+kw.settings.set({ setting: value });
 ```
 Values you set here are saved and applied immediately. Please be careful.  
 You can call these methods from dev console.
