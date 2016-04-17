@@ -2,7 +2,7 @@ You can preview completed features on dev build [beta.keeweb.info](https://beta.
 ## v1.2
 Jun..Jul 2016
 - [ ] auto-type for desktop
-- [ ] file type associations
+- [x] file type associations
 - [ ] group reorder
 - [ ] master key policy
 - [ ] customizable table view
