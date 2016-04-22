@@ -21,11 +21,11 @@ Q3 2016
 - [ ] print/share
 - [ ] context menu
 - [ ] group reorder
+- [ ] custom generator templates
 
 ## Future
 - [ ] i18n
 - [ ] import csv
-- [ ] custom generator templates
 - [ ] mobile apps
 - [ ] user themes
 - [ ] plugins
