@@ -25,6 +25,7 @@ Q3 2016
 ## Future
 - [ ] i18n
 - [ ] import csv
+- [ ] custom generator templates
 - [ ] mobile apps
 - [ ] user themes
 - [ ] plugins
