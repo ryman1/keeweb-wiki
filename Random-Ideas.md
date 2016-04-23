@@ -5,3 +5,4 @@ Issues which need investigation or are hard in some aspect.
 - unlock on secure Desktop
 - external crypto devices support
 - secure inputs with value xored in memory
+- ownCloud app
