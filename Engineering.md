@@ -1,6 +1,5 @@
 Pending tasks and unsolved problems
 - [ ] implement updating electron if it's too old but don't download it on each update :bomb: 
-- [ ] load auto-update manifest for app domain :imp:
 - [ ] improve mobile detection: window.orientation may break :imp:
 - [ ] check signatures in web version when it's possible 
 - [ ] remove dropbox lib and use v2 endpoints
