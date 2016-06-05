@@ -6,7 +6,7 @@ Jun..Jul 2016
 - [ ] master key policy
 - [ ] customizable table view
 - [x] rename tags
-- [ ] select file for new records
+- [x] select file for new records
 - [x] don't cache local files
 
 ## v1.3
