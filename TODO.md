@@ -7,7 +7,7 @@ Jun..Jul 2016
 - [ ] customizable table view
 - [x] rename tags
 - [ ] select file for new records
-- [ ] don't cache local files
+- [x] don't cache local files
 
 ## v1.3
 Q3 2016
