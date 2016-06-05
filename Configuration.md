@@ -10,7 +10,7 @@ You can also specify the file which you would like to open as the last argument:
 
 # Advanced app settings
 
-There's an interface for accessing app settings from [this list](https://github.com/antelle/keeweb/blob/master/app/scripts/models/app-settings-model.js#L8):
+There's an interface for accessing app settings from [this list](https://github.com/keeweb/keeweb/blob/master/app/scripts/models/app-settings-model.js#L8):
 ```javascript
 var value = kw.settings.get('setting');
 var allSettings = kw.settings.get();
