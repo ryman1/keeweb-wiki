@@ -4,7 +4,7 @@ Jun..Jul 2016
 - [ ] auto-type for desktop
 - [x] file type associations
 - [ ] master key policy
-- [ ] customizable table view
+- [x] customizable table view
 - [x] rename tags
 - [x] select file for new records
 - [x] don't cache local files
