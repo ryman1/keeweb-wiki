@@ -71,5 +71,5 @@ If the issue is assigned, this means that it's already implemented and you can t
 Q: I want a feature.  
 A: You can [either open a feature request](https://github.com/keeweb/keeweb/issues/new?title=[Feature%20request]%20), or sumbit a pullreq with it (but please, contact the author first, because I have strong opinion against some features, e.g. entry background color).  
 
-Q: The feature I want is very strange, or useful for me only, or conflicts with author's product vision or roadmap, and I'm ready to pay for it.  
+Q: The feature I want is very strange, or useful for me only, or conflicts with author's product vision or roadmap, and I'm ready to pay for it (the price will be high; expected requests are corporate features, enterprise customisation an so on, and not _plz make this feature faster for a cup of coffee_).  
 A: Please, [contact](http://antelle.net/) the author.  
