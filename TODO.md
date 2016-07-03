@@ -1,6 +1,6 @@
 You can preview completed features on dev build [beta.keeweb.info](https://beta.keeweb.info).
 ## v1.2
-Jun..Jul 2016
+Jul 2016
 - [ ] auto-type for desktop
 - [x] file type associations
 - [x] master key policy
