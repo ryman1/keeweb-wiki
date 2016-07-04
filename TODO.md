@@ -12,6 +12,7 @@ Jul 2016
 ## v1.3
 Q3 2016
 - [ ] audit
+- [ ] auto-type improvements
 - [ ] auto-backups
 - [ ] context menu
 - [ ] group reorder
