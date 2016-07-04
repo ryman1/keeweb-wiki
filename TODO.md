@@ -12,16 +12,18 @@ Jul 2016
 ## v1.3
 Q3 2016
 - [ ] audit
-- [ ] keepasshttp
-- [ ] entry templates
-- [ ] bulk operations
 - [ ] auto-backups
-- [ ] chromeos support
-- [ ] drag entries across files
-- [ ] print/share
 - [ ] context menu
 - [ ] group reorder
 - [ ] custom generator templates
+
+## v1.4
+- [ ] keepasshttp
+- [ ] entry templates
+- [ ] bulk operations
+- [ ] chromeos support
+- [ ] drag entries across files
+- [ ] print/share
 
 ## Future
 - [ ] i18n
