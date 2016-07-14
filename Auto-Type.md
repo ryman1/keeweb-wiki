@@ -32,7 +32,7 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 
 ## Commands
 
-`{DELAY X}` `{DELAY=X}` `{CLEARFIELD}` `{VKEY X}`
+`{DELAY X}` `{CLEARFIELD}` `{VKEY X}`
 
 ## Combinations
 
