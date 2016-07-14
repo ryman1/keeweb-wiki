@@ -43,8 +43,8 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 # Not supported
 
 `{CAPSLOCK}` `{NUMLOCK}` `{SCROLLLOCK}` `{APPS}` `{HELP}` `{PRTSC}` `{BREAK}`  
+`{DELAY=X}`  
 `{VKEY-NX *}` `{VKEY-EX *}`  
-`{DELAY=X}`
 `{REF:*}` `{T-REPLACE-RX:*}` `{T-CONV:*}`  
 `{BASE}` `{BASE:*}` `{URL:*}`  
 `{%ENVVAR%}` `{ENV_DIRSEP}` `{ENV_PROGRAMFILES_X86}` `{APPDIR}`  
