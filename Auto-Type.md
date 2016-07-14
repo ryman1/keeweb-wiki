@@ -44,6 +44,7 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 
 `{CAPSLOCK}` `{NUMLOCK}` `{SCROLLLOCK}` `{APPS}` `{HELP}` `{PRTSC}` `{BREAK}`  
 `{VKEY-NX *}` `{VKEY-EX *}`  
+`{DELAY=X}`
 `{REF:*}` `{T-REPLACE-RX:*}` `{T-CONV:*}`  
 `{BASE}` `{BASE:*}` `{URL:*}`  
 `{%ENVVAR%}` `{ENV_DIRSEP}` `{ENV_PROGRAMFILES_X86}` `{APPDIR}`  
