@@ -11,7 +11,9 @@ You can also specify the file which you would like to open as the last argument:
 # JSON app config
 
 The app can load settings from JSON config located on your server. To load it, add `config` url parameter:  
-`https://your-keeweb-deployment-url/?config=your-config.json`
+```
+https://your-keeweb-deployment-url/?config=your-config.json
+```
 Contents of this config must be a valid JSON file with keys from [app settings](https://github.com/keeweb/keeweb/blob/master/app/scripts/models/app-settings-model.js#L7).
 
 # App settings js API
