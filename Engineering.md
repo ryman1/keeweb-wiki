@@ -3,7 +3,6 @@ Pending tasks and unsolved problems
 - [ ] improve mobile detection: window.orientation may break :imp:
 - [ ] check signatures in web version when it's possible 
 - [ ] remove dropbox lib and use v2 endpoints
-- [ ] subscribe to notifications from storages
 - [ ] setup ci 
 - [ ] replace jshint with eslint
 - [ ] lint html and scss 
