@@ -14,7 +14,8 @@ The app can load settings from JSON config located on your server. To load it, a
 ```
 https://your-keeweb-deployment-url/?config=your-config.json
 ```
-Contents of this config must be a valid JSON file with keys from [app settings](https://github.com/keeweb/keeweb/blob/master/app/scripts/models/app-settings-model.js#L7).
+Contents of this config must be a valid JSON file with keys from [app settings](https://github.com/keeweb/keeweb/blob/master/app/scripts/models/app-settings-model.js#L7).  
+Once loaded, they are saved to local storage, so the users will not have to add `config` url parameter every time they use the app.
 
 # App settings js API
 
