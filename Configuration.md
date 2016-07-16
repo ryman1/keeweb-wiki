@@ -10,7 +10,7 @@ You can also specify the file which you would like to open as the last argument:
 
 # JSON app config
 
-The web app can load settings from JSON config located on your server. To load it, add `config` url parameter:  
+The webapp can load settings from JSON config located on your server. To load it, add `config` url parameter:  
 ```
 https://your-keeweb-deployment-url/?config=your-config.json
 ```
