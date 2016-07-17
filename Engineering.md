@@ -3,7 +3,5 @@ Pending tasks and unsolved problems
 - [ ] improve mobile detection: window.orientation may break :imp:
 - [ ] remove dropbox lib and use v2 endpoints 💣 
 - [ ] setup ci 
-- [ ] replace jshint with eslint
-- [ ] lint html and scss 
 - [ ] find out why using zepto instead of jquery [affects performance](https://github.com/madrobby/zepto/issues/1169)
 - [ ] create auto-tests :crying_cat_face: :scream_cat: 
