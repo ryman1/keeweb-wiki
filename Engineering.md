@@ -3,4 +3,4 @@ Pending tasks and unsolved problems
 - [ ] improve mobile detection: window.orientation may break 👿 
 - [ ] implement updating electron if it's too old but don't download it on each update 
 - [ ] setup ci 
-- [ ] create auto-tests :crying_cat_face: :scream_cat: 
+- [ ] create auto-tests 😿 🙀  
