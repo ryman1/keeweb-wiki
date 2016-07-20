@@ -5,5 +5,4 @@ Pending tasks and unsolved problems
 
 v1.3:
 - [ ] check app instance while installing
-- [ ] uninstall old installation from AppData
 - [ ] sign executables and uninstaller
