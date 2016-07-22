@@ -1,5 +1,7 @@
 ## v1.3
 Q3 2016
+- [x] signed build for Windows
+- [x] nsis installer
 - [ ] audit
 - [ ] auto-type improvements
 - [ ] auto-backups
