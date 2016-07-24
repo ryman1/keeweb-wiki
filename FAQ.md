@@ -53,7 +53,7 @@ Q: Which server should I use?
 A: Any static server (nginx, apache, IIS, ...). The app is single HTML file which is executed in browser. [Here](https://github.com/keeweb/keeweb#self-hosting) you will find some useful tips about self-hosting.  
 
 Q: Is it possible to use Dropbox in self-hosted version?  
-A: [Yes](https://github.com/keeweb/keeweb/issues/19#issuecomment-154710697) but you have to create your own Dropbox app.  
+A: Yes but you have to create your own Dropbox app.  
 
 ### Features
 Q: Will KeePass plugins be ever supported?  
