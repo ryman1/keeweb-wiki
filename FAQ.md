@@ -25,7 +25,7 @@ A: There's no malware inside. Mac code is not signed because it costs $100 (this
 Q: Does it have any protection from trojans or key loggers?  
 A: No. As any password manager. No app can have protection against targeted malware running with superuser privileges (which is typical for malware). Don't believe in bullshit and don't use password managers if it's common for you to clean out trojans from your computer during an antivirus check.  
 
-Q: I have forgot my password or lost a keyfile or password.  
+Q: I have forgot my password or lost a keyfile.  
 A: There's no way to restore. All your data is encrypted with your password and stored inside kdbx on your computer.  
 
 ### Sync
