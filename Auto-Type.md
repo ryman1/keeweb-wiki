@@ -1,5 +1,3 @@
-Auto-Type will be available in v1.2. If you have any comments, please let me know.  
-
 # Requirements
 
 Auto-Type is available for all desktop platforms.  
