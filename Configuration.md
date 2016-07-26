@@ -17,6 +17,8 @@ https://your-keeweb-deployment-url/?config=your-config.json
 Contents of this config must be a valid JSON file with keys from [app settings](https://github.com/keeweb/keeweb/blob/master/app/scripts/models/app-settings-model.js#L7).  
 Once loaded, settings are saved to local storage, so the users will not have to add `config` url parameter every time they use the app.
 
+To load config by default, without modifying app url, you can set your config location in `kw-config` meta tag inside html: `<meta name="kw-config" content="your-config.json">`.
+
 # App settings js API
 
 There's an interface for accessing app settings from [this list](https://github.com/keeweb/keeweb/blob/master/app/scripts/models/app-settings-model.js#L8):
