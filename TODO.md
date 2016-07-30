@@ -5,7 +5,7 @@ Q3 2016
 - [ ] audit
 - [ ] auto-type improvements
 - [ ] auto-backups
-- [ ] context menu
+- [x] context menu
 - [ ] group reorder
 - [ ] custom generator templates
 
