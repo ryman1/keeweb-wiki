@@ -6,7 +6,7 @@ Q3 2016
 - [ ] auto-type improvements
 - [ ] auto-backups
 - [x] context menu
-- [ ] group reorder
+- [x] group reorder
 - [ ] custom generator templates
 
 ## v1.4
