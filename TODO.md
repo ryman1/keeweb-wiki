@@ -3,7 +3,7 @@ Q3 2016
 - [x] signed build for Windows
 - [x] nsis installer
 - [ ] audit
-- [ ] auto-type improvements
+- [x] auto-type improvements
 - [ ] auto-backups
 - [x] context menu
 - [x] group reorder
