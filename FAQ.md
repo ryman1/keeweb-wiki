@@ -69,7 +69,7 @@ A: Please check the Milestone field for this issue. Possible values:
 If the issue is assigned, this means that it's already implemented and you can test it on [beta.keeweb.info](https://beta.keeweb.info)  
 
 Q: I want a feature.  
-A: You can [either open a feature request](https://github.com/keeweb/keeweb/issues/new?title=[Feature%20request]%20), or sumbit a pullreq with it (but please, contact the author first, because I have strong opinion against some features, e.g. entry background color).  
+A: You can [either open a feature request](https://github.com/keeweb/keeweb/issues/new?title=[Feature%20request]%20), or submit a pullreq with it (but please, contact the author first, because I have strong opinion against some features, e.g. entry background color).  
 
 Q: The feature I want is very strange, or useful for me only, or conflicts with author's product vision or roadmap, and I'm ready to pay for it.  
 A: Please, [contact](http://antelle.net/) the author (please note, the price will be high; expected requests are corporate features, enterprise customisation, private installations an so on, and not _plz make this feature faster for a cup of coffee_).  
