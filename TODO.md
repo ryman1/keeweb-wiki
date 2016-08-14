@@ -7,7 +7,7 @@ Q3 2016
 - [ ] auto-backups
 - [x] context menu
 - [x] group reorder
-- [ ] custom generator templates
+- [x] generator presets
 
 ## v1.4
 - [ ] keepasshttp
