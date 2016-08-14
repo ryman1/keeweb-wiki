@@ -28,4 +28,4 @@ if ($request_method = 'OPTIONS') {
 }
 ```
 
-❗ Please note: OPTIONS request must work **without** authorization.
+❗ OPTIONS request must work **without** authorization.
