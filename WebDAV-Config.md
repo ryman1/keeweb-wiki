@@ -1,4 +1,8 @@
-To use WebDAV-located file from web app, CORS must be enabled on your server. Here's an example of config:
+To use WebDAV-located file from web app, CORS must be enabled on your server.
+
+❗ OPTIONS request must work **without** authorization.
+
+Here's an example of config:
 
 For Apache:
 ```
@@ -27,5 +31,3 @@ if ($request_method = 'OPTIONS') {
     return 204;
 }
 ```
-
-❗ OPTIONS request must work **without** authorization.
