@@ -4,7 +4,7 @@ Q3 2016
 - [x] nsis installer
 - [ ] audit
 - [x] auto-type improvements
-- [ ] auto-backups
+- [x] auto-backups
 - [x] context menu
 - [x] group reorder
 - [x] generator presets
