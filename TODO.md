@@ -8,6 +8,7 @@ Q3 2016
 - [x] context menu
 - [x] group reorder
 - [x] generator presets
+- [x] translations
 
 ## v1.4
 - [ ] keepasshttp
@@ -18,7 +19,6 @@ Q3 2016
 - [ ] print/share
 
 ## Future
-- [ ] i18n
 - [ ] import csv
 - [ ] mobile apps
 - [ ] user themes
