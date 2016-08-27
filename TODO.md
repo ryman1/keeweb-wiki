@@ -10,8 +10,8 @@ Q3 2016
 - [x] generator presets
 - [x] translations
 
-## v1.4
-- [ ] KDBX4 (new KeePass format) ⚠️ 
+## v1.4 ⚠️
+- [ ] KDBX4 (new KeePass format) 
 
 ## v1.5
 - [ ] keepasshttp
