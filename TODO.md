@@ -7,7 +7,6 @@
 - [ ] entry templates
 - [ ] bulk operations
 - [ ] chromeos support
-- [ ] drag entries across files
 - [ ] print/share
 
 ## Future
