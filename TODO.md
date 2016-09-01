@@ -2,7 +2,6 @@
 Q3 2016
 - [x] signed build for Windows
 - [x] nsis installer
-- [ ] audit
 - [x] auto-type improvements
 - [x] auto-backups
 - [x] context menu
@@ -12,6 +11,7 @@ Q3 2016
 
 ## v1.4 ⚠️
 - [ ] KDBX4 (new KeePass format) 
+- [ ] audit
 
 ## v1.5
 - [ ] keepasshttp
