@@ -6,7 +6,7 @@ Web:
 
 Desktop:
 - Windows 7
-- Mac OS X 10.8 Mountain Lion
+- Mac OS X 10.9 Mavericks
 - Linux Ubuntu 12, Debian 8, Fedora 21
 
 Mobile:
