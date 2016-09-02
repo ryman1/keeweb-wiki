@@ -1,7 +1,7 @@
 ## v1.4
 - [ ] KDBX4 (new KeePass format) ⚠️  
 - [ ] audit
-- ? (depending on KeePass release schedule)
+- [ ] ❓ (depending on KeePass release schedule)
 
 ## v1.5
 - [ ] keepasshttp
