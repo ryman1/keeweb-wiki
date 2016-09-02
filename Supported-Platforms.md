@@ -2,7 +2,7 @@ Web:
 - Chrome Stable
 - Firefox Stable
 - Safari 8
-- IE11, Edge12
+- Edge 14
 
 Desktop:
 - Windows 7
