@@ -4,7 +4,6 @@
 - [ ] ❓ (depending on KeePass release schedule)
 
 ## v1.5
-- [ ] keepasshttp
 - [ ] entry templates
 - [ ] bulk operations
 - [ ] chromeos support
