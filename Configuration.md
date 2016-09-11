@@ -35,8 +35,8 @@ Config fields description:
     "skipHttpsWarning": false, // don't show insecure http connection warning
     "demoOpened": false, // think that demo has already been opened, hide Demo button inside More
     "fontSize": 0, // global font size, possible options: 0, 1, 2
-    "tableViewColumns": null, // columns inside table view (complex option)
-    "generatorPresets": null, // user-defined generator presets (complex option)
+    "tableViewColumns": null, // columns inside table view (complex option, use with care)
+    "generatorPresets": null, // user-defined generator presets (complex option, use with care)
 
     "canOpen": true, // show Open button
     "canOpenDemo": true, // show Demo button
