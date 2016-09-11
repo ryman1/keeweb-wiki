@@ -60,7 +60,7 @@ Config fields description:
     "storage": "webdav", // dropbox, webdav, etc...
     "name": "", // file name, as it will be displayed in UI
     "path": "", // full path to file, including file name, e.g. WebDAV url
-    "options": { "user": "", "password": "" } // only for WebDAV
+    "options": { "user": "", "password": "" } // only for WebDAV, server auth details
   }]
 }
 ```
