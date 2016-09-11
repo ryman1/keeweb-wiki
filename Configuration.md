@@ -56,7 +56,7 @@ Config fields description:
     "onedrive": true, // enable OneDrive
     "onedriveClientId": null // custom client id
   },
-  "files": [{ // pre-defined files which will appear on Open page
+  "files": [{ // pre-defined files that will appear on Open page
     "storage": "webdav", // dropbox, webdav, etc...
     "name": "", // file name, as it will be displayed in UI
     "path": "", // full path to file, including file name, e.g. WebDAV url
