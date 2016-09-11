@@ -30,7 +30,7 @@ Config fields description:
     "tableView": false, // view entries as table, instead of list
     "colorfulIcons": false, // use colorful custom icons, instead of grayscale
     "lockOnCopy": false, // lock app on password copy
-    "skipOpenLocalWarn": false, // don't show warning on opening local files
+    "skipOpenLocalWarn": false, // don't show warning for local files
     "hideEmptyFields": false, // hide empty entry fields
     "skipHttpsWarning": false, // don't show insecure http connection warning
     "demoOpened": false, // think that demo has already been opened, hide button inside More
