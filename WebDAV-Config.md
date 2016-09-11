@@ -7,7 +7,7 @@ Here's an example of config:
 For Apache:
 ```
 Header always set Access-Control-Allow-Origin "*"
-Header always set Access-Control-Allow-Headers "origin, content-type, accept, authorization, if-match, destination, overwrite"
+Header always set Access-Control-Allow-Headers "origin, content-type, cache-control, accept, authorization, if-match, destination, overwrite"
 Header always set Access-Control-Expose-Headers "ETag"
 Header always set Access-Control-Allow-Methods "GET, HEAD, POST, PUT, OPTIONS, MOVE, DELETE, COPY, LOCK, UNLOCK"
 Header always set Access-Control-Allow-Credentials "true"
