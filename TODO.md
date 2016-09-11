@@ -9,8 +9,9 @@
 - [ ] chromeos support
 - [ ] print/share
 
-## Future
-- [ ] import csv
-- [ ] mobile apps
+## v1.6
 - [ ] user themes
 - [ ] plugins
+
+## Future
+- [ ] import csv
