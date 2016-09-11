@@ -48,6 +48,9 @@ A: No.
 Q: How to use proxy server for this app?  
 A: The app will use proxy settings from system-wide config. If you want to use custom setting for this app, start it with `--proxy-server` command-line switch.  
 
+Q: Are desktop updates secure?  
+A: Yes, updates are delivered only via HTTPS and checked for a valid signature before unpacking.  
+
 ### Self-hosting
 Q: Which server should I use?  
 A: Any static server (nginx, apache, IIS, ...). The app is single HTML file which is executed in browser. [Here](https://github.com/keeweb/keeweb#self-hosting) you will find some useful tips about self-hosting.  
