@@ -14,6 +14,57 @@ The webapp can load settings from JSON config ([here's an example config](https:
 - add `config` url parameter: `https://your-keeweb-deployment-url/?config=your-config.json`
 - set `kw-config` meta-tag value: replace `(no-config)` string in app index.html with your config url
 
+Config fields description:
+```javascript
+{
+  "settings": {
+    "theme": "fb", // UI theme, possible values: fb (flat blue), wh (white), hc (high contrast) and other
+    "expandGroups": true, // show entries from all subgroups
+    "listViewWidth": null, // list view width
+    "menuViewWidth": null, // left menu width
+    "tagsViewHeight": null, // tags menu section height
+    "autoUpdate": "install", // auto-update options: "install", "check", ""
+    "autoSave": true, // auto-save open files
+    "rememberKeyFiles": false, // remember keyfiles selected on Open page
+    "idleMinutes": 15, // app lock timeout after inactivity
+    "tableView": false, // view entries as table, instead of list
+    "colorfulIcons": false, // use colorful custom icons, instead of grayscale
+    "lockOnCopy": false, // lock app on password copy
+    "skipOpenLocalWarn": false, // don't show warning on opening local files
+    "hideEmptyFields": false, // hide empty entry fields
+    "skipHttpsWarning": false, // don't show insecure http connection warning
+    "demoOpened": false, // think that demo has already been opened, hide button inside More
+    "fontSize": 0, // global font size, possible options: 0, 1, 2
+    "tableViewColumns": null, // columns inside table view (complex option)
+    "generatorPresets": null, // user-defined generator presets (complex option)
+
+    "canOpen": true, // show Open button
+    "canOpenDemo": true, // show Demo button
+    "canOpenSettings": true, // show Settings button
+    "canCreate": true, // show Create button
+    "canImportXml": true, // show Import XML button
+
+    "dropbox": true, // enable Dropbox
+    "dropboxFolder": null, // default folder path
+    "dropboxAppKey": null, // custom app key
+
+    "webdav": true, // enable WebDAV
+
+    "gdrive": true, // enable Google Drive
+    "gdriveClientId": null, // custom client id
+
+    "onedrive": true, // enable OneDrive
+    "onedriveClientId": null // custom client id
+  },
+  "files": [{ // pre-defined files which will appear on Open page
+    "storage": "webdav", // dropbox, webdav, etc...
+    "name": "", // file name
+    "path": "", // path to file
+    "options": { "user": "", "password": "" } // only for WebDAV
+  }]
+}
+```
+
 # App settings js API
 
 There's an interface for accessing app settings from [this list](https://github.com/keeweb/keeweb/blob/master/app/scripts/models/app-settings-model.js#L8):
