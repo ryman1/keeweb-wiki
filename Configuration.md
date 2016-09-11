@@ -58,8 +58,8 @@ Config fields description:
   },
   "files": [{ // pre-defined files which will appear on Open page
     "storage": "webdav", // dropbox, webdav, etc...
-    "name": "", // file name
-    "path": "", // path to file
+    "name": "", // file name, as it will be displayed in UI
+    "path": "", // full path to file, including file name, e.g. WebDAV url
     "options": { "user": "", "password": "" } // only for WebDAV
   }]
 }
