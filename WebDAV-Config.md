@@ -34,7 +34,7 @@ if ($request_method = 'OPTIONS') {
 
 ## Custom certificates
 
-If your WebDAV server is using a self-signed ir invalid certificate, you can add it to KeeWeb using this command:
+If your WebDAV server is using a self-signed or invalid certificate, you can add it to KeeWeb using this command:
 ```bash
 certutil -d sql:$HOME/.pki/nssdb -A -t TC -n "my_domain.lan" -i ~/ca.crt
 ```
