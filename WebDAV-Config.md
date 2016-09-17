@@ -2,7 +2,7 @@ To load a WebDAV-located file from the web app, CORS must be enabled on your ser
 
 ❗ OPTIONS request must work **without** authorization.
 
-Here's an example of config:
+Here's a config example:
 
 For Apache:
 ```
