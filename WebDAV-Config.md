@@ -34,7 +34,7 @@ if ($request_method = 'OPTIONS') {
 
 ## Custom certificates
 
-If your WebDAV server is using a self-signed or invalid certificate, you can use this command to open files in KeeWeb:
+If your WebDAV server is using a self-signed or invalid certificate, you can use this command to open files in KeeWeb desktop app:
 ```bash
 certutil -d sql:$HOME/.pki/nssdb -A -t TC -n "my_domain.lan" -i ~/ca.crt
 ```
