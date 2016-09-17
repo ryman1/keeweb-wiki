@@ -1,4 +1,4 @@
-To use WebDAV-located file from web app, CORS must be enabled on your server.
+To load a WebDAV-located file from the web app, CORS must be enabled on your server.
 
 ❗ OPTIONS request must work **without** authorization.
 
