@@ -14,11 +14,12 @@ The webapp can load settings from JSON config ([here's an example config](https:
 - add `config` url parameter: `https://your-keeweb-deployment-url/?config=your-config.json`
 - set `kw-config` meta-tag value: replace `(no-config)` string in app index.html with your config url
 
-Config fields description:
+Config fields description (all fields are optional):
 ```javascript
 {
   "settings": {
     "theme": "fb", // UI theme, possible values: fb (flat blue), wh (white), hc (high contrast) and other
+    "locale": "en", // language
     "expandGroups": true, // show entries from all subgroups
     "listViewWidth": null, // list view width
     "menuViewWidth": null, // left menu width
