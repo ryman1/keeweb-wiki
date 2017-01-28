@@ -1,7 +1,7 @@
 Web:
 - Chrome Stable
 - Firefox Stable
-- Safari 8
+- Safari 9
 - Edge 14
 
 Desktop:
