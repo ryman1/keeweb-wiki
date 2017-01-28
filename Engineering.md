@@ -4,4 +4,3 @@ Pending tasks and unsolved problems
 - [ ] beta channel for desktop
 - [ ] externalize modules: locales, auto-type 
 - [ ] make Launcher abstract and replaceable
-- [ ] ci 
