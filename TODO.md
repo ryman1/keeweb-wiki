@@ -11,6 +11,3 @@
 ## v1.6
 - [ ] user themes
 - [ ] plugins
-
-## Future
-- [ ] import csv
