@@ -30,7 +30,7 @@
 
 ### Final check
 
-1. go to [app.keeweb.info](https://app.keeweb.info), wait for updater, refresh it and check app version
+1. go to [app.keeweb.info](https://app.keeweb.info), wait for updater, refresh the page and check app version
 2. update desktop apps and check versions
 3. install new desktop build and check its version
 4. check updates in desktop build, make sure it's the latest version
