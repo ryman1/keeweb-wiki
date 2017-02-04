@@ -20,10 +20,20 @@ Release
 9. upload desktop builds from `dist/desktop` and save the draft
 10. add signed git tag `vX.Y.Z`
 11. refresh release draft page, set tag to `vX.Y.Z` and save draft
-12. ❗️ this is the last point to abort
-12. push `master` with tags &rarr; ⚠️ all pending issues are now closed
-13. publish saved release draft &rarr; ⚠️ at this point, users can download this release
-14. push `gh-pages` &rarr; ⚠️ the software becomes available online and for auto-update
+
+Publish
+
+❗️ you cannot abort the build after one of steps below
+
+1. push `master` with tags
+
+   &rarr; all pending issues are now closed
+2. publish saved release draft
+
+   &rarr; at this point, users can download this release
+3. push `gh-pages`
+
+   &rarr; the software becomes available online and for auto-update
 
 Final check
 
