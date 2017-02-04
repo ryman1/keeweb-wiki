@@ -43,6 +43,6 @@
 ### Major releases
 
 1. delete previous release branch, create branch `release-X.Y`
-2. [release milestones](https://github.com/keeweb/keeweb/milestones): close `vPrevious`, create `vX.Y.x` and `vNext`
+2. [milestones](https://github.com/keeweb/keeweb/milestones): close `vPrevious`, create `vX.Y.x` and `vNext`
 3. delete the release from [TODO](https://github.com/keeweb/keeweb/wiki/TODO)
 4. spread the world
