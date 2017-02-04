@@ -23,7 +23,7 @@
 #### ⚠️ you cannot abort the release after any of steps below
 
 1. push `master` with tags &rarr; all pending issues are now closed
-2. set release draft tag to `vX.Y.Z` and publish it &rarr; at this point, users can download this release
+2. publish the release with tag `vX.Y.Z` &rarr; at this point, users can download this release
 3. push `gh-pages` &rarr; the software becomes available online and for auto-update
 4. [rebuild docker image](https://hub.docker.com/r/antelle/keeweb/~/settings/automated-builds/) from tag `vX.Y.Z`
 
