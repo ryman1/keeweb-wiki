@@ -17,14 +17,13 @@
 8. paste release notes there, strip trailing spaces in them, to prevent extra newlines
 9. upload desktop builds from `dist/desktop` and save the draft
 10. add signed git tag `vX.Y.Z`
-11. refresh release draft page, set tag to `vX.Y.Z` and save draft
 
 ### Publish
 
 #### ⚠️ you cannot abort the release after any of steps below
 
 1. push `master` with tags &rarr; all pending issues are now closed
-2. publish saved release draft &rarr; at this point, users can download this release
+2. set release draft tag to `vX.Y.Z` and publish it &rarr; at this point, users can download this release
 3. push `gh-pages` &rarr; the software becomes available online and for auto-update
 4. [rebuild docker image](https://hub.docker.com/r/antelle/keeweb/~/settings/automated-builds/) from tag `vX.Y.Z`
 
