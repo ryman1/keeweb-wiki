@@ -2,7 +2,7 @@ KeeWeb release procedure
 
 Prerequesties
 
-1. checkout `develop` branch
+1. checkout release or patch branch
 2. update version date in `release-notes.md`
 3. bump version with `node util/set-version.js X.Y.Z`
 4. merge `develop` into `master`
