@@ -1,13 +1,13 @@
-KeeWeb release procedure
+## KeeWeb release procedure
 
-Prerequesties
+### Prerequesties
 
 1. checkout release or patch branch
 2. update version date in `release-notes.md`
 3. bump version with `node util/set-version.js X.Y.Z`
 4. merge release branch into `master`
 
-Release
+### Release
 
 1. make sure you're on `master`
 2. install node modules: `npm i`
@@ -21,7 +21,7 @@ Release
 10. add signed git tag `vX.Y.Z`
 11. refresh release draft page, set tag to `vX.Y.Z` and save draft
 
-Publish
+### Publish
 
 ⚠️ you cannot abort the release after one of steps below
 
@@ -29,14 +29,14 @@ Publish
 2. publish saved release draft &rarr; at this point, users can download this release
 3. push `gh-pages` &rarr; the software becomes available online and for auto-update
 
-Final check
+### Final check
 
 1. go to [app.keeweb.info](https://app.keeweb.info), wait for updater, refresh it and check app version
 2. update desktop apps and check versions
 3. install new desktop build and check its version
 4. check updates in desktop build, make sure it's the latest version
 
-After release
+### After release
 
 1. merge `master` into `develop`
 2. close all fixed [issues](https://github.com/keeweb/keeweb/issues) for this milestone
