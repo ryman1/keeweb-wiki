@@ -5,7 +5,7 @@ Prerequesties
 1. checkout release or patch branch
 2. update version date in `release-notes.md`
 3. bump version with `node util/set-version.js X.Y.Z`
-4. merge `develop` into `master`
+4. merge release branch into `master`
 
 Release
 
