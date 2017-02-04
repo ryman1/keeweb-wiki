@@ -42,7 +42,7 @@
 2. close all fixed [issues](https://github.com/keeweb/keeweb/issues) for this milestone
 3. rebuild beta
 
-Major releases
+### Major releases
 
 1. delete previous release branch, create branch `release-X.Y`
 2. [release milestones](https://github.com/keeweb/keeweb/milestones): close `vPrevious`, create `vX.Y.x` and `vNext`
