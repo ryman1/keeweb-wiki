@@ -23,17 +23,11 @@ Release
 
 Publish
 
-❗️ you cannot abort the build after one of steps below
+⚠️ you cannot abort the release after one of steps below
 
-1. push `master` with tags
-
-   &rarr; all pending issues are now closed
-2. publish saved release draft
-
-   &rarr; at this point, users can download this release
-3. push `gh-pages`
-
-   &rarr; the software becomes available online and for auto-update
+1. push `master` with tags &rarr; all pending issues are now closed
+2. publish saved release draft &rarr; at this point, users can download this release
+3. push `gh-pages` &rarr; the software becomes available online and for auto-update
 
 Final check
 
