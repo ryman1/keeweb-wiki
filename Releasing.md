@@ -34,6 +34,7 @@ Final check
 After release
 
 1. merge `master` into `develop`
+2. check for open [issues](https://github.com/keeweb/keeweb/issues) by version
 
 If it's a major release
 
