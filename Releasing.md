@@ -1,5 +1,3 @@
-## KeeWeb release procedure
-
 ### Prerequesties
 
 1. checkout release or patch branch
