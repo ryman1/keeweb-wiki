@@ -36,7 +36,7 @@ After release
 1. merge `master` into `develop`
 2. check for open [issues](https://github.com/keeweb/keeweb/issues) for this version
 
-If it's a major release
+Major releases
 
 1. delete previous release branch, create branch `release-X.Y`
 2. [release milestones](https://github.com/keeweb/keeweb/milestones): close `vPrevious`, create `vX.Y.x` and `vNext`
