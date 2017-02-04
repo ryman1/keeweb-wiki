@@ -38,4 +38,4 @@ After release
 If it's a major release
 
 1. delete previous release branch, create branch `release-X.Y`
-2. create [release milestone](https://github.com/keeweb/keeweb/milestones), close previous one
+2. [release milestones](https://github.com/keeweb/keeweb/milestones): close previous, create 'vX.Y.x' and 'vNext'
