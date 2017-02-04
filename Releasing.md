@@ -35,7 +35,7 @@ Final check
 After release
 
 1. merge `master` into `develop`
-2. close all fixed [issues](https://github.com/keeweb/keeweb/issues) for this version
+2. close all fixed [issues](https://github.com/keeweb/keeweb/issues) for this milestone
 3. rebuild beta
 
 Major releases
