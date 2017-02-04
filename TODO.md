@@ -1,6 +1,3 @@
-## v1.4
-- [ ] KDBX4 (new KeePass format) 
-
 ## v1.5
 - [ ] audit
 - [ ] entry templates
