@@ -28,7 +28,7 @@
 1. push `master` with tags &rarr; all pending issues are now closed
 2. publish saved release draft &rarr; at this point, users can download this release
 3. push `gh-pages` &rarr; the software becomes available online and for auto-update
-4. [rebuild docker image](https://hub.docker.com/r/antelle/keeweb/~/settings/automated-builds/)
+4. [rebuild docker image](https://hub.docker.com/r/antelle/keeweb/~/settings/automated-builds/) from tag `vX.Y.Z`
 
 ### Final check
 
