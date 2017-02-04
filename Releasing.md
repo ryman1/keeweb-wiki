@@ -34,4 +34,4 @@ Checking
 After release
 
 1. merge `master` into `develop`
-2. if it's a major release: delete previous release branch, add branch `release-X.Y`
+2. if it's a major release: delete previous release branch, create branch `release-X.Y`
