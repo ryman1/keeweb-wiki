@@ -23,7 +23,7 @@
 
 ### Publish
 
-⚠️ you cannot abort the release after one of steps below
+#### ⚠️ you cannot abort the release after any of steps below
 
 1. push `master` with tags &rarr; all pending issues are now closed
 2. publish saved release draft &rarr; at this point, users can download this release
