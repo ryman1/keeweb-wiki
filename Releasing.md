@@ -36,11 +36,11 @@ After release
 
 1. merge `master` into `develop`
 2. check for open [issues](https://github.com/keeweb/keeweb/issues) for this version
+3. rebuild beta
 
 Major releases
 
 1. delete previous release branch, create branch `release-X.Y`
 2. [release milestones](https://github.com/keeweb/keeweb/milestones): close `vPrevious`, create `vX.Y.x` and `vNext`
 3. delete the release from [TODO](https://github.com/keeweb/keeweb/wiki/TODO)
-4. rebuild beta
 4. spread the world
