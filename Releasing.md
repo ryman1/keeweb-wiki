@@ -19,10 +19,10 @@ Release
 8. paste release notes there, strip trailing spaces in them, to prevent extra newlines
 9. upload desktop builds from `dist/desktop` and save the draft
 10. add signed git tag `vX.Y.Z`
-11. push `master` with tags
-12. refresh release draft page, set tag to `vX.Y.Z`
-13. publish the release
-14. push `gh-pages`
+11. refresh release draft page, set tag to `vX.Y.Z`
+12. push `master` with tags &rarr; ⚠️ all pending issues are now closed
+13. publish the release &rarr; ⚠️ at this point, users can download this release
+14. push `gh-pages` &rarr; ⚠️ the software is available online and for auto-update
 
 Final check
 
