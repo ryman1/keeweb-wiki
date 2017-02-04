@@ -24,7 +24,7 @@ Release
 13. publish the release
 14. push `gh-pages`
 
-Checking
+Final check
 
 1. go to [app.keeweb.info](https://app.keeweb.info), update the app and check app version
 2. update desktop apps and check app version
@@ -34,4 +34,8 @@ Checking
 After release
 
 1. merge `master` into `develop`
-2. if it's a major release: delete previous release branch, create branch `release-X.Y`
+
+If it's a major release
+
+1. delete previous release branch, create branch `release-X.Y`
+2. close [release milestone](https://github.com/keeweb/keeweb/milestones), close previous milestone
