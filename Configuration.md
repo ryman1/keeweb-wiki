@@ -38,6 +38,7 @@ Config fields description (all fields are optional):
     "fontSize": 0, // global font size, possible options: 0, 1, 2
     "tableViewColumns": null, // columns inside table view (complex option, use with care)
     "generatorPresets": null, // user-defined generator presets (complex option, use with care)
+    "cacheConfigSettings": false, // allow to start the app if the config is not available
 
     "canOpen": true, // show Open button
     "canOpenDemo": true, // show Demo button
@@ -55,9 +56,7 @@ Config fields description (all fields are optional):
     "gdriveClientId": null, // custom client id
 
     "onedrive": true, // enable OneDrive
-    "onedriveClientId": null, // custom client id
-
-    "cacheConfigSettings": false // allow to start the app if the config is not available
+    "onedriveClientId": null // custom client id
   },
   "files": [{ // pre-defined files that will appear on Open page
     "storage": "webdav", // dropbox, webdav, etc...
