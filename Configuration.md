@@ -55,7 +55,9 @@ Config fields description (all fields are optional):
     "gdriveClientId": null, // custom client id
 
     "onedrive": true, // enable OneDrive
-    "onedriveClientId": null // custom client id
+    "onedriveClientId": null, // custom client id
+
+    "cacheConfigSettings": false // allow to start the app if the config is not available
   },
   "files": [{ // pre-defined files that will appear on Open page
     "storage": "webdav", // dropbox, webdav, etc...
