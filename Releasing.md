@@ -1,3 +1,5 @@
+How to build and publish new KeeWeb release.
+
 ### Prerequesties
 
 1. checkout release or patch branch
