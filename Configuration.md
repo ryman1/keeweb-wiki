@@ -63,7 +63,8 @@ Config fields description (all fields are optional):
     "name": "My file", // file name, as it will be displayed in UI
     "path": "webdav-url", // full path to file, including file name, e.g. WebDAV url
     "options": { "user": "", "password": "" } // only for WebDAV, server auth details
-  }]
+  }],
+  "showOnlyFilesFromConfig": false // allow to open only files from config, remove previously opened files
 }
 ```
 
