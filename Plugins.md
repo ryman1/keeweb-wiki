@@ -9,7 +9,7 @@ Plugin creation script: https://github.com/keeweb/keeweb/blob/develop/plugins/kw
 
 All plugins must have `manifest.json`.
 
-Other content depends on plugin type:
+Plugin can contain other files, depending on plugin type:
 
 - JS:
  - plugin.js
