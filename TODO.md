@@ -1,7 +1,7 @@
-## v1.6
+## v1.5
 - [ ] plugins, themes, languages
 
-## v1.5
+## v1.6
 - [ ] audit
 - [ ] entry templates
 - [ ] bulk operations
