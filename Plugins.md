@@ -93,5 +93,5 @@ var DetailView = require('views/details/details-view');
 module.exports.uninstall = function() {
   // It's necessary to have this function
   // Cleanup all plugin resources and overrides here
-}
+};
 ```
