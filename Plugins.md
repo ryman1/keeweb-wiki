@@ -19,7 +19,7 @@ After it, you can test your plugin and make it public.
 
 ## Scripts and examples
 
-Plugin examples: https://github.com/keeweb/keeweb/tree/develop/plugins/examples
+Plugin examples: https://github.com/keeweb/keeweb/tree/develop/plugins/examples  
 Plugin creation script: https://github.com/keeweb/keeweb/blob/develop/plugins/kw-plugin-control.js
 
 ## Manifest
