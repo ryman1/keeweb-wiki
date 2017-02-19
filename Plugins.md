@@ -15,8 +15,8 @@ This command will generate all files necessary to develop and distribute the plu
 $ keeweb-plugin create
 ```
 
-Important: it will generate private key for your plugin, you have to keep it securely.  
-To sign the resources inside your plugin and update manifest, use this:  
+Important: it will generate a private key for your plugin, you have to keep it securely, to be able to update your plugin later.  
+To sign the resources inside your plugin and update the manifest, use this:  
 
 ```bash
 $ keeweb-plugin sign my-awesome-plugin
