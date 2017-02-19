@@ -81,12 +81,15 @@ There's no possibility to customize script and style name. However you can use a
 
 ## JS API
 
-Your plugin will be executed in the following environment:
+Example plugin script:
 
 ```js
-(function(require, module) {
-  module.exports.uninstall = function() {
-    // it's necessary to have this function. cleanup all plugin resources and overrides here
-  }
-});
+// you can use all KeeWeb modules
+var _ = require('underscore');
+var kdbxweb = require('kdbxweb');
+var DetailView = require('views/details/details-view');
+
+module.exports.uninstall = function() {
+  // It's necessary to have this function. Cleanup all plugin resources and overrides here
+}
 ```
