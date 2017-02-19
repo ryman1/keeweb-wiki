@@ -75,4 +75,4 @@ Plugin can contain other files, depending on plugin type:
 - CSS:
  - `plugin.css`
 - Locales:
- - &lt;locale_name&gt;.json
+ - `<locale_name>.json`
