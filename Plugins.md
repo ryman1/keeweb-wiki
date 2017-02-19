@@ -25,14 +25,24 @@ Typical structure:
   "url": "https://example.com/about_my_plugin",
   "resources": {
     "js": "<signature>",
-    "css": "<signature>",
+    "css": "<signature>"
+  },
+  "publicKey": "<public_key>"
+}
+```
+
+Locale plugins have additional section in manifest:
+
+```json
+{
+  ...other fields
+  "resources": {
     "loc": "<signature>"
   },
   "locale": {
     "name": "nl-NL",
     "title": "Nederlands"
-  },
-  "publicKey": "<public_key>"
+  }
 }
 ```
 
