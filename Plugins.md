@@ -2,17 +2,22 @@
 
 ## How to create KeeWeb plugin
 
-This script will guide you through plugin creation. It will generate all files necessary to develop and distribute the plugin:
+Install keeweb-plugin package. It will guide you through plugin creation:
+```bash
+$ npm i -g keeweb-plugin
+```
+
+This command will generate all files necessary to develop and distribute the plugin:
 
 ```bash
-$ node kw-plugin-control.js create
+$ keeweb-plugin create
 ```
 
 Important: it will generate private key for your plugin, you have to keep it securely.  
 To sign the resources inside your plugin and update manifest, use this:  
 
 ```bash
-$ node kw-plugin-control.js sign my-awesome-plugin
+$ keeweb-plugin sign my-awesome-plugin
 ```
 
 After it, you can test your plugin and make it public.
@@ -20,7 +25,6 @@ After it, you can test your plugin and make it public.
 ## Scripts and examples
 
 Plugin examples: https://github.com/keeweb/keeweb/tree/develop/plugins/examples  
-Plugin creation script: https://github.com/keeweb/keeweb/blob/develop/plugins/kw-plugin-control.js
 
 ## Manifest
 
