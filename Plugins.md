@@ -68,12 +68,11 @@ Locale plugins have additional section in manifest:
 Plugin can contain other files, depending on plugin type:
 
 - JS:
- - plugin.js
+ - `plugin.js`
 - JS+CSS:
- - plugin.js
- - plugin.css
+ - `plugin.js`
+ - `plugin.css`
 - CSS:
- - plugin.js
- - plugin.css
+ - `plugin.css`
 - Locales:
  - &lt;locale_name&gt;.json
