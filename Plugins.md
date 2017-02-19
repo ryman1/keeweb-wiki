@@ -24,6 +24,19 @@ $ keeweb-plugin sign my-awesome-plugin
 
 After it, you can test your plugin and make it public.
 
+## Testing your plugin
+
+Host your plugin somewhere, for example:
+```bash
+$ npm i -g http-server
+$ http-server -c-1 -p8081
+Starting up http-server, serving ./
+Available on:
+  http://127.0.0.1:8081
+```
+
+Now add your plugin to KeeWeb with this url: `http://127.0.0.1:8081`.
+
 ## Scripts and examples
 
 Plugin examples: https://github.com/keeweb/keeweb/tree/develop/plugins/examples  
