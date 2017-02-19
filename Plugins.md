@@ -35,7 +35,7 @@ Locale plugins have additional section in manifest:
 
 ```json
 {
-  ...other fields
+  // ...other fields
   "resources": {
     "loc": "<signature>"
   },
