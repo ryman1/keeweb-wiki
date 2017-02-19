@@ -7,6 +7,8 @@ Install keeweb-plugin package. It will guide you through plugin creation:
 $ npm i -g keeweb-plugin
 ```
 
+Don't want to install it? [Here](https://github.com/keeweb/keeweb/tree/develop/plugins/plugin-control)'s the script, you can just download it.
+
 This command will generate all files necessary to develop and distribute the plugin:
 
 ```bash
