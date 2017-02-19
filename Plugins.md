@@ -76,3 +76,5 @@ Plugin can contain other files, depending on plugin type:
  - `plugin.css`
 - Locales:
  - `<locale_name>.json`
+
+There's no possibility to customize script and style name. However you can use any builder to make output `plugin.js` and `plugin.css` files.
