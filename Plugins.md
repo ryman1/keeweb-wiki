@@ -78,3 +78,15 @@ Plugin can contain other files, depending on plugin type:
  - `<locale_name>.json`
 
 There's no possibility to customize script and style name. However you can use any builder to make output `plugin.js` and `plugin.css` files.
+
+## JS API
+
+Your plugin will be executed in the following environment:
+
+```js
+(function(require, module) {
+  module.exports.uninstall = function() {
+    // it's necessary to have this function. cleanup all plugin resources and overrides here
+  }
+});
+```
