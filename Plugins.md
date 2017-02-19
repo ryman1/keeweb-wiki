@@ -81,6 +81,7 @@ There's no possibility to customize script and style name. However you can use a
 
 ## JS API
 
+Plugins can use `require` and `module.exports`.  
 Example plugin script:
 
 ```js
