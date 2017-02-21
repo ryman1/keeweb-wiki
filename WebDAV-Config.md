@@ -32,6 +32,8 @@ if ($request_method = 'OPTIONS') {
 }
 ```
 
+The version of `lighttpd` that ships with Debian 8 Jessie (`lighttpd` 1.4.35) is not fully compatible with the WebDAV protocol, and thus, not compatible with KeeWeb. When trying to save the keyring, `lighttpd` will give an HTTP status 409. This issue should be fixed with [`lighttpd` 1.4.40](https://www.lighttpd.net/2016/7/16/1.4.40/).
+
 ## Custom certificates
 
 If your WebDAV server is using a self-signed or invalid certificate, you can use this command to open files in KeeWeb desktop app:
