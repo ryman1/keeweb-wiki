@@ -142,5 +142,6 @@ module.exports.uninstall = function() {
 
 - ❗️ DO NOT obfuscate, uglify, etc... plugin code, including styles and locales: it must be easy to read and review; uglified plugins will be marked as dangerous  
 - initialization should not take long, it's better to lazy-load stuff  
+- take everything with you, don't read resources from network; such plugins will be marked as dangerous  
 - revert all changes in uninstall function  
 - use common sense: KeeWeb has no plugin API, plugins extend KeeWeb by augmenting its functions; don't go crazy, to be able to maintain your plugin in new versions, if you feel that something is way to hard to extend, it's better to submit a PR or ask for a feature  
