@@ -3,7 +3,7 @@
 - [ ] entry templates
 
 ## v1.6
+- [ ] dropbox improvements
 - [ ] audit
-- [ ] bulk operations
 - [ ] chromeos support
 - [ ] print/share
