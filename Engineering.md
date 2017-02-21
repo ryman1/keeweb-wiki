@@ -3,4 +3,3 @@ Pending tasks and unsolved problems
 - [ ] translate shortcuts
 - [ ] beta channel for desktop
 - [ ] move desktop-related stuff to plugins 
-- [ ] make Launcher abstract and replaceable
