@@ -40,6 +40,10 @@ Now add your plugin to KeeWeb with this url: `http://127.0.0.1:8081`.
 ## Scripts and examples
 
 Plugin examples: https://github.com/keeweb/keeweb/tree/develop/plugins/examples  
+- [feature (js+css)](hhttps://github.com/keeweb/keeweb/tree/develop/plugins/examples/psychodelic)
+- [theme](https://github.com/keeweb/keeweb/tree/develop/plugins/examples/rainbow-theme)
+- [locale](https://github.com/keeweb/keeweb/tree/develop/plugins/examples/square-language)
+- [storage](https://github.com/keeweb/keeweb/tree/develop/plugins/examples/fail-storage)
 
 ## Manifest
 
