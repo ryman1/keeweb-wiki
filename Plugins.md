@@ -82,6 +82,23 @@ Locale plugins have additional section in manifest:
 }
 ```
 
+As well as theme plugins:
+
+```js
+{
+  ...other fields
+  "resources": {
+    "css": "<signature>"
+  },
+  "theme": {
+    "name": "rainbow",
+    "title": "Rainbow"
+  }
+}
+```
+
+Theme class name will be `th-rainbow` in this case.
+
 ## Plugin contents
 
 Plugin can contain other files, depending on plugin type:
@@ -92,6 +109,8 @@ Plugin can contain other files, depending on plugin type:
  - `plugin.js`
  - `plugin.css`
 - CSS:
+ - `plugin.css`
+- Themes:
  - `plugin.css`
 - Locales:
  - `<locale_name>.json`
