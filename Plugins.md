@@ -138,6 +138,8 @@ module.exports.uninstall = function() {
 };
 ```
 
+There's no public API, later it could be creates for some common extension points, like fields, storages and so on. Now you can just override or extend KeeWeb modules.
+
 ## Guidelines
 
 - ❗️ DO NOT obfuscate, uglify, etc... plugin code, including styles and locales: it must be easy to read and review  
