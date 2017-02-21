@@ -138,7 +138,7 @@ module.exports.uninstall = function() {
 };
 ```
 
-There's no public API, later it could be creates for some common extension points, like fields, storages and so on. Now you can just override or extend KeeWeb modules.
+There's no public API, later it could be created for some common extension points, like fields, storages and so on. Now you can just override or extend KeeWeb modules.
 
 ## Guidelines
 
