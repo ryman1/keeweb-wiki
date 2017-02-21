@@ -143,3 +143,4 @@ module.exports.uninstall = function() {
 - js plugin must revert all changes in uninstall function  
 - DO NOT obfuscate, uglify, etc... plugin code, including styles and locales: it must be easy to read and review  
 - initialization should not take long, it's better to lazy-load stuff  
+- use common sense: KeeWeb has no plugin API, plugins extend KeeWeb by augmenting its functions, don't go crazy, to be able to maintain your plugin in new versions  
