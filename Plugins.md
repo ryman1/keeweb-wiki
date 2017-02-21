@@ -140,6 +140,6 @@ module.exports.uninstall = function() {
 
 ## Guidelines
 
-❗️ js plugin must revert all changes in uninstall function  
-❗️ DO NOT obfuscate, uglify, etc... plugin code, including styles and locales: it must be easy to read and review  
-❗️ initialization should not take long, it's better to lazy-load stuff  
+- js plugin must revert all changes in uninstall function  
+- DO NOT obfuscate, uglify, etc... plugin code, including styles and locales: it must be easy to read and review  
+- initialization should not take long, it's better to lazy-load stuff  
