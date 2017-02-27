@@ -16,10 +16,10 @@ How to make Dropbox and Google Drive work on your server?
 1. Go to Google Developer Console: https://console.developers.google.com/
 2. Add a project  
 <img src="https://habrastorage.org/files/f25/825/dd0/f25825dd0beb4f6ebe0e20a083406363.png"/>
-2. Create OAuth Client ID  
+3. Create OAuth Client ID  
 <img src="https://habrastorage.org/files/4b4/8e8/fbb/4b48e8fbb1e04c95910bcdb4e993861d.png"/>
-3. Choose Web application  
-4. Setup URLs  
+4. Choose Web application  
+5. Setup URLs  
 <img src="https://habrastorage.org/files/8fb/e84/e08/8fbe84e08cfd4fdc987cd3b430d030ee.png"/>  
 <img src="https://habrastorage.org/files/df5/26a/064/df526a0649c9493aa1dffd3e0454f96c.png"/>
-5. Set Client ID in KeeWeb, in `gdriveClientId` field of your [config](Configuration#json-app-config)
+6. Set Client ID in KeeWeb, in `gdriveClientId` field of your [config](Configuration#json-app-config)
