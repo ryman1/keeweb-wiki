@@ -108,16 +108,16 @@ Theme class name will be `th-rainbow` in this case.
 Plugin can contain other files, depending on plugin type:
 
 - JS:
- - `plugin.js`
+  - `plugin.js`
 - JS+CSS:
- - `plugin.js`
- - `plugin.css`
+  - `plugin.js`
+  - `plugin.css`
 - CSS:
- - `plugin.css`
+  - `plugin.css`
 - Themes:
- - `plugin.css`
+  - `plugin.css`
 - Locales:
- - `<locale_name>.json`
+  - `<locale_name>.json`
 
 There's no possibility to customize script and style name. However you can use any builder to make output `plugin.js` and `plugin.css` files.
 
