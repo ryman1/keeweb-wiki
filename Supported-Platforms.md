@@ -11,4 +11,4 @@ Desktop:
 
 Mobile:
 - iOS 10 Safari, Chrome
-- Android
+- Android Chrome
