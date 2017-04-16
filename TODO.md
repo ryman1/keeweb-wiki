@@ -1,7 +1,8 @@
 ## v1.5
-- [ ] plugins, themes, languages
+- [x] plugins, themes, languages
 - [ ] entry templates
-- [ ] dropbox improvements
+- [x] dropbox API V2
+- [x] mobile field editor improvements
 
 ## v1.6
 - [ ] audit
