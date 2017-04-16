@@ -32,7 +32,7 @@ if ($request_method = 'OPTIONS') {
 }
 ```
 
-Don't want to write to temporary files and use MOVE? There's a switch in Settings &rarr; General.
+If you want KeeWeb to write files with PUT, instead of moving temporary file, you can change it with a switch in Settings &rarr; General.
 
 ## Custom certificates
 
