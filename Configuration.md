@@ -51,6 +51,7 @@ Config fields description (all fields are optional):
     "dropboxAppKey": null, // custom app key
 
     "webdav": true, // enable WebDAV
+    "webdav": "move", // how to save files with WebDAV ("move" or "put")
 
     "gdrive": true, // enable Google Drive
     "gdriveClientId": null, // custom client id
