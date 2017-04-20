@@ -29,7 +29,7 @@ After it, you can test your plugin and make it public.
 Host your plugin somewhere, for example:
 ```bash
 $ npm i -g http-server
-$ http-server -c-1 -p8081 -S
+$ http-server -c-1 --cors -p8081 -S
 Starting up http-server, serving ./
 Available on:
   https://127.0.0.1:8081
