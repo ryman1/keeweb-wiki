@@ -32,10 +32,11 @@ $ npm i -g http-server
 $ http-server -c-1 -p8081 -S
 Starting up http-server, serving ./
 Available on:
-  http://127.0.0.1:8081
+  https://127.0.0.1:8081
 ```
 
-Now add your plugin to KeeWeb with this url: `http://127.0.0.1:8081`.
+Please note that plugins muse be hosted on HTTPS server.  
+Now add your plugin to KeeWeb with this url: `https://127.0.0.1:8081`.
 
 ## Scripts and examples
 
