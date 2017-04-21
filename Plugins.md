@@ -151,4 +151,4 @@ There's no public API, later it could be created for some common extension point
 &rarr; such plugins will be marked as dangerous  
 - revert all changes in uninstall function  
 - use common sense: KeeWeb has no plugin API, plugins extend KeeWeb by augmenting its functions; don't go crazy, to be able to maintain your plugin in new versions, if you feel that something is too hard to extend, it's better to submit a PR or ask for a feature  
-- think about compatibility: kdbx format and everything you add there must be compatible with KeePass
+- think about compatibility: kdbx format and everything you add there must be compatible with all other clients
