@@ -5,6 +5,8 @@ Web &ndash; last stable version of browsers:
 - Edge
 - Opera
 
+IE was abandoned by Microsoft and doesn't get new features, we don't support it anymore.  
+
 Desktop:
 - Windows 7
 - Mac OS X 10.9 Mavericks
