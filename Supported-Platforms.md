@@ -1,4 +1,4 @@
-Web &ndash; last stable versions of browsers:
+Web &ndash; last stable version of browsers:
 - Chrome
 - Firefox
 - Safari
