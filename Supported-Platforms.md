@@ -3,6 +3,7 @@ Web &ndash; last stable version of browsers:
 - Firefox
 - Safari
 - Edge
+- Opera
 
 Desktop:
 - Windows 7
