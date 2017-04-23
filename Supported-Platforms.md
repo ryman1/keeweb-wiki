@@ -1,8 +1,8 @@
-Web:
-- Chrome Stable
-- Firefox Stable
-- Safari 10
-- Edge 14
+Web - last stable versions of browsers:
+- Chrome
+- Firefox
+- Safari
+- Edge
 
 Desktop:
 - Windows 7
