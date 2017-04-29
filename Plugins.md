@@ -2,7 +2,8 @@
 
 ## How to create KeeWeb plugin
 
-Plugin builder page is the easiest way to start, here's it: https://plugins.keeweb.info/create-plugin.html
+KeeWeb Plugin Creation Tool is the easiest way to start, here's it:  
+https://plugins.keeweb.info/create-plugin.html
 
 To sign and use your plugin, you will need `keeweb-plugin` npm package:
 ```bash
