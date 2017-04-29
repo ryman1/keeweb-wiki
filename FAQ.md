@@ -32,17 +32,14 @@ A: There's no way to restore. All your data is encrypted with your password and 
 Q: What is offline?  
 A: A web page cannot open files from your filesystem, so they are cached. When you open an offline file, cached state will be used.  
 
-Q: What will happen if I change file on another computer?  
+Q: What will happen if I change a file saved to cloud on another computer?  
 A: Changes will be loaded by all peers once you save them or auto-save happens.  
-
-Q: Why downloaded file name in Safari is always Unknown?  
-A: It's a known bug, for now, there's no workaround, because Safari doesn't implement latest web development standards.  
 
 Q: I've changed WebDAV password and cannot sync my db anymore.  
 A: Remove it and add again. Don't forget to download it if there are any changes.  
 
 Q: Is WebDAV password stored in cleartext?  
-A: No.  
+A: No. It's not possible to decrypt it without access to kdbx.  
 
 ### Update
 Q: How to use proxy server for this app?  
