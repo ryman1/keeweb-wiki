@@ -17,7 +17,7 @@ A: Most probably CORS is not enabled on your server. Please check out this [page
 
 ### Security
 Q: Is it secure?  
-A: The app makes no external requests, it's completely offline, all your data is stored locally and never sent by network. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow, disturbing and insecure stuff like that. The only request this app performs is version check which can be disabled in app settings, and it's done via HTTPS. The other behaviour is not different from usual desktop or web apps.  
+A: The app makes no external requests unless you ask for it explicitly, it's completely offline, all your data is stored locally and never sent by network. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow, disturbing and insecure stuff like that. The only request this app performs is version check which can be disabled in app settings, and it's done via HTTPS. The other behaviour is not different from usual desktop or web apps.  
 
 Q: Can other pages in browser or insecure plugins access my passwords?  
 A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions. If you think there are some plugins/extensions in your browser which you don't trust, or if you don't believe your browser is secure enough to isolate websites from accessing each other, it's better to use desktop version.  
@@ -47,6 +47,11 @@ A: The app will use proxy settings from system-wide config. If you want to use c
 
 Q: Are desktop updates secure?  
 A: Yes, updates are delivered only via HTTPS and checked for a valid signature before unpacking.  
+
+### Plugins/Languages
+
+Q: Are plugins secure?  
+A: It depends. Some plugins are developed by KeeWeb authors, they are 100% secure and marked with a special sign. We don't give any guarantee about other plugins. Install them at your own risk. However, KeeWeb guarantees secure plugin delivery: if you trust plugin author, the installation is safe.  
 
 ### Self-hosting
 Q: Which server should I use?  
