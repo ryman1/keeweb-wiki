@@ -22,9 +22,6 @@ A: The app makes no external requests, it's completely offline, all your data is
 Q: Can other pages in browser or insecure plugins access my passwords?  
 A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions. If you think there are some plugins/extensions in your browser which you don't trust, or if you don't believe your browser is secure enough to isolate websites from accessing each other, it's better to use desktop version.  
 
-Q: Why Mac may disallow opening the app?  
-A: There's no malware inside. Mac code is not signed because it costs $100 (this is not one-time fee), and for now I'm not going to pay yearly for a free app. This may happen later.  
-
 Q: Does it have any protection from trojans or key loggers?  
 A: No. As any password manager. No app can have protection against targeted malware running with superuser privileges (which is typical for malware). Don't believe in bullshit and don't use password managers if it's common for you to clean out trojans from your computer during an antivirus check.  
 
