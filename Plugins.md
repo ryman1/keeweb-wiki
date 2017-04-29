@@ -12,7 +12,7 @@ $ npm i -g keeweb-plugin
 
 Don't want to install it? [Here](https://github.com/keeweb/keeweb/blob/develop/plugins/keeweb-plugin/keeweb-plugin.js)'s the script, you can just download it.
 
-Important: plugin creation tool generates a private key for your plugin, you have to keep it securely, to be able to update your plugin later.  
+Important: plugin creation tool generates a private key for your plugin, you have to keep it secure, to be able to update your plugin later.  
 To sign the resources inside your plugin and update the manifest, use:  
 
 ```bash
