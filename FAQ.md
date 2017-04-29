@@ -48,7 +48,7 @@ A: The app will use proxy settings from system-wide config. If you want to use c
 Q: Are desktop updates secure?  
 A: Yes, updates are delivered only via HTTPS and checked for a valid signature before unpacking.  
 
-### Plugins/Languages
+### Plugins
 
 Q: Are plugins secure?  
 A: It depends. Some plugins are developed by KeeWeb authors, they are 100% secure and marked with a special sign. We don't give any guarantee about other plugins. Install them at your own risk. However, KeeWeb guarantees secure plugin delivery: if you trust plugin author, the installation is safe.  
