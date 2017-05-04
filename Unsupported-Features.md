@@ -6,7 +6,7 @@ Features in this list will not be supported because they are considered visually
 - creating folders without names
 - entry background/foreground color and custom colors
 - OK buttons
-- uuids and other tech stuff like that
+- displaying uuids and other tech stuff like that
 - native scrollbars
 - save without compression
 - old .kdb files support
