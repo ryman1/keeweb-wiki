@@ -1,6 +1,6 @@
 Features in this list will not be supported because they are considered visually or functionally disurbing, or redundant, or breaking app ideas.
 
-- any kind of server required (required; not optional) to run the app
+- any kind of server required to run the app
 - tabs and separate trash per file
 - changing templates and trash groups
 - creating folders without names
