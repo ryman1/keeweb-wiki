@@ -9,3 +9,4 @@ Features in this list will not be supported because they are considered visually
 - uuids and other tech stuff like that
 - native scrollbars
 - save without compression
+- old .kdb files support
