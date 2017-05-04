@@ -5,7 +5,7 @@ Features in this list will not be supported because they are considered visually
 - changing templates and trash groups
 - creating folders without names
 - entry background color and custom colors
-- OK buttons
+- OK buttons, unless we really need them
 - displaying uuids and other tech stuff like that
 - native scrollbars
 - save without compression
