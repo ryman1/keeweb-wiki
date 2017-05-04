@@ -4,7 +4,7 @@ Features in this list will not be supported because they are considered visually
 - tabs and separate trash per file
 - changing templates and trash groups
 - creating folders without names
-- entry background/foreground color and custom colors
+- entry background color and custom colors
 - OK buttons
 - displaying uuids and other tech stuff like that
 - native scrollbars
