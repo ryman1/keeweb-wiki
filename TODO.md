@@ -1,5 +1,5 @@
 ## v1.5
-- [x] plugins, themes, languages
+- [ ] plugins, themes, languages
 - [x] entry templates
 - [x] Dropbox API V2
 - [x] mobile field editor improvements
