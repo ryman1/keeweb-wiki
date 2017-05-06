@@ -3,7 +3,7 @@ How to build and publish new KeeWeb release.
 ### Prerequesties
 
 1. checkout release or patch branch
-2. copy languages with `node util/copy-languages.js`, commit the changes, if any
+2. copy languages with `node util/copy-languages.js`, commit changes, if any
 3. update version date in `release-notes.md`
 4. bump version with `node util/set-version.js X.Y.Z`
 5. merge release branch into `master`
