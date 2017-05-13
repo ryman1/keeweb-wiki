@@ -83,4 +83,4 @@ Q: The feature I want is very strange, or useful for me only, or conflicts with 
 A: Please, [contact](http://antelle.net/) the author (please note, the price will be high; expected requests are corporate features, enterprise customisation, private installations an so on, and not _plz make this feature faster for a cup of coffee_).  
 
 Q: An if I donate?  
-A: Donation is a way to say "thank you", it's not payment for services.  
+A: Donation is a way to say "thank you", it is not payment for services.  
