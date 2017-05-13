@@ -81,3 +81,6 @@ A: You can [either open a feature request](https://github.com/keeweb/keeweb/issu
 
 Q: The feature I want is very strange, or useful for me only, or conflicts with author's product vision or roadmap, and I'm ready to pay for it.  
 A: Please, [contact](http://antelle.net/) the author (please note, the price will be high; expected requests are corporate features, enterprise customisation, private installations an so on, and not _plz make this feature faster for a cup of coffee_).  
+
+Q: An if I donate?  
+A: Donation is a way to say "thank you", it's not payment for services.  
