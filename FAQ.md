@@ -26,7 +26,7 @@ Q: Does it have full protection from trojans or key loggers?
 A: No. As any password manager. No app can have protection against targeted malware running with superuser privileges. Don't believe in bullshit and don't use password managers if it's common for you to clean out trojans from your computer during an antivirus check. You can read more in [KeePass FAQ](http://keepass.info/help/base/security.html#secspecattacks).  
 
 Q: I have forgot my password or lost a keyfile.  
-A: There's no way to restore. All your data is encrypted with your password and stored inside kdbx on your computer.  
+A: There's no way to unlock your file. All your data is encrypted with your password and stored inside kdbx on your computer.  
 
 ### Sync
 Q: What is offline?  
