@@ -20,7 +20,7 @@ Q: Is it secure?
 A: The app makes no external requests unless you ask for it explicitly, it's completely offline, all your data is stored locally and never sent by network. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow, disturbing and insecure stuff like that. The only request this app performs is version check which can be disabled in app settings, and it's done via HTTPS. The other behaviour is not different from usual desktop or web apps.  
 
 Q: Can other pages in browser or insecure plugins access my passwords?  
-A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions. If you think there are some plugins/extensions in your browser which you don't trust, or if you don't believe your browser is secure enough to isolate websites from accessing each other, it's better to use desktop version.  
+A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions.  
 
 Q: Does it have any protection from trojans or key loggers?  
 A: No. As any password manager. No app can have protection against targeted malware running with superuser privileges (which is typical for malware). Don't believe in bullshit and don't use password managers if it's common for you to clean out trojans from your computer during an antivirus check. You can read more in [KeePass FAQ](http://keepass.info/help/base/security.html#secspecattacks).  
