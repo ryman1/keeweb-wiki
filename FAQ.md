@@ -49,14 +49,14 @@ Q: Are desktop updates secure?
 A: Yes, updates are delivered only via HTTPS and checked for a valid signature before unpacking.  
 
 ### Plugins
+Q: Will KeePass plugins be ever supported?  
+A: No. They are not cross-platform and depend on KeePass libs.  
+
 Q: Are plugins secure?  
 A: It depends. Some plugins are developed by KeeWeb authors, they are 100% secure and marked with a special sign. We don't give any guarantee about other plugins. Install them at your own risk. However, KeeWeb guarantees secure plugin delivery: if you trust plugin author, the installation is safe.  
 
 Q: Can I load plugin code by its url to inspect it before installing?  
 A: No. It's possible to distinguish between you and KeeWeb loading plugin and give you two different versions.  
-
-Q: Will KeePass plugins be ever supported?  
-A: No. They are not cross-platform and depend on KeePass libs.  
 
 ### Self-hosting
 Q: Which server should I use?  
