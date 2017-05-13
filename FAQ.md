@@ -22,7 +22,7 @@ A: The app makes no external requests unless you ask for it explicitly, it's com
 Q: Can other pages in browser or insecure plugins access my passwords?  
 A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions.  
 
-Q: Does it have any protection from trojans or key loggers?  
+Q: Does it have full protection from trojans or key loggers?  
 A: No. As any password manager. No app can have protection against targeted malware running with superuser privileges (which is typical for malware). Don't believe in bullshit and don't use password managers if it's common for you to clean out trojans from your computer during an antivirus check. You can read more in [KeePass FAQ](http://keepass.info/help/base/security.html#secspecattacks).  
 
 Q: I have forgot my password or lost a keyfile.  
