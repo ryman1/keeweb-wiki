@@ -65,7 +65,7 @@ A: Yes but you have to create your own Dropbox app.
 
 ### Features
 Q: Will KeePass plugins be ever supported?  
-A: No. They are not cross-platform and depend on KeePass libs. But I'm planning to support javascript plugins and CSS themes.  
+A: No. They are not cross-platform and depend on KeePass libs.  
 
 Q: When my issue will be fixed?  
 A: Please check the Milestone field for this issue. Possible values:
