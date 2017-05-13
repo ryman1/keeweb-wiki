@@ -49,12 +49,14 @@ Q: Are desktop updates secure?
 A: Yes, updates are delivered only via HTTPS and checked for a valid signature before unpacking.  
 
 ### Plugins
-
 Q: Are plugins secure?  
 A: It depends. Some plugins are developed by KeeWeb authors, they are 100% secure and marked with a special sign. We don't give any guarantee about other plugins. Install them at your own risk. However, KeeWeb guarantees secure plugin delivery: if you trust plugin author, the installation is safe.  
 
 Q: Can I load plugin code by its url to inspect it before installing?  
 A: No. It's possible to distinguish between you and KeeWeb loading plugin and give you two different versions.  
+
+Q: Will KeePass plugins be ever supported?  
+A: No. They are not cross-platform and depend on KeePass libs.  
 
 ### Self-hosting
 Q: Which server should I use?  
@@ -64,9 +66,6 @@ Q: Is it possible to use Dropbox in self-hosted version?
 A: Yes but you will have to [create](https://github.com/keeweb/keeweb/wiki/Dropbox-and-GDrive) your own Dropbox app.  
 
 ### Features
-Q: Will KeePass plugins be ever supported?  
-A: No. They are not cross-platform and depend on KeePass libs.  
-
 Q: When will my issue be fixed?  
 A: Please check the Milestone field for this issue. Possible values:
 - vN.M.x: in the upcoming hotfix for currently published version
