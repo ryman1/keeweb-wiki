@@ -67,7 +67,7 @@ A: Yes but you have to create your own Dropbox app.
 Q: Will KeePass plugins be ever supported?  
 A: No. They are not cross-platform and depend on KeePass libs.  
 
-Q: When my issue will be fixed?  
+Q: When will you fix my issue?  
 A: Please check the Milestone field for this issue. Possible values:
 - vN.M.x: in the upcoming hotfix for currently published version
 - vN.M: in vN.M release, according to the [roadmap](TODO)
