@@ -1,7 +1,7 @@
 How to make Dropbox and Google Drive work on your server?
 ## Dropbox
 
-1. Go to Dropbox Developers  
+1. Go to Dropbox Developers: https://www.dropbox.com/developers  
    <img src="https://habrastorage.org/files/476/46a/e60/47646ae607ac48188fecb5ac3fc842c7.png"/>
 2. Create your app  
    <img src="https://habrastorage.org/files/d33/233/587/d33233587d134e0bb130ad08e66a4405.png"/>
