@@ -42,7 +42,7 @@ Q: Is WebDAV password stored in cleartext?
 A: No. It's not possible to decrypt it without access to kdbx.  
 
 ### Update
-Q: How to use proxy server for this app?  
+Q: How to use proxy server with this app?  
 A: The app will use proxy settings from system-wide config. If you want to use custom setting for this app, start it with `--proxy-server` command-line switch.  
 
 Q: Are desktop updates secure?  
