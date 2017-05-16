@@ -7,7 +7,7 @@
 
 ## v1.6
 - [ ] audit
-- ...
+- [ ] ...
 
 ## Future
 - [ ] chromeos support
