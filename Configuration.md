@@ -14,7 +14,7 @@ The webapp can load settings from JSON config ([here's an example config](https:
 - add `config` url parameter: `https://your-keeweb-deployment-url/?config=your-config.json`
 - set `kw-config` meta-tag value: replace `(no-config)` string in app index.html with your config url
 
-Config fields description (all fields are optional):
+Config fields description (all fields are optional; please don't copy exactly this config, add only fields you need):
 ```javascript
 {
   "settings": {
