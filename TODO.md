@@ -1,5 +1,5 @@
 ## v1.5
-- [ ] plugins, themes, languages
+- [x] plugins, themes, languages
 - [x] entry templates
 - [x] Dropbox API V2
 - [x] mobile field editor improvements
@@ -7,5 +7,8 @@
 
 ## v1.6
 - [ ] audit
+- ...
+
+## Future
 - [ ] chromeos support
 - [ ] print/share
