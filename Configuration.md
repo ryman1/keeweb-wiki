@@ -66,7 +66,7 @@ Config fields description (all fields are optional; please don't copy exactly th
     "options": { "user": "", "password": "" } // only for WebDAV, server auth details
   }],
   "plugins": [{ // if you want to auto-install some plugins
-    "url": ""
+    "url": "" // plugin url (you can also add "manifest", if to enforce publicKey validation)
   }]
   "showOnlyFilesFromConfig": false // allow to open only files from config, remove previously opened files
 }
