@@ -1,4 +1,4 @@
-#### ⚠️ WARNING: plugin API is not stable yet.
+#### ⚠️ WARNING: Plugins are supported since KeeWeb v1.5. Plugin API is not stable yet.
 
 ## How to create KeeWeb plugin
 
