@@ -1,4 +1,4 @@
-#### ⚠️ WARNING: this API is deep under construction.
+#### ⚠️ WARNING: plugin API is not stable yet.
 
 ## How to create KeeWeb plugin
 
