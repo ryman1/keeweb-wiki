@@ -157,4 +157,4 @@ There's no public API, later it could be created for some common extension point
 
 ## Distributing your plugin
 
-Please [open an issue](https://github.com/keeweb/keeweb-plugins/issues/new) in keeweb-plugins repo and fill in the necessary fields.
+Please [open an issue](https://github.com/keeweb/keeweb-plugins/issues/new) in keeweb-plugins repo and fill in the required fields.
