@@ -132,7 +132,7 @@ Example plugin script:
 // you can use all KeeWeb modules
 var _ = require('underscore');
 var kdbxweb = require('kdbxweb');
-var DetailView = require('views/details/details-view');
+var DetailsView = require('views/details/details-view');
 
 module.exports.uninstall = function() {
   // It's necessary to have this function
