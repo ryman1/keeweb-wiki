@@ -154,3 +154,7 @@ There's no public API, later it could be created for some common extension point
 - use common sense: KeeWeb has no plugin API, plugins extend KeeWeb by augmenting its functions; don't go crazy, to be able to maintain your plugin in new versions, if you feel that something is too hard to extend, it's better to submit a PR or ask for a feature  
 - think about compatibility: kdbx format and everything you add there must be compatible with all other clients
 - it's recommended to host your plugin on github, not on your server
+
+## Distributing your plugin
+
+Please [open an issue](https://github.com/keeweb/keeweb-plugins/issues/new) in keeweb-plugins repo and fill in the necessary fields.
