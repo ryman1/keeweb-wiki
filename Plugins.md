@@ -156,6 +156,8 @@ There are three types of settings:
 
 To add settings, export `getSettings` function from your plugin and return the necessary settings config. You can find an example [here](https://github.com/keeweb/keeweb/blob/develop/plugins/examples/settings/plugin.js#L12).
 
+If you export `setSettings` function from your plugin, it will be called every time settings are changed or on plugin load, with changed values.
+
 ## Guidelines
 
 - ❗️ DO NOT obfuscate, uglify, etc... plugin code, including styles and locales: it must be easy to read and review  
