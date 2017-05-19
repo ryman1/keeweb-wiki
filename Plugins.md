@@ -122,7 +122,7 @@ There's no possibility to customize script and style name. However you can use a
 
 ## Locales
 
-Basically you don't want to create a locale, unless you have a reason. All locales are managed at [OneSky](http://keeweb.oneskyapp.com/) and uploaded to [plugins.keeweb.info](https://plugins.keeweb.info/). But if you need something special, you can create it, of course.
+Basically you don't want to create a locale, unless you have a reason to do it. All locales are managed at [OneSky](http://keeweb.oneskyapp.com/) and uploaded to [plugins.keeweb.info](https://plugins.keeweb.info/). But if you need something special, you can create it, of course.
 
 ## JS API
 
