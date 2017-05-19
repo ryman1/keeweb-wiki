@@ -42,6 +42,7 @@ Plugin examples: https://github.com/keeweb/keeweb/tree/develop/plugins/examples
 - [theme](https://github.com/keeweb/keeweb/tree/develop/plugins/examples/rainbow-theme)
 - [locale](https://github.com/keeweb/keeweb/tree/develop/plugins/examples/square-language)
 - [storage](https://github.com/keeweb/keeweb/tree/develop/plugins/examples/fail-storage)
+- [settings](https://github.com/keeweb/keeweb/tree/develop/plugins/examples/settings)
 
 ## Manifest
 
