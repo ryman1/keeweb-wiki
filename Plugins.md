@@ -35,7 +35,7 @@ Available on:
 Please note that plugins muse be hosted on HTTPS server.  
 Now add your plugin to KeeWeb with this url: `https://127.0.0.1:8081`.
 
-## Scripts and examples
+## Examples
 
 Plugin examples: https://github.com/keeweb/keeweb/tree/develop/plugins/examples  
 - [basic feature, js+css](https://github.com/keeweb/keeweb/tree/develop/plugins/examples/psychodelic)
