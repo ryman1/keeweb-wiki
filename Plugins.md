@@ -143,6 +143,11 @@ module.exports.uninstall = function() {
 
 There's no public API, later it could be created for some common extension points, like fields, storages and so on. Now you can just override or extend KeeWeb modules.
 
+## Settings
+
+Plugins can have settings, they will look like this:
+![](https://habrastorage.org/web/1db/a20/a07/1dba20a072904bdf8fb455d0900bb612.png)
+
 ## Guidelines
 
 - ❗️ DO NOT obfuscate, uglify, etc... plugin code, including styles and locales: it must be easy to read and review  
