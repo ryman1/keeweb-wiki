@@ -154,9 +154,10 @@ There are three types of settings:
 - select
 - checkbox
 
-To add settings, export `getSettings` function from your plugin and return the necessary settings config. You can find an example [here](https://github.com/keeweb/keeweb/blob/develop/plugins/examples/settings/plugin.js#L7).
+To add settings, export two functions:
 
-If you export `setSettings` function from your plugin, it will be called every time settings are modified or after plugin load, with changed values, here's an [example](https://github.com/keeweb/keeweb/blob/develop/plugins/examples/settings/plugin.js#L29).
+- `getSettings` must return settings config: [example](https://github.com/keeweb/keeweb/blob/develop/plugins/examples/settings/plugin.js#L7)
+- `setSettings` will be called every time settings are modified or after plugin load, with changed values:[example](https://github.com/keeweb/keeweb/blob/develop/plugins/examples/settings/plugin.js#L29)
 
 ## Guidelines
 
