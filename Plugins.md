@@ -155,9 +155,9 @@ Plugins can have settings, they will look like this:
 
 There are three types of settings:
 
-- text
-- select
-- checkbox
+- `text`
+- `select`
+- `checkbox`
 
 To add settings, export two functions:
 
