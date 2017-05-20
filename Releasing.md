@@ -2,7 +2,7 @@ How to build and publish new KeeWeb release.
 
 ### Prerequesties
 
-1. update translations in keeweb-plugins
+1. update keeweb-plugins
 2. checkout release or patch branch
 3. copy languages with `node util/copy-languages.js`, commit changes, if any
 4. update version date in `release-notes.md`
