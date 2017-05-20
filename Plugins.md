@@ -19,6 +19,11 @@ To sign the resources inside your plugin and update the manifest, use:
 $ keeweb-plugin sign my-awesome-plugin
 ```
 
+Or watch and sign on changes:
+```bash
+$ keeweb-plugin watch my-awesome-plugin
+```
+
 After it, you can test your plugin and make it public.
 
 ## Testing your plugin
