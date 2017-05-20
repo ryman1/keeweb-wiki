@@ -1,5 +1,3 @@
-#### ⚠️ WARNING: Plugins are supported since v1.5. Plugin API is not stable yet.
-
 ## How to create KeeWeb plugin
 
 KeeWeb Plugin Creation Tool is the easiest way to start, here's it:  
