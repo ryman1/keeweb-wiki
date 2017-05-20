@@ -157,7 +157,8 @@ There are three types of settings:
 To add settings, export two functions:
 
 - `getSettings` must return settings config: [example](https://github.com/keeweb/keeweb/blob/develop/plugins/examples/settings/plugin.js#L7)
-- `setSettings` will be called every time settings are modified or after plugin load, with changed values:[example](https://github.com/keeweb/keeweb/blob/develop/plugins/examples/settings/plugin.js#L29)
+- `setSettings` will be called every time settings are modified or after plugin load, with changed values:
+ [example](https://github.com/keeweb/keeweb/blob/develop/plugins/examples/settings/plugin.js#L29)
 
 ## Guidelines
 
