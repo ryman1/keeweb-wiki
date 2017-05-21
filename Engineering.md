@@ -1,8 +1,8 @@
 Pending tasks and unsolved problems
-- [ ] move desktop-related stuff to built-in plugins
-- [ ] replace bower with npm
 - [ ] upgrade electron to v1.7 once it's stable
+- [ ] replace bower with npm
 - [ ] allow to extend kdbxweb from plugins
+- [ ] move desktop-related stuff to built-in plugins
 - [ ] downgrading desktop app
 - [ ] desktop app beta channel
 - [ ] version suffix for beta
