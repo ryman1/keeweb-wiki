@@ -5,3 +5,4 @@ Pending tasks and unsolved problems
 - [ ] allow to extend kdbxweb from plugins
 - [ ] downgrading desktop app
 - [ ] desktop app beta channel
+- [ ] version suffix for beta
