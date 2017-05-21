@@ -6,3 +6,4 @@ Pending tasks and unsolved problems
 - [ ] downgrading desktop app
 - [ ] desktop app beta channel
 - [ ] version suffix for beta
+- [ ] fancy plugins page
