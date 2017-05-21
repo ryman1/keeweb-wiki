@@ -3,3 +3,4 @@ Pending tasks and unsolved problems
 - [ ] replace bower with npm
 - [ ] upgrade electron to v1.7 once it's stable
 - [ ] allow to extend kdbxweb from plugins
+- [ ] downgrading desktop app
