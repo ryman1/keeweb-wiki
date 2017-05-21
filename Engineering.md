@@ -1,4 +1,5 @@
 Pending tasks and unsolved problems
+- [ ] new code signing for windows
 - [ ] upgrade electron to v1.7 once it's stable
 - [ ] replace bower with npm
 - [ ] allow to extend kdbxweb from plugins
