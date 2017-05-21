@@ -4,3 +4,4 @@ Pending tasks and unsolved problems
 - [ ] upgrade electron to v1.7 once it's stable
 - [ ] allow to extend kdbxweb from plugins
 - [ ] downgrading desktop app
+- [ ] desktop app beta channel
