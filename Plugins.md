@@ -55,7 +55,7 @@ Typical structure:
 ```js
 {
   "version": "0.0.1",
-  "manifestVersion": "0.1.1",
+  "manifestVersion": "0.1.0",
   "name": "my-awesome-plugin",
   "description": "My asweome plugin",
   "author": {
