@@ -55,7 +55,7 @@ Typical structure:
 ```js
 {
   "version": "0.0.1",
-  "manifestVersion": "0.1.0",
+  "manifestVersion": "0.1.1",
   "name": "my-awesome-plugin",
   "description": "My asweome plugin",
   "author": {
@@ -69,7 +69,10 @@ Typical structure:
     "js": "<signature>",
     "css": "<signature>"
   },
-  "publicKey": "<public_key>"
+  "publicKey": "<public_key>",
+  "desktop": false,
+  "versionMin": null,
+  "versionMax": null
 }
 ```
 
