@@ -80,6 +80,7 @@ var value = kw.settings.get('setting');
 var allSettings = kw.settings.get();
 kw.settings.set('setting', value);
 kw.settings.set({ setting: value });
+kw.settings.del('setting');
 ```
 Values you set here are saved and applied immediately. Please be careful.  
 You can call these methods from dev console.
