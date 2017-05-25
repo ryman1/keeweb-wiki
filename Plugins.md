@@ -47,7 +47,7 @@ Plugin examples: https://github.com/keeweb/keeweb/tree/develop/plugins/examples
 - [storage](https://github.com/keeweb/keeweb/tree/develop/plugins/examples/fail-storage)
 - [settings](https://github.com/keeweb/keeweb/tree/develop/plugins/examples/settings)
 
-Real-worls plugins are [here](https://github.com/keeweb/keeweb-plugins/tree/master/docs/plugins/).
+Real-world plugins are [here](https://github.com/keeweb/keeweb-plugins/tree/master/docs/plugins/), you .
 
 ## Manifest
 
