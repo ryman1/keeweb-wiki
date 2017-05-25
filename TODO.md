@@ -1,5 +1,5 @@
 ## v1.6
-- [ ] KeePassHttp
+- [ ] keeweb-http
 - [ ] audit
 - [ ] redesigned dropbox chooser
 - [ ] faster Argon2 in desktop app
