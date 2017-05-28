@@ -17,7 +17,7 @@ A: Most probably CORS is not enabled on your server. Please check out this [page
 
 ### Security
 Q: Is it secure?  
-A: The app makes no external requests unless you ask for it explicitly, it's completely offline, all your data is stored locally and never sent by network. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow, disturbing and insecure stuff like that. The only request this app performs is version check which can be disabled in app settings, and it's done via HTTPS. The other behaviour is not different from usual desktop or web apps.  
+A: The app never sends your data over network, unless you ask for it explicitly, it's completely offline, all your data is stored locally and never sent by network. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow, disturbing and insecure stuff like that. The only request this app performs is version check which can be disabled in app settings, and it's done via HTTPS. The other behaviour is not different from usual desktop or web apps.  
 
 Q: Can other pages in browser or insecure plugins access my passwords?  
 A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions.  
