@@ -2,4 +2,4 @@
 - [ ] audit
 - [ ] redesigned dropbox chooser
 - [ ] faster Argon2 in desktop app
-- [ ] desktop apps integrity protection
+- [ ] desktop app integrity protection
