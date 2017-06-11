@@ -65,10 +65,10 @@ Config fields description (all fields are optional; please don't copy exactly th
     "path": "webdav-url", // full path to file, including file name, e.g. WebDAV url
     "options": { "user": "", "password": "" } // only for WebDAV, server auth details
   }],
+  "showOnlyFilesFromConfig": false, // allow to open only files from config, remove previously opened files
   "plugins": [{ // if you want to auto-install some plugins
     "url": "" // plugin url (you can also add "manifest", if to enforce publicKey validation)
   }]
-  "showOnlyFilesFromConfig": false // allow to open only files from config, remove previously opened files
 }
 ```
 
