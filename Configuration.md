@@ -10,7 +10,7 @@ You can also specify the file which you would like to open as the last argument:
 
 # JSON app config
 
-The webapp can load settings from JSON config ([here's an example config](https://github.com/keeweb/keeweb/blob/develop/util/config-example.json)) located on your server. There are two options to specify config location, whichever you like more:
+The webapp can load settings from JSON config located on your server. There are two options to specify config location, whichever you like more:
 - add `config` url parameter: `https://your-keeweb-deployment-url/?config=your-config.json`
 - set `kw-config` meta-tag value: replace `(no-config)` string in app index.html with your config url
 
