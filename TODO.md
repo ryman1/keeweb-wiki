@@ -2,4 +2,4 @@
 - [x] desktop app integrity protection
 - [ ] audit
 - [ ] redesigned dropbox chooser
-- [x] desktop app speed improvements
+- [x] speedup of desktop apps
