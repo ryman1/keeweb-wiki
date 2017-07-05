@@ -35,6 +35,12 @@ Available on:
   https://127.0.0.1:8081
 ```
 
+If you don't have a key, here's how to generate it:
+```bash
+openssl genrsa -out key.pem 2048
+openssl req -new -x509 -sha256 -key key.pem -out cert.pem -days 3650
+```
+
 Please note that plugins muse be hosted on HTTPS server.  
 Now add your plugin to KeeWeb with this url: `https://127.0.0.1:8081`.
 
