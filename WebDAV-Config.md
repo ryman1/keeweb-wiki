@@ -38,6 +38,30 @@ if ($request_method = 'OPTIONS') {
 }
 ```
 
+For caddy:
+```
+your.domain.com {
+  basicauth /realurl user password
+  webdav /realurl {
+    scope /diskpath
+  }
+  cors / {
+    origin *
+    methods GET,HEAD,POST,PUT,OPTIONS,MOVE,DELETE,COPY,LOCK,UNLOCK,PROPFIND,MKCOL
+    allow_credentials true
+    max_age 1728000
+    allowed_headers Authorization,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,X-Accept-Charset,X-Accept,origin,accept,if-match,destination,overwrite
+    exposed_headers ETag
+  }
+  rewrite /fake_url_for_kbdx  {
+    if {method} not_is OPTIONS
+    to /realurl/{path}
+  }
+  log /diskpathtolog
+  errors /diskpathtoerrorlog
+}
+```
+
 If you want KeeWeb to write files with PUT, instead of moving temporary file, you can change it with a switch in Settings &rarr; General.
 
 ## Custom certificates
