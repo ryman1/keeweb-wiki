@@ -73,8 +73,8 @@ Config fields description (all fields are optional; please don't copy exactly th
 ```
 
 If it doesn't start with your config:
+- open DevTools in browser and inspect the error
 - validate your config, e.g. here: https://jsonlint.com/
-- try to understand the error in browser DevTools
 
 # App settings js API
 
