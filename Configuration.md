@@ -14,7 +14,7 @@ The webapp can load settings from JSON config located on your server. There are 
 - add `config` url parameter: `https://your-keeweb-deployment-url/?config=your-config.json`
 - set `kw-config` meta-tag value: replace `(no-config)` string in app index.html with your config url
 
-Config fields description (all fields are optional; please don't copy exactly this config; add only necessary fields):
+Config fields description (all fields are optional; please don't copy exactly this config; add only necessary fields and remove all comments):
 ```javascript
 {
   "settings": {
@@ -71,6 +71,10 @@ Config fields description (all fields are optional; please don't copy exactly th
   }]
 }
 ```
+
+If it doesn't start with your config:
+- validate your config, e.g. here: https://jsonlint.com/
+- try to understand the error in browser DevTools
 
 # App settings js API
 
