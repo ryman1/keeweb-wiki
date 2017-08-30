@@ -20,7 +20,7 @@ How to build and publish new KeeWeb release.
 7. [draft a new release](https://github.com/keeweb/keeweb/releases/new) as `Desktop apps vX.Y.Z`
 8. paste release notes there, strip trailing spaces in them, to prevent extra newlines
 9. upload desktop builds from `dist/desktop` and save the draft
-10. add signed git tag `vX.Y.Z`
+10. add a signed git tag `vX.Y.Z`
 
 ### Publish
 
