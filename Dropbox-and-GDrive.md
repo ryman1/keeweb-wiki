@@ -7,8 +7,9 @@ How to make Dropbox and Google Drive work on your server?
    <img src="https://habrastorage.org/files/d33/233/587/d33233587d134e0bb130ad08e66a4405.png"/>
 3. Choose Dropbox API, not business API, and the desired Dropbox access  
    <img src="https://habrastorage.org/files/100/dbb/0af/100dbb0afdf84635b834366a8b558ef9.png"/>
-4. Setup URLs  
+4. Setup URLs
    <img src="https://habrastorage.org/files/6c3/1de/8e3/6c31de8e307545eb99d4a938bb65362c.png"/>
+   add `https://app.keeweb.info` to the list of URLs as well  
 5. Add Dropbox app key to KeeWeb, either as `dropboxAppKey` [config](Configuration#json-app-config) field, or in the UI
 
 ## Google Drive
