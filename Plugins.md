@@ -184,4 +184,4 @@ To add settings, export two functions:
 
 ## Contribution
 
-3rd-party plugins will not be added to KeeWeb. If you would like to contribute, please open a pull request [in keeweb-plugins](https://github.com/keeweb/keeweb-plugins).  
+3rd-party plugins will not be added to KeeWeb without a prior approval and review. If you would like to contribute a plugin, please open a pull request [in keeweb-plugins](https://github.com/keeweb/keeweb-plugins) repo.  
