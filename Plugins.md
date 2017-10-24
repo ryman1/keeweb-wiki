@@ -1,4 +1,4 @@
-## How to create KeeWeb plugin
+## How to create KeeWeb plugins
 
 KeeWeb Plugin Creation Tool is the easiest way to start, here's it:  
 https://plugins.keeweb.info/create.html
