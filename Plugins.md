@@ -176,17 +176,12 @@ To add settings, export two functions:
 
 ## Guidelines
 
-- ❗️ DO NOT obfuscate, uglify, etc... plugin code, including styles and locales: it must be easy to read and review  
-&rarr; uglified plugins will be marked as dangerous  
 - initialization should not take long, it's better to lazy-load stuff  
-&rarr; users will be able to see slow plugins  
 - take everything with you, don't read resources from network  
-&rarr; such plugins will be marked as dangerous  
 - revert all changes in uninstall function  
 - use common sense: KeeWeb has no plugin API, plugins extend KeeWeb by augmenting its functions; don't go crazy, to be able to maintain your plugin in new versions, if you feel that something is too hard to extend, it's better to submit a PR or ask for a feature  
-- think about compatibility: kdbx format and everything you add there must be compatible with all other clients
-- it's recommended to host your plugin on github, not on your server
+- think about compatibility: kdbx format should be compatible with all other clients  
 
-## Distributing your plugin
+## Contribution
 
-Please [open an issue](https://github.com/keeweb/keeweb-plugins/issues/new) in keeweb-plugins repo and fill in the required fields.
+3rd-party plugins will not be added to KeeWeb. If you would like to contribute, please open a pull request [in keeweb-plugins](https://github.com/keeweb/keeweb-plugins).  
