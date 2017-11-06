@@ -71,3 +71,7 @@ If your WebDAV server is using a self-signed or invalid certificate, you can use
 certutil -d sql:$HOME/.pki/nssdb -A -t TC -n "my_domain.lan" -i ~/ca.crt
 ```
 On Windows, adding your CA to trusted certificates storage may help.
+
+## IMAP mailbox backups
+
+It's possible to backup files to your IMAP mailbox using [mailbox-backup](https://github.com/ErikOnBike/mailbox-backup) proxy (warning: this project is in beta for now).
