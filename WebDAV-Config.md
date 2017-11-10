@@ -75,3 +75,7 @@ On Windows, adding your CA to trusted certificates storage may help.
 ## IMAP mailbox backups
 
 It's possible to backup files to your IMAP mailbox using [mailbox-backup](https://github.com/ErikOnBike/mailbox-backup) proxy (warning: this project is in beta for now).
+
+## Synology
+
+You can find some information in [this issue](https://github.com/keeweb/keeweb/issues/703#issuecomment-326404286).
