@@ -20,11 +20,6 @@ $ keeweb-plugin sign my-awesome-plugin
 Or watch and sign on changes:
 ```bash
 $ keeweb-plugin watch my-awesome-plugin
-```
-
-Watch also starts a server to test the plugin. You should see something like this:
-```bash
-$ keeweb-plugin watch my-awesome-plugin
 KeeWeb plugin utils v0.1.8
 This is your plugin URL for keeweb: https://127.0.0.1:8089
 But first, open it in browser and click Proceed on unsafe website warning screen
