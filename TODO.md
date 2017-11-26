@@ -3,3 +3,4 @@
 - [ ] audit
 - [x] redesigned dropbox chooser
 - [x] various speed improvements in desktop apps
+- [x] new OneDrive API
