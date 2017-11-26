@@ -2,5 +2,5 @@
 - [x] desktop app integrity protection
 - [ ] audit
 - [x] redesigned dropbox chooser
-- [x] various speed improvements in desktop apps
+- [x] speed improvements in desktop apps
 - [x] new OneDrive API
