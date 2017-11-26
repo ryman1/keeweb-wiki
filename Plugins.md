@@ -22,27 +22,16 @@ Or watch and sign on changes:
 $ keeweb-plugin watch my-awesome-plugin
 ```
 
-After it, you can test your plugin and make it public.
-
-## Testing your plugin
-
-Host your plugin somewhere, for example:
+Watch also starts a server to test the plugin. You should see something like this:
 ```bash
-$ npm i -g http-server
-$ http-server -c-1 --cors -p8081 -S
-Starting up http-server, serving ./
-Available on:
-  https://127.0.0.1:8081
+$ node ../keeweb-plugin/keeweb-plugin.js watch my-awesome-plugin
+KeeWeb plugin utils v0.1.8
+This is your plugin URL for keeweb: https://127.0.0.1:8089
+But first, open it in browser and click Proceed on unsafe website warning screen
+Waiting for changes...
 ```
 
-If you don't have a key, here's how to generate it:
-```bash
-openssl genrsa -out key.pem 2048
-openssl req -new -x509 -sha256 -key key.pem -out cert.pem -days 3650
-```
-
-Please note that plugins muse be hosted on HTTPS server.  
-Now add your plugin to KeeWeb with this url: `https://127.0.0.1:8081`.
+Now add your plugin to KeeWeb with this url: `https://127.0.0.1:8089`.
 
 ## Examples
 
