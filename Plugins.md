@@ -24,7 +24,7 @@ $ keeweb-plugin watch my-awesome-plugin
 
 Watch also starts a server to test the plugin. You should see something like this:
 ```bash
-$ node ../keeweb-plugin/keeweb-plugin.js watch my-awesome-plugin
+$ keeweb-plugin watch my-awesome-plugin
 KeeWeb plugin utils v0.1.8
 This is your plugin URL for keeweb: https://127.0.0.1:8089
 But first, open it in browser and click Proceed on unsafe website warning screen
