@@ -6,7 +6,7 @@ Q: Yet another KeePass client app? Why? What is the motivation?
 A: Because there's no cross-platform app with good UI and no browser version.  
 
 Q: What is the geography of KeeWeb?  
-A: KeeWeb is made in Amsterdam, the Netherlands. Websites and the source code are hosted in the U.S. on GitHub servers, the content is delivered through CloudFlare, Akamai, and Amazon CDNs. Domain names are registered in the U.S.  
+A: KeeWeb is made in Amsterdam, the Netherlands. Websites and the source code are hosted in the U.S. on GitHub servers, the content is delivered through CloudFlare and Amazon CDNs. Domain names are registered in the U.S.  
 
 ### Compatibility
 Q: Is it compatible with KeePass? What about KeePassX or other clients?  
