@@ -42,7 +42,7 @@ How to build and publish new KeeWeb release.
 
 1. merge `master` into `develop`
 2. close all fixed [issues](https://github.com/keeweb/keeweb/issues) for this milestone
-3. rebuild beta
+3. rebuild the beta
 
 ### Major releases
 
