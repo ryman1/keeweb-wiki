@@ -5,6 +5,9 @@ A: If you prefer desktop version, there are [desktop clients](https://github.com
 Q: Yet another KeePass client app? Why? What is the motivation?  
 A: Because there's no cross-platform app with good UI and no browser version.  
 
+Q: What is the geography of KeeWeb?  
+A: KeeWeb is made in Amsterdam, the Netherlands. Websites and source code are hosted in the U.S. on GitHub servers, their content is delivered through CloudFlare CDN.  
+
 ### Compatibility
 Q: Is it compatible with KeePass? What about KeePassX or other clients?  
 A: File format is compatible and all features important to users are supported. If something is not working, please open an issue, and it will be investigated. Only kdbx (KeePass v2), not kdb (KeePass v1) is supported. You can use KeePass to convert between them.  
