@@ -9,7 +9,7 @@ How to build and publish new KeeWeb release.
 5. bump version with `node util/set-version.js X.Y.Z`
 6. merge release branch into `master`
 
-### Release
+### Build
 
 1. make sure you're on `master`
 2. install node modules: `npm i`
