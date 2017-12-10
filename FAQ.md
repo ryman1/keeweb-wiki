@@ -59,7 +59,7 @@ Q: Will KeePass plugins be ever supported?
 A: No. They are not cross-platform and depend on KeePass libs.  
 
 Q: Are plugins secure?  
-A: Yes. KeeWeb checks plugins signatures and doesn't allow to install unverified plugins. 3rdparty plugins can be enabled only if you configure KeeWeb to allow them.  
+A: Yes. KeeWeb checks plugins signatures and doesn't allow to install unverified plugins. 3rd-party plugins can be enabled only if you configure KeeWeb to allow them.  
 
 ### Self-hosting
 Q: Which server should I use?  
