@@ -39,7 +39,7 @@ Q: What is offline?
 A: A web page cannot open files from your filesystem, so they are cached. When you open an offline file, a cached state will be used.  
 
 Q: What will happen if I change a file saved to cloud on another computer?  
-A: Changes will be loaded by all peers once you save them or auto-save happens.  
+A: Changes will be loaded and merged by all peers once you save them or auto-save happens.  
 
 Q: I've changed WebDAV password and cannot sync my db anymore.  
 A: Remove it and add again. Don't forget to download it if there are any changes.  
