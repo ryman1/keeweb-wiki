@@ -3,7 +3,7 @@ Q: Password manager in a browser?
 A: If you prefer desktop version, there are [desktop clients](https://github.com/keeweb/keeweb/releases/latest) for all major OS: Mac, Windows, and Linux. It's called Kee*Web* because it's created with web technologies.  
 
 Q: Yet another KeePass client app? Why? What is the motivation?  
-A: Because there's no cross-platform app with good UI and no browser version.  
+A: Because there's no cross-platform app with good UX and no browser version.  
 
 Q: Are there plans to commercialize KeeWeb?  
 A: KeeWeb will always remain free and ad-free, at least for personal use. If you're asked to pay for “full version” or “ad removal”, most probably it's a scam. The only official app is https://app.keeweb.info and desktop apps downloaded from https://keeweb.info or [GitHub releases](https://github.com/keeweb/keeweb/releases).  
