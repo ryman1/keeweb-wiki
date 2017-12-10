@@ -82,7 +82,7 @@ Q: I want a feature.
 A: You can [either open a feature request](https://github.com/keeweb/keeweb/issues/new?title=[Feature%20request]%20) or submit a pull request with it.  
 
 Q: The feature I want is very strange, or useful for me only, or conflicts with author's product vision or roadmap, and I'm ready to pay for it.  
-A: Please, [contact](http://antelle.net/) the author (please note, the price will be high; expected requests are corporate features, enterprise customization, private installations an so on, and not _plz make this feature faster for a cup of coffee_).  
+A: Please [contact](http://antelle.net/) the author (please note, the price will be high; expected requests are corporate features, enterprise customization, private installations an so on, and not _plz make this feature faster for a cup of coffee_).  
 
 Q: And if I donate?  
 A: Donation is a way to say "thank you", it does not imply any type of service contract.  
