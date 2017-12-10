@@ -23,9 +23,9 @@ A: Most probably CORS is not enabled on your server. Please check out this [page
 
 ### Security
 Q: Does it send my data anywhere?  
-A: The app never sends your data over network, unless you ask for it explicitly, it's completely offline, all your data is stored locally and never sent by network. It doesn't contain and will never contain any statistics collection scripts, analytics, ads and other slow, disturbing and insecure stuff like that.  
+A: The app never sends your data over network unless you ask for it explicitly, it's completely offline, all your data is stored locally and never sent by network. It doesn't contain and will never contain any statistics collection scripts, analytics, ads, and other slow, disturbing and insecure stuff like that.  
 
-Q: Can other pages in my browser or insecure plugins access my passwords?  
+Q: Can other pages in my browser or untrusted plugins access my passwords?  
 A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions.  
 
 Q: Does it have full protection from trojans or keyloggers?  
