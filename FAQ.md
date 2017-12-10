@@ -34,6 +34,9 @@ A: No. As any password manager. No app can have protection against targeted malw
 Q: I have forgot my password or lost a keyfile.  
 A: There's no way to unlock your file. All your data is encrypted with your password and stored inside kdbx on your computer.  
 
+Q: I've found a vulnerability.  
+A: Please [contact the author](mailto:antelle.net@gmail.com).  
+
 ### Sync
 Q: What is offline?  
 A: A web page cannot open files from your filesystem, so they are cached. When you open an offline file, a cached state will be used.  
