@@ -65,7 +65,7 @@ A: Yes. KeeWeb checks plugins signatures and doesn't allow to install unverified
 Q: Which server should I use?  
 A: Any static server (nginx, apache, IIS, ...). The app is single HTML file loaded in a browser. [Here](https://github.com/keeweb/keeweb#self-hosting) you will find some useful tips about self-hosting.  
 
-Q: Is it possible to use Dropbox in self-hosted version?  
+Q: Is it possible to use Dropbox in a self-hosted installation?  
 A: Yes but you will have to [create](https://github.com/keeweb/keeweb/wiki/Dropbox-and-GDrive) your own Dropbox app.  
 
 ### Features
