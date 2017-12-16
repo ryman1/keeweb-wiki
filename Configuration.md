@@ -7,10 +7,14 @@ In order to control some features of desktop app, you can use the following comm
 `--devtools` show devtools on start  
 
 You can also specify a file you would like to open as the last argument:  
-`KeeWeb my.kdbx`
+```bash
+KeeWeb my.kdbx
+```
 
-Or, with keyfile:
-`KeeWeb --keyfile=keyfile.key my.kdbx`
+Or, with a keyfile:
+```bash
+KeeWeb --keyfile=keyfile.key my.kdbx
+```
 
 # JSON app config
 
