@@ -6,8 +6,11 @@ In order to control some features of desktop app, you can use the following comm
 `--html-path=path` path to content files (useful for development)  
 `--devtools` show devtools on start  
 
-You can also specify the file which you would like to open as the last argument:  
+You can also specify a file you would like to open as the last argument:  
 `KeeWeb my.kdbx`
+
+Or, with keyfile:
+`KeeWeb --keyfile=keyfile.key my.kdbx`
 
 # JSON app config
 
