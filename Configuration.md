@@ -11,7 +11,7 @@ You can also specify a file you would like to open as the last argument:
 KeeWeb my.kdbx
 ```
 
-Or, with a keyfile:
+Or with a keyfile:
 ```bash
 KeeWeb --keyfile=keyfile.key my.kdbx
 ```
