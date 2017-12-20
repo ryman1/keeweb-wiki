@@ -38,9 +38,6 @@ Q: I've found a vulnerability.
 A: Please [contact the author](mailto:antelle.net@gmail.com).  
 
 ### Sync
-Q: What is "offline mode"?  
-A: A web page cannot open files from your filesystem, so they are cached. When you open an offline file, its cached state will be used. The same happens when you open a Dropbox file without Internet connection.  
-
 Q: What will happen if I change a file saved to cloud on another computer?  
 A: Changes will be loaded and merged by all peers once you save them or auto-save happens.  
 
