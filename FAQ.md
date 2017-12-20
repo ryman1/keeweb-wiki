@@ -13,7 +13,7 @@ A: KeeWeb is made in Amsterdam, the Netherlands. Websites and the source code ar
 
 ### Compatibility
 Q: Is it compatible with KeePass? What about KeePassX or other clients?  
-A: File format is compatible and all important features are supported. If something is not working, please open an issue, and it will be investigated. Only kdbx (KeePass v2), not kdb (KeePass v1) is supported. You can use KeePass to convert between them.  
+A: File format is compatible and all important features are supported. Only kdbx (KeePass v2), not kdb (KeePass v1) is supported. You can use KeePass to convert between them.  
 
 Q: What will happen if KeeWeb gets abandoned?  
 A: You can switch to any other KeePass-compatible client. We don't lock you in.  
