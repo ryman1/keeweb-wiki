@@ -38,7 +38,7 @@ Q: I've found a vulnerability.
 A: Please [contact the author](mailto:antelle.net@gmail.com).  
 
 ### Sync
-Q: What will happen if I change a file saved to cloud on another computer?  
+Q: What will happen if I change a file saved to cloud storage on another computer?  
 A: Changes will be loaded and merged by all peers once you save them or auto-save happens.  
 
 Q: I've changed WebDAV password and cannot sync my db anymore.  
