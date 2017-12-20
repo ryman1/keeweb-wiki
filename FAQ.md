@@ -29,7 +29,7 @@ Q: Can other pages in my browser or untrusted plugins access my passwords?
 A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions.  
 
 Q: Does it have full protection from trojans or keyloggers?  
-A: No. As any password manager. No app can have protection against targeted malware running with superuser privileges. Don't believe in bullshit and don't use password managers if it's common for you to clean out trojans from your computer during an antivirus check. You can read more in [KeePass FAQ](http://keepass.info/help/base/security.html#secspecattacks).  
+A: Although we implement some measures to prevent other apps from accessing KeeWeb, the protection is not full. There's no way to protect any app against targeted malware running with superuser privileges. You can read more in [KeePass FAQ](http://keepass.info/help/base/security.html#secspecattacks).  
 
 Q: I have forgot my password or lost a keyfile.  
 A: Unfortunately, there's no way to unlock your file. All your data is encrypted with your password and stored inside a kdbx file on your computer.  
@@ -39,7 +39,7 @@ A: Please [contact the author](mailto:antelle.net@gmail.com).
 
 ### Sync
 Q: What is offline?  
-A: A web page cannot open files from your filesystem, so they are cached. When you open an offline file, a cached state will be used.  
+A: A web page cannot open files from your filesystem, so they are cached. When you open an offline file, its cached state will be used.  
 
 Q: What will happen if I change a file saved to cloud on another computer?  
 A: Changes will be loaded and merged by all peers once you save them or auto-save happens.  
