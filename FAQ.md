@@ -42,7 +42,7 @@ Q: What will happen if I change a file saved to cloud storage on another compute
 A: Changes will be loaded and merged by all peers once you save them or auto-save happens.  
 
 Q: I've changed WebDAV password and cannot sync my db anymore.  
-A: Remove it and add again. Don't forget to download it if there are any changes.  
+A: Remove and add it again. Don't forget to download it if there are any changes.  
 
 Q: Is WebDAV password stored in cleartext?  
 A: No. It's not possible to decrypt it without access to kdbx.  
