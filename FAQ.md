@@ -38,7 +38,7 @@ Q: I've found a vulnerability.
 A: Please [contact the author](mailto:antelle.net@gmail.com).  
 
 ### Sync
-Q: What is offline?  
+Q: What is "offline mode"?  
 A: A web page cannot open files from your filesystem, so they are cached. When you open an offline file, its cached state will be used.  
 
 Q: What will happen if I change a file saved to cloud on another computer?  
