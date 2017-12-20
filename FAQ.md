@@ -82,4 +82,4 @@ Q: I want a feature.
 A: You can [either open a feature request](https://github.com/keeweb/keeweb/issues/new?title=[Feature%20request]%20) or submit a pull request with it.  
 
 Q: Will you implement it if I donate?  
-A: Donation is a way to say "thank you", it does not imply any type of service contract.  
+A: Donation is a way to say “thank you”, it does not imply any type of service contract.  
