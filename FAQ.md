@@ -29,7 +29,7 @@ Q: Can other pages in my browser or untrusted plugins access my passwords?
 A: Other pages must have no access to it. If you have some strange plugins in your browser installed, they might have access to data on pages, depending on plugin permissions.  
 
 Q: Does it have full protection from trojans or keyloggers?  
-A: Although we implement some measures to prevent other apps from accessing KeeWeb, the protection is not full. There's no way to protect any app against targeted malware running with superuser privileges. You can read more in [KeePass FAQ](http://keepass.info/help/base/security.html#secspecattacks).  
+A: Although we have implemented some measures to prevent other apps from accessing KeeWeb, the protection is not full. There's no way to protect any app against targeted malware running with superuser privileges. You can read more in [KeePass FAQ](http://keepass.info/help/base/security.html#secspecattacks).  
 
 Q: I have forgot my password or lost a keyfile.  
 A: Unfortunately, there's no way to unlock your file. All your data is encrypted with your password and stored inside a kdbx file on your computer.  
