@@ -9,7 +9,7 @@ AutoFill is possible only in Desktop apps, it's not available in the web version
 ![plugins](https://user-images.githubusercontent.com/633557/34461926-b0ba929c-ee38-11e7-9d71-3c47fa0cd3c7.png)
 2. Find KeeWebHttp plugin and install it:
 ![http](https://user-images.githubusercontent.com/633557/34461924-b069df50-ee38-11e7-851a-548cc648c9fd.png)
-3. It's recommended to activate automatic update check:
+3. It's recommended to activate automatic update check to get the latest updates and security fixes:
 ![installed](https://user-images.githubusercontent.com/633557/34461947-f50025e8-ee38-11e7-9b05-3631eb331bdd.png)
 
 ## Chrome
