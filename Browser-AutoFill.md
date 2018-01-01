@@ -4,7 +4,7 @@ But first, we would like to warn you about the [criticism of KeePassHTTP securit
 
 ## KeeWebHttp
 
-AutoFill is possible only in Desktop apps, it's not available in the web version.
+AutoFill is available only in Desktop apps, not in the web version.
 1. Go to Settings &rarr; Plugins and load the plugin gallery:
 ![plugins](https://user-images.githubusercontent.com/633557/34461926-b0ba929c-ee38-11e7-9d71-3c47fa0cd3c7.png)
 2. Find KeeWebHttp plugin and install it:
