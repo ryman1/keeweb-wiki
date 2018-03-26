@@ -75,7 +75,7 @@ Config fields description (all fields are optional; please don't copy exactly th
   }],
   "showOnlyFilesFromConfig": false, // allow to open only files from config, remove previously opened files
   "plugins": [{ // if you want to auto-install some plugins
-    "url": "" // plugin url (you can also add "manifest", if to enforce publicKey validation)
+    "url": "" // plugin url (you can also add "manifest" to enforce publicKey validation)
   }]
 }
 ```
