@@ -24,6 +24,8 @@ How to make Dropbox and Google Drive work on your server?
 5. Setup URLs  
    <img src="https://habrastorage.org/files/8fb/e84/e08/8fbe84e08cfd4fdc987cd3b430d030ee.png"/>  
    <img src="https://habrastorage.org/files/df5/26a/064/df526a0649c9493aa1dffd3e0454f96c.png"/>
+
+   URL here is the exact URL where you load KeeWeb: if it has index.html, add index.html there too.
 6. Set Client ID in KeeWeb, in `gdriveClientId` field of your [config](Configuration#json-app-config)
 7. You will need to either verify your domain, or add yourself to [Risky Access Permissions By Unreviewed Apps](https://groups.google.com/forum/#!forum/risky-access-by-unreviewed-apps) Google Group (more about Google Drive in [this issue](https://github.com/keeweb/keeweb/issues/667)).
 8. [Enable](https://console.developers.google.com/apis/library) Drive API for your project.
