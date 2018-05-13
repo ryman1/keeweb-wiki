@@ -6,15 +6,25 @@ Here's a config example:
 
 For Apache:
 ```
-Header always set Access-Control-Allow-Origin "*"
-Header always set Access-Control-Allow-Headers "origin, content-type, cache-control, accept, authorization, if-match, destination, overwrite"
-Header always set Access-Control-Expose-Headers "ETag"
-Header always set Access-Control-Allow-Methods "GET, HEAD, POST, PUT, OPTIONS, MOVE, DELETE, COPY, LOCK, UNLOCK"
-Header always set Access-Control-Allow-Credentials "true"
-
 RewriteEngine on
 RewriteCond %{REQUEST_METHOD} OPTIONS
 RewriteRule ^(.*)$ blank.html [R=200,L,E=HTTP_ORIGIN:%{HTTP:ORIGIN}]
+
+<Directory "/path/to/your/directory">
+  AuthType "Basic"
+  AuthName "Password Manager"
+  AuthBasicProvider file
+  AuthUserFile "/your/htpasswd.file"
+  Require user someuser
+
+  DAV On
+  Options Indexes
+  Header always set Access-Control-Allow-Origin "*"
+  Header always set Access-Control-Allow-Headers "origin, content-type, cache-control, accept, authorization, if-match, destination, overwrite"
+  Header always set Access-Control-Expose-Headers "ETag"
+  Header always set Access-Control-Allow-Methods "GET, HEAD, POST, PUT, OPTIONS, MOVE, DELETE, COPY, LOCK, UNLOCK"
+  Header always set Access-Control-Allow-Credentials "true"
+</Directory>
 ```
 
 For nginx:
