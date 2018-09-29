@@ -20,7 +20,7 @@ KeeWeb --keyfile=keyfile.key my.kdbx
 
 The webapp can load settings from JSON config located on your server. There are two options to specify config location, whichever you like more:
 - add `config` url parameter: `https://your-keeweb-deployment-url/?config=your-config.json`
-- set `kw-config` meta-tag value: replace `(no-config)` string in app index.html with your config url
+- set `kw-config` meta-tag value: replace `(no-config)` string in app index.html with your config url (please remember to clear browser cache to make sure changes are applied)
 
 Config fields description (all fields are optional; please don't copy exactly this config; add only necessary fields and remove all comments):
 ```javascript
