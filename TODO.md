@@ -1,1 +1,1 @@
-Nothing is currently planned here. Please see issues/milestones for more information.
+Nothing is currently planned here. Please see [milestones](https://github.com/keeweb/keeweb/milestones) for more information.
