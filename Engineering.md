@@ -1,4 +1,5 @@
-Pending tasks and unsolved problems
-- [ ] save backup info to kdbx
-- [ ] key rotation
-- [ ] allow to extend kdbxweb from plugins
+Pending tasks and unsolved issues
+- key rotation
+- save backup info to kdbx
+- allow to extend kdbxweb from plugins
+- implement custom plug-ins in desktop apps
