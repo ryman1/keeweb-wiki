@@ -30,7 +30,6 @@ How to build and publish new KeeWeb release.
 1. push `master` with tags &rarr; all pending issues are now closed
 2. publish the release with tag `vX.Y.Z` &rarr; at this point, users can download this release
 3. push `gh-pages` &rarr; the software becomes available online and for auto-update
-4. rebuild docker image from `master`
 
 ### Final check
 
