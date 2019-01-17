@@ -15,7 +15,7 @@ How to build and publish new KeeWeb release.
 2. install node modules: `npm i`
 3. run `git status` and commit if there are changes
 4. build the project: `grunt desktop`
-5. test the web build, installers and desktop builds, check version in Settings / About
+5. test the web build, installers, and desktop builds, check version in Settings / About
 6. make sure that `dist/manifest.appcache` contains version `X.Y.Z` and the release date
 7. copy html and manifest from `dist` to `gh-pages` branch, commit as `vX.Y.Z`
 8. [draft a new release](https://github.com/keeweb/keeweb/releases/new) as `Desktop apps vX.Y.Z`
