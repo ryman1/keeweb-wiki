@@ -29,3 +29,14 @@ How to make Dropbox and Google Drive work on your server?
 6. Set Client ID in KeeWeb, in `gdriveClientId` field of your [config](Configuration#json-app-config)
 7. You will need to either verify your domain, or add yourself to [Risky Access Permissions By Unreviewed Apps](https://groups.google.com/forum/#!forum/risky-access-by-unreviewed-apps) Google Group (more about Google Drive in [this issue](https://github.com/keeweb/keeweb/issues/667)).
 8. [Enable](https://console.developers.google.com/apis/library) Drive API for your project.
+
+## OneDrive
+
+1. Create an app at https://apps.dev.microsoft.com/#/appList
+2. Name it
+3. Add the "Web" Platform
+4. Add the root of your site as the redirect URL
+5. Add the following permissions: `Files.Read.All`, `Files.ReadWrite.All`, `Directory.Read.All`
+6. Add the root of your site as the home page URL
+7. Save
+8. Copy the `Application Id` value and place it in KeeWeb's `config.json` under the key `onedriveClientId`
