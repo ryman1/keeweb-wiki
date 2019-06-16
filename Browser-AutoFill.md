@@ -14,7 +14,7 @@ AutoFill is available only in Desktop apps.
 
 ## Chrome
 
-1. Install [ChromeIPass extension](https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae).
+1. Install [KeePassHttp-Connector extension](https://chrome.google.com/webstore/detail/keepasshttp-connector/dafgdjggglmmknipkhngniifhplpcldb).
 2. Go to its settings and click Connect:
 ![settings](https://user-images.githubusercontent.com/633557/34462051-49750146-ee3b-11e7-8fc7-1785e9b8b3ec.png)
 3. Approve the request in KeeWeb:
