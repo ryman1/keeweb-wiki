@@ -10,3 +10,4 @@ Features in this list will not be supported because they are considered visually
 - native scrollbars
 - save without compression
 - old .kdb files support
+- yarn
