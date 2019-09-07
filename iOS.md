@@ -17,7 +17,7 @@ Which options are there on iOS?
 
 💲 freemium, full version $24.99 or $9.99/year  
 ➕ open-source  
-➕ Face ID
+➕ Face ID  
 ➕ AutoFill is working, files are auto-updated
 
 ## MiniKeePass
