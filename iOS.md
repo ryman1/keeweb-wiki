@@ -38,3 +38,11 @@ Which options are there on iOS?
 ➖ source code is provided only per request, see [this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606)  
 ➕ Face ID  
 ➕ AutoFill  
+
+## KeePassium
+
+[Website](https://keepassium.com), [GitHub](https://github.com/keepassium/KeePassium), [App Store](https://apps.apple.com/us/app/id1435127111)
+
+💲 freemium, full version $44.99 or $14.99/year  
+➕ Face ID  
+➕ AutoFill  
