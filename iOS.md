@@ -32,9 +32,9 @@ Which options are there on iOS?
 
 ## KeePass Touch
 
-[Website](https://www.innervate.de/keepass-touch.html), [GitHub: not clear, see this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606), [App Store](https://apps.apple.com/us/app/keepass-touch/id966759076)
+[Website](https://www.innervate.de/keepass-touch.html), [GitHub: see this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606), [App Store](https://apps.apple.com/us/app/keepass-touch/id966759076)
 
 💲 freemium, full version $0.99  
-➖ open-source because it's a fork of MiniKeePass which is GPL, but the developer is not willing to share the source code with everyone, see [this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606)  
+➖ open-source because it's a fork of MiniKeePass which is GPL, but the developer provides the source code only per request, see [this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606)  
 ➕ Face ID  
 ➕ AutoFill  
