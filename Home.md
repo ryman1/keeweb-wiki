@@ -1,4 +1,4 @@
-Welcome to the keeweb wiki!  
+Welcome to the KeeWeb wiki!  
 
 Here are some quick links:
 
