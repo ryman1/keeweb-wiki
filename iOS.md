@@ -36,5 +36,5 @@ Which options are there on iOS?
 
 💲 freemium, full version $0.99  
 ➖ open-source because it's a fork of MiniKeePass which is GPL, but the developer is not willing to share the source code with everyone, see [this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606)  
-➕ Face ID
+➕ Face ID  
 ➕ AutoFill  
