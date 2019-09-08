@@ -1,4 +1,6 @@
-Which options are there on iOS?
+# How to use KeePass password files on iOS?  
+
+Disclaimer: we're not affiliated with any of apps below.  
 
 ## KeeWeb
 
