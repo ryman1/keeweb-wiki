@@ -12,6 +12,7 @@ Disclaimer: we're not affiliated with any of apps below.
 ➕ open-source  
 ➕ same features as in KeeWeb  
 ➖ no AutoFill support, you have to copy passwords  
+➖ no Face ID
 
 ## Strongbox
 
