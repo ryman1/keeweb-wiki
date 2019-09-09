@@ -11,8 +11,8 @@ Disclaimer: we're not affiliated with any of 3ds-party apps below.
 💲 free  
 ➕ open-source  
 ➕ same features as in KeeWeb  
+➖ no Face ID unlock  
 ➖ no AutoFill support, you have to copy passwords  
-➖ no Face ID  
 
 ## Strongbox
 
