@@ -1,6 +1,6 @@
 # How to use KeePass password files on iOS
 
-Disclaimer: we're not affiliated with any of 3ds-party apps below.  
+Disclaimer: we're not affiliated with any of 3rd-party apps below.  
 
 ## KeeWeb
 
