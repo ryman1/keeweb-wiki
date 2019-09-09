@@ -21,8 +21,8 @@ A: You can switch to any other KeePass-compatible client. We don't lock you in.
 Q: WebDAV is not working  
 A: Most probably CORS is not enabled on your server. Please check out this [page](WebDAV-Config).  
 
-Q: Is there a mobile app?  
-A: Yes and no, please see [this page](iOS).  
+Q: Is there an iOS app?  
+A: Yes and no, please see different options described on [this page](iOS).  
 
 ### Security
 Q: Does it send my data anywhere?  
