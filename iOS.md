@@ -2,7 +2,7 @@
 
 Disclaimer: we're not affiliated with any of 3rd-party apps below.
 
-This page is not an app store or catalog, but more an [awesome list](https://github.com/sindresorhus/awesome/blob/master/awesome.md) Please contribute only if you can personally recommend an app.  
+This page is not an app store or catalog, but more an [awesome list](https://github.com/sindresorhus/awesome/blob/master/awesome.md) of compatible apps. Please contribute only if you can personally recommend an app.  
 
 ## KeeWeb
 
