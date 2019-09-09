@@ -1,4 +1,4 @@
-# How to use KeePass password files on iOS
+# How to use KDBX password files on iOS
 
 Disclaimer: we're not affiliated with any of 3rd-party apps below.  
 
