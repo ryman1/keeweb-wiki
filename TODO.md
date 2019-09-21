@@ -1,4 +1,5 @@
 Issues are planned using GitHub milestones.
 
-- [list of issues for the next release](https://github.com/keeweb/keeweb/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.11)
+- [list of issues for the next release: new + ready](https://github.com/keeweb/keeweb/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.11)
+- [list of issues for the next release: pending](https://github.com/keeweb/keeweb/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.11+no%3Aassignee)
 - [what do milestones mean in KeeWeb?](https://github.com/keeweb/keeweb/wiki/FAQ#features)
