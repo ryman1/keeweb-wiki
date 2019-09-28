@@ -1,6 +1,6 @@
 How to build and publish a new KeeWeb release.
 
-### Prerequesties
+### Prerequisites
 
 1. run `npm start` in keeweb-plugins and push if there are changes
 2. checkout a release or patch branch
