@@ -29,7 +29,7 @@ This page is not an app store or catalog, but more an [awesome list](https://git
 
 [Website](http://minikeepass.github.io), [GitHub](https://github.com/MiniKeePass/MiniKeePass), [App Store](https://apps.apple.com/us/app/minikeepass/id451661808)  
 
-Since the app is abandoned, we don't recommend it, however it's on this page because there are a lot of other apps based on it.
+Since it's abandoned long ago, we don't recommend it, however it's on this page because there are a lot of other apps and forks based on it.
 
 💲 free  
 ➕ open-source  
