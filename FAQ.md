@@ -76,7 +76,7 @@ Q: When will my issue be fixed?
 A: Please check the Milestone field for this issue. Possible values:
 - vN.M.x: in the upcoming hotfix for a currently published version
 - vN.M: in vN.M release, according to the [roadmap](TODO)
-- vN.x: in some release after current release
+- vN.x: in some release after the current release
 - Future: I don't know, maybe never
 - Future-Plugins: never, unless anyone contributes a plugin
 
