@@ -24,13 +24,7 @@ AutoFill is available only in Desktop apps.
 
 ## Safari
 
-1. Install [KeePassHelper extension](https://safari-extensions.apple.com/details/?id=com.add0n.keepass-RED8XKG2R4).
-2. Click the Lock icon:
-![lock](https://user-images.githubusercontent.com/633557/34462185-5a1e5634-ee3e-11e7-804f-f55d5ef7d6b0.png)
-3. Approve the request in KeeWeb:
-![keeweb](https://user-images.githubusercontent.com/633557/34462026-ada43584-ee3a-11e7-9fc6-1bb240696512.png)
-4. Make sure it's working:
-![installed](https://user-images.githubusercontent.com/633557/34462179-2641808e-ee3e-11e7-8ec9-cd040568b01c.png)
+There's no extension at the moment. You can use auto-type to autofill passwords.
 
 ## Firefox
 
