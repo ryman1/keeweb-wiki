@@ -91,4 +91,4 @@ Views are built on [Handlebars.js](https://handlebarsjs.com) and rendered with [
 
 SCSS styles are using [Bourbon](https://www.bourbon.io) as a framework. We have our own [theme engine](https://github.com/keeweb/keeweb/tree/master/app/styles/themes) that supports switching themes with CSS custom properties.
 
-Desktop apps are launched with Electron.
+Desktop apps are created with Electron.
