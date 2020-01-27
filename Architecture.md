@@ -22,7 +22,7 @@
 
 ## KeeWeb repository layout
 
-Let's take a closer look on [keeweb](https://github.com/keeweb/keeweb) repository.  
+Let's take a closer look at [keeweb](https://github.com/keeweb/keeweb) repository.  
 It consists of the following parts:
 
 * `app`: application source code, both web and desktop
