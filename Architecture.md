@@ -77,3 +77,14 @@ Now let's dive deeper into the structure of the application code located in [kee
 * `index.html`: HTML page template where all scripts and styles are imported
 * `manifest.appcache`: not used for caching anymore, contains only update information for desktop apps
 * `service-worker.js`: service worker used for caching and update management
+
+## Frameworks
+
+The app is built on our own [micro-framework](https://github.com/keeweb/keeweb/tree/master/app/scripts/framework) which is similar to Backbone. Originally it was Backbone, but we were not using much of it and started bringing more limitations than problems it solved. The current framework consists of these building blocks:
+
+* [model](https://github.com/keeweb/keeweb/blob/master/app/scripts/framework/model.js)
+* [collection](https://github.com/keeweb/keeweb/blob/master/app/scripts/framework/collection.js)
+* [events](https://github.com/keeweb/keeweb/blob/master/app/scripts/framework/events.js), which is the `EventEmitter` module from node.js
+* [view](https://github.com/keeweb/keeweb/blob/master/app/scripts/framework/views/view.js)
+
+Views are built on [Handlebars.js](https://handlebarsjs.com) and rendered with [morphdom](https://github.com/patrick-steele-idem/morphdom), which gives us a possibility to re-render them without losing input state.
