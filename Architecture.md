@@ -10,7 +10,7 @@
   * contains plugins, themes, and translations
   * [plugins.keeweb.info](https://plugins.keeweb.info)
 * [keeweb-site](https://github.com/keeweb/keeweb-site)
-  * the promotional website
+  * our promotional website
   * [keeweb.info](https://keeweb.info)
 * [favicon-proxy](https://github.com/keeweb/favicon-proxy)
   * CORS-enabled proxy used to load favicons from websites
