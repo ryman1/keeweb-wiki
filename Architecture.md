@@ -90,3 +90,5 @@ The app is built on our own [micro-framework](https://github.com/keeweb/keeweb/t
 Views are built on [Handlebars.js](https://handlebarsjs.com) and rendered with [morphdom](https://github.com/patrick-steele-idem/morphdom), which gives us a possibility to re-render them without losing input state.
 
 SCSS styles are using [Bourbon](https://www.bourbon.io) as a framework. We have our own [theme engine](https://github.com/keeweb/keeweb/tree/master/app/styles/themes) that supports switching themes with CSS custom properties.
+
+Desktop apps are launched with Electron.
