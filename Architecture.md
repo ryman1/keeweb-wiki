@@ -53,8 +53,6 @@ Now let's dive deeper into the structure of the application code located in [kee
 * `scripts`: JS source code root
   * `app.js`: entry point
   * `auto-type`: auto-type engine used in desktop apps
-    * `emitter`: platform-specific implementations of pressing keys
-    * `helper`: platform-specific implementations of getting window text and browser URL
   * `collections`: collection models with their methods, such as list of open files
   * `comp`: complex components with business logic using utilities, views, events, and so on
   * `const`: constant definitions
