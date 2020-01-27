@@ -92,3 +92,9 @@ Views are built on [Handlebars.js](https://handlebarsjs.com) and rendered with [
 SCSS styles are using [Bourbon](https://www.bourbon.io) as a framework. We have our own [theme engine](https://github.com/keeweb/keeweb/tree/master/app/styles/themes) that supports switching themes with CSS custom properties.
 
 Desktop apps are created with Electron.
+
+## Building
+
+The app is bundled with WebPack and built with Grunt. While it's a bit ancient to use Grunt nowadays, it's still far ahead of using npm scripts and perfectly solves the task of doing different actions with JS. However it't not used for any of web bundle building tasks, this part is completely moved to WebPack.
+
+Desktop apps are packaged with [electron-packager](https://github.com/electron/electron-packager) and then built into distributables with Grunt. We're not using [electron-builder](https://www.electron.build) because the installers are heavily customized and patching it is harder than implement them on our own.
