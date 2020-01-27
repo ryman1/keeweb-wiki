@@ -70,7 +70,7 @@ Now let's dive deeper into the structure of the application code located in [kee
   * `areas`: styles divided by parts of the app, such as footer or header
   * `base`: common styles, such as global font stack
   * `common`: SCSS components used on different areas of the application
-  * `themes`: theme support engine and theme definitions
+  * `themes`: theme definitions
   * `utils`: SCSS utilities and mixins
 * `templates`: Handlebars templates root
 * `favicon.png`: favicon for the website
