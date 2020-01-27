@@ -18,7 +18,7 @@
 * [keeweb-tools](https://github.com/keeweb/keeweb-tools)
   * tools for low-level working with kdbx files
   * [tools.keeweb.info](https://tools.keeweb.info)
-* ...forks of some repositories that can be found in [keeweb organization](https://github.com/keeweb)
+* ...forks of some repositories that can be found in [keeweb](https://github.com/keeweb) organization
 
 ## KeeWeb repository layout
 
