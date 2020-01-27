@@ -88,3 +88,5 @@ The app is built on our own [micro-framework](https://github.com/keeweb/keeweb/t
 * [view](https://github.com/keeweb/keeweb/blob/master/app/scripts/framework/views/view.js)
 
 Views are built on [Handlebars.js](https://handlebarsjs.com) and rendered with [morphdom](https://github.com/patrick-steele-idem/morphdom), which gives us a possibility to re-render them without losing input state.
+
+SCSS styles are using [Bourbon](https://www.bourbon.io) as a framework.
