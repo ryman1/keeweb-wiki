@@ -80,7 +80,7 @@ Now let's dive deeper into the structure of the application code located in [kee
 
 ## Frameworks
 
-The app is built on our own [micro-framework](https://github.com/keeweb/keeweb/tree/master/app/scripts/framework) which is similar to Backbone. Originally it was on Backbone, but we were not using much of it and started bringing more limitations than problems it solved. The current framework consists of these building blocks:
+The app is built on our own [micro-framework](https://github.com/keeweb/keeweb/tree/master/app/scripts/framework) that is similar to Backbone. Originally it was on Backbone, but we were not using much of it and started bringing more limitations than problems it solved. The current framework consists of these building blocks:
 
 * [events](https://github.com/keeweb/keeweb/blob/master/app/scripts/framework/events.js) (the `EventEmitter` module from node.js)
 * [model](https://github.com/keeweb/keeweb/blob/master/app/scripts/framework/model.js)
