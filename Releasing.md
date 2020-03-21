@@ -1,4 +1,4 @@
-How to build and publish a new KeeWeb release (for maintainers).
+For maintainers: how to build and publish a new KeeWeb release.
 
 ### Prerequisites
 
