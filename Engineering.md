@@ -5,5 +5,5 @@ Technical things that would be nice to implement:
 - details-view is too big and complicated to understand
 - scrolling init is complicated and requires css tricks every time
 - group shouldn’t inherit menu
-- remove jQuery itself and jQuery-style dom patches, use reactive rendering instead
+- remove jQuery itself replace jQuery-style dom patches with reactive rendering
 - increase test coverage
