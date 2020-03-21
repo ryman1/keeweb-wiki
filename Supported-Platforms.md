@@ -8,10 +8,10 @@ Web &ndash; last stable version of browsers:
 IE was abandoned by Microsoft, we don't support it anymore.  
 
 Desktop:
-- Windows 7
-- Mac OS X 10.9 Mavericks
+- Windows 8
+- Mac OS X 10.10 Yosemite
 - Linux Ubuntu 12, Debian 8, Fedora 21
 
 Mobile web:
-- iOS 10 Safari, Chrome
+- iOS 12 Safari, Chrome
 - Android Chrome
