@@ -7,7 +7,7 @@ Web &ndash; last stable version of browsers:
 
 IE was abandoned by Microsoft, we don't support it anymore.  
 
-Desktop:
+Desktop, same as [electron](https://www.electronjs.org/docs/tutorial/support#supported-platforms):
 - Windows 8
 - Mac OS X 10.10 Yosemite
 - Linux Ubuntu 12, Debian 8, Fedora 21
