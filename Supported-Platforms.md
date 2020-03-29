@@ -1,4 +1,5 @@
-Web &ndash; last stable version of browsers:
+## Web
+Last stable version of browsers:
 - Chrome
 - Firefox
 - Safari
@@ -7,11 +8,19 @@ Web &ndash; last stable version of browsers:
 
 IE was abandoned by Microsoft, we don't support it anymore.  
 
-Desktop, same as [electron](https://www.electronjs.org/docs/tutorial/support#supported-platforms):
+## Desktop
+Same as [electron](https://www.electronjs.org/docs/tutorial/support#supported-platforms):
 - Windows 8
 - Mac OS X 10.10 Yosemite
 - Linux Ubuntu 12, Debian 8, Fedora 21
 
-Mobile web:
+Desktop apps have a number of features that are not available on web:
+- auto-type
+- seamless work with local files
+- WebDAV sync without CORS on the webserver
+- more shortcuts
+- possibility to clear clipboard after some time
+
+## Mobile web
 - iOS 12 Safari, Chrome
 - Android Chrome
