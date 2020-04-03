@@ -74,7 +74,7 @@ A: Yes but you will have to [create](https://github.com/keeweb/keeweb/wiki/Dropb
 ### Features
 Q: When will my issue be fixed?  
 A: Please check the Milestone field for this issue. Possible values:
-- vN.M.x: in the upcoming hotfix for a currently published version
+- vN.M.x: in the upcoming hotfix for the currently published version
 - vN.M: in vN.M release, according to the [roadmap](TODO)
 - vN.x: in some release after the current release
 - Future: I don't know, maybe never
