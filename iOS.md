@@ -6,6 +6,8 @@ This page is not an app store or catalog, but more an [awesome list](https://git
 
 ## KeeWeb
 
+We don't have an own app, but there's a workaround.
+
 1. open [app.keeweb.info](https://app.keeweb.info) in Safari
 2. tap Share
 3. select Add to Home Screen
