@@ -1,10 +1,10 @@
-## Getting started
+### Getting started
 
-- [FAQ](FAQ)
-- [Supported Platforms](Supported%20Platforms)
-- [iOS](iOS)
-- [Auto Type](Auto%20Type)
-- [Browser AutoFill](Browser%20AutoFill)
+[FAQ](FAQ)  
+[Supported Platforms](Supported%20Platforms)  
+[iOS](iOS)  
+[Auto Type](Auto%20Type)  
+[Browser AutoFill](Browser%20AutoFill)
 
 #### Self-hosting and configuration
 
