@@ -6,7 +6,7 @@ This page is not an app store or catalog, but more an [awesome list](https://git
 
 ## KeeWeb
 
-We don't have an own app, but there's a workaround.
+We don't have an own app, but there's a workaround. However it's recommended to use an app instead.
 
 1. open [app.keeweb.info](https://app.keeweb.info) in Safari
 2. tap Share
