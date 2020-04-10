@@ -25,7 +25,9 @@ We don't have an own app, but there's a workaround. However it's recommended to 
 💲 freemium, full version $24.99 or $9.99/year  
 ➕ open-source  
 ➕ Face ID  
-➕ AutoFill is working, files are synced
+➕ AutoFill  
+➕ Various sync options  
+➕ YubiKey support  
 
 ## MiniKeePass
 
@@ -56,6 +58,7 @@ Since it's abandoned long ago, we don't recommend it, however it's on this page 
 ➕ open-source  
 ➕ Face ID  
 ➕ AutoFill  
+➕ YubiKey support  
 
 ## KyPass
 
