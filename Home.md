@@ -14,7 +14,7 @@ Here's a map of all our Wiki pages
 #### Getting started
 
 - [FAQ](FAQ)
-- [Supported Platforms](Supported Platforms)
+- [Supported Platforms](Supported%20Platforms)
 - [iOS](iOS)
 - [Auto Type](Auto Type)
 - [Browser AutoFill](Browser AutoFill)
