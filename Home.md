@@ -7,4 +7,29 @@ Website: [keeweb.info](https://keeweb.info)
 Twitter: [kee_web](https://twitter.com/kee_web)  
 Donate: [OpenCollective](https://opencollective.com/keeweb#support), [GitHub](https://github.com/sponsors/antelle)  
 
-## Guide
+## Map
+
+Here's a map of all our Wiki pages
+
+#### Getting started
+
+- [FAQ](FAQ)
+- [Supported Platforms](Supported Platforms)
+- [iOS](iOS)
+- [Auto Type](Auto Type)
+- [Browser AutoFill](Browser AutoFill)
+
+#### Self-hosting and configuration
+
+- [Configuration](Configuration)
+- [WebDAV Config](WebDAV Config)
+- [Dropbox and GDrive](Dropbox and GDrive)
+
+#### Developing and extending KeeWeb
+
+- [Architecture](Architecture)
+- [Engineering](Engineering)
+- [Plugins](Plugins)
+- [Unsupported Features](Unsupported Features)
+- [Releasing](Releasing)
+- [TODO](TODO)
