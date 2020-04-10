@@ -1,4 +1,4 @@
-# Getting started
+## Getting started
 
 - [FAQ](FAQ)
 - [Supported Platforms](Supported%20Platforms)
