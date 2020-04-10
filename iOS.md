@@ -26,7 +26,7 @@ We don't have an own app, but there's a workaround. However it's recommended to 
 ➕ open-source  
 ➕ Face ID  
 ➕ AutoFill  
-➕ Various sync options  
+➕ various sync options  
 ➕ YubiKey support  
 
 ## MiniKeePass
