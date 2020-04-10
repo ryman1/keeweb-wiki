@@ -1,4 +1,4 @@
-### Getting started
+#### Getting started
 
 [FAQ](FAQ)  
 [Supported Platforms](Supported%20Platforms)  
@@ -8,15 +8,15 @@
 
 #### Self-hosting and configuration
 
-- [Configuration](Configuration)
-- [WebDAV Config](WebDAV%20Config)
-- [Dropbox and GDrive](Dropbox%20and%20GDrive)
+[Configuration](Configuration)  
+[WebDAV Config](WebDAV%20Config)  
+[Dropbox and GDrive](Dropbox%20and%20GDrive)
 
 #### Developing and extending KeeWeb
 
-- [Architecture](Architecture)
-- [Engineering](Engineering)
-- [Plugins](Plugins)
-- [Unsupported Features](Unsupported%20Features)
-- [Releasing](Releasing)
-- [TODO](TODO)
+[Architecture](Architecture)  
+[Engineering](Engineering)  
+[Plugins](Plugins)  
+[Unsupported Features](Unsupported%20Features)  
+[Releasing](Releasing)  
+[TODO](TODO)
