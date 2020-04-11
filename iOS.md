@@ -29,18 +29,6 @@ We don't have an own app, but there's a workaround. However it's recommended to 
 ➕ various sync options  
 ➕ YubiKey support  
 
-## MiniKeePass
-
-[Website](http://minikeepass.github.io), [GitHub](https://github.com/MiniKeePass/MiniKeePass), [App Store](https://apps.apple.com/app/minikeepass/id451661808)  
-
-Since it's abandoned long ago, we don't recommend it, however it's on this page because there are a lot of other apps and forks based on it.
-
-💲 free  
-➕ open-source  
-➖ abandoned, new formats are not supported  
-➖ no AutoFill support  
-➖ sync is manual  
-
 ## KeePass Touch
 
 [Website](https://www.innervate.de/keepass-touch.html), [GitHub: see this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606), [App Store](https://apps.apple.com/app/keepass-touch/id966759076)  
