@@ -75,5 +75,5 @@ Since it's abandoned long ago, we don't recommend it, however it's on this page 
 
 💲 free  
 ➕ open-source  
-➖ no Face ID support  
+➕ Face ID  
 ➖ no AutoFill support  
