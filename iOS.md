@@ -68,7 +68,7 @@ We don't have an own app, but there's a workaround. However it's recommended to 
 
 # Blacklist
 
-Don't download and use these apps for iOS:
+Don't download or use these apps for iOS:
 
 - MiniKeePass: abandoned, probably has issues
 - KeePass: they simply stole the name, it's something else
