@@ -1,4 +1,4 @@
-Technical things that would be nice to implement:
+Technical things that would be nice to improve:
 
 - app-model is not a model and must be splitted
 - app-view is too big and has non-view responsibilities
