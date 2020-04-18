@@ -1,5 +1,7 @@
 For maintainers: how to build and publish a new KeeWeb release.
 
+⚠️ this document is outdated, builds are now performed on CI.
+
 ### Prerequisites
 
 1. run `npm start` in keeweb-plugins and push if there are changes
