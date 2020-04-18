@@ -4,7 +4,8 @@
 [Supported Platforms](Supported%20Platforms)  
 [iOS](iOS)  
 [Auto Type](Auto%20Type)  
-[Browser AutoFill](Browser%20AutoFill)
+[Browser AutoFill](Browser%20AutoFill)  
+[Contributing](https://github.com/keeweb/keeweb/blob/master/CONTRIBUTING.md#readme)  
 
 #### Self-hosting and configuration
 
