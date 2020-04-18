@@ -71,6 +71,11 @@ A: Any static server (nginx, apache, IIS, ...). The app is a single HTML file lo
 Q: Is it possible to use Dropbox in a self-hosted installation?  
 A: Yes but you will have to [create](https://github.com/keeweb/keeweb/wiki/Dropbox-and-GDrive) your own Dropbox app.  
 
+### Contribution
+
+Q: I would like to participate in development, donate, or contribute in another way.  
+A: Contribution guide can be found [here](https://github.com/keeweb/keeweb/blob/master/CONTRIBUTING.md).  
+
 ### Features
 Q: When will my issue be fixed?  
 A: Please check the Milestone field for this issue. Possible values:
