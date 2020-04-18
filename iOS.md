@@ -72,3 +72,5 @@ We advise against using these iOS apps:
 
 - MiniKeePass: abandoned, probably has issues
 - KeePass: they have simply stolen the name, it's something else
+
+Likewise, there's a number of other abandoned apps in the App Store. We would strongly recommend not using them, since they're not kept up to date with latest security features of iOS and the KeePass format.
