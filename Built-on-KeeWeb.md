@@ -5,4 +5,4 @@ KeeWeb is opensource. More important, the code is released under a liberal MIT l
 - Nextcoud-keeweb: https://apps.nextcloud.com/apps/keeweb
 - Kee Vault: https://www.kee.pm
 
-If you have another app built ob KeeWeb, please [let me know](mailto:antelle.net@gmail.com).
+If you have another app built on KeeWeb, please [let me know](mailto:antelle.net@gmail.com).
