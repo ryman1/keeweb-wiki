@@ -12,6 +12,7 @@ How to make Dropbox and Google Drive work on your server?
 
    add `https://app.keeweb.info` to the list of OAuth URLs as well
 5. Add Dropbox app key to KeeWeb, either as `dropboxAppKey` [config](Configuration#json-app-config) field, or in the UI
+6. Click Show secret and add it to KeeWeb in the same way, the config field is called `dropboxSecret`
 
 ## Google Drive
 
@@ -26,7 +27,7 @@ How to make Dropbox and Google Drive work on your server?
    <img src="https://habrastorage.org/files/df5/26a/064/df526a0649c9493aa1dffd3e0454f96c.png"/>
 
    URL here is the exact URL where you load KeeWeb: if it has index.html, add index.html there too.
-6. Set Client ID in KeeWeb, in `gdriveClientId` field of your [config](Configuration#json-app-config)
+6. Set Client ID and Secret in KeeWeb, in `gdriveClientId` and `gdriveSecret` fields of your [config](Configuration#json-app-config)
 7. You will need to either verify your domain, or add yourself to [Risky Access Permissions By Unreviewed Apps](https://groups.google.com/forum/#!forum/risky-access-by-unreviewed-apps) Google Group (more about Google Drive in [this issue](https://github.com/keeweb/keeweb/issues/667)).
 8. [Enable](https://console.developers.google.com/apis/library) Drive API for your project.
 
@@ -40,3 +41,4 @@ How to make Dropbox and Google Drive work on your server?
 6. Add the root of your site as the home page URL
 7. Save
 8. Copy the `Application Id` value and place it in KeeWeb's `config.json` under the key `onedriveClientId`
+8. Copy the secret into `onedriveSecret`
