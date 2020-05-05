@@ -6,4 +6,3 @@ Technical things that would be nice to improve:
 - scrolling init is complicated and requires css tricks every time
 - group shouldn’t inherit menu
 - remove jQuery itself replace jQuery-style dom patches with reactive rendering
-- increase test coverage
