@@ -7,7 +7,7 @@ How to make Dropbox and Google Drive work on your server?
    <img src="https://habrastorage.org/files/d33/233/587/d33233587d134e0bb130ad08e66a4405.png"/>
 3. Choose Dropbox API, not business API, and the desired Dropbox access  
    <img src="https://habrastorage.org/files/100/dbb/0af/100dbb0afdf84635b834366a8b558ef9.png"/>
-4. Setup URLs (the redirect uri is `<your host>/oauth-result/dropbox.html`)  
+4. Setup URLs (the redirect uri is `https://<your host>/oauth-result/dropbox.html`)  
    <img src="https://habrastorage.org/files/6c3/1de/8e3/6c31de8e307545eb99d4a938bb65362c.png"/>
 5. Add Dropbox app key to KeeWeb, either as `dropboxAppKey` [config](Configuration#json-app-config) field, or in the UI
 6. Click Show secret and add it to KeeWeb in the same way, the config field is called `dropboxSecret`
@@ -20,7 +20,7 @@ How to make Dropbox and Google Drive work on your server?
 3. Create OAuth Client ID  
    <img src="https://habrastorage.org/files/4b4/8e8/fbb/4b48e8fbb1e04c95910bcdb4e993861d.png"/>
 4. Choose Web application  
-5. Setup URLs (the redirect uri is `<your host>/oauth-result/gdrive.html`)  
+5. Setup URLs (the redirect uri is `https://<your host>/oauth-result/gdrive.html`)  
    <img src="https://habrastorage.org/files/8fb/e84/e08/8fbe84e08cfd4fdc987cd3b430d030ee.png"/>  
    <img src="https://habrastorage.org/files/df5/26a/064/df526a0649c9493aa1dffd3e0454f96c.png"/>
 
@@ -34,7 +34,7 @@ How to make Dropbox and Google Drive work on your server?
 1. Create an app at https://apps.dev.microsoft.com/#/appList
 2. Name it
 3. Add the "Web" Platform
-4. Add this redirect URL: `<your host>/oauth-result/onedrive.html`
+4. Add this redirect URL: `https://<your host>/oauth-result/onedrive.html`
 5. Add the following permissions: `Files.Read.All`, `Files.ReadWrite.All`, `Directory.Read.All`
 6. Add the root of your site as the home page URL
 7. Save
