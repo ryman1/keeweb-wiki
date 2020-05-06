@@ -1,4 +1,4 @@
-# Command-line switches
+## Command-line switches
 
 In order to control some features of desktop app, you can use the following command-line switches:  
 `--disable-updater` totally disable updater and hide Update option in app settings  
@@ -16,7 +16,7 @@ Or with a keyfile:
 KeeWeb --keyfile=keyfile.key my.kdbx
 ```
 
-# JSON app config
+## JSON app config
 
 The webapp can load settings from JSON config located on your server. There are two options to specify config location, whichever you like more:
 - add `config` url parameter: `https://your-keeweb-deployment-url/?config=your-config.json`
@@ -52,7 +52,7 @@ If it doesn't start with your config:
 - open DevTools in browser and inspect the error
 - validate your config, e.g. here: https://jsonlint.com/
 
-# App settings js API
+## App settings js API
 
 There's an interface for accessing app settings from [this list](https://github.com/keeweb/keeweb/blob/master/app/scripts/models/app-settings-model.js#L8):
 ```javascript
