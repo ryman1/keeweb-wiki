@@ -1,18 +1,18 @@
-# Requirements
+## Requirements
 
 Auto-Type is available for all desktop platforms.  
 On Linux, xdotool installation is required: `sudo apt-get install xdotool`.  
 
-# Supported
+## Supported
 
-## Modifiers
+### Modifiers
 
 `+` &rarr; shift  
 `%` &rarr; alt  
 `^` &rarr; cmd on Mac, ctrl on Windows and Linux  
 `^^` &rarr; ctrl on all OS  
 
-## Keys
+### Keys
 
 `{TAB}` `{ENTER}`=`~` `{SPACE}`   
 `{UP}` `{DOWN}` `{LEFT}` `{RIGHT}` `{HOME}` `{END}` `{PGUP}` `{PGDN}`  
@@ -21,24 +21,24 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 `{ADD}` `{SUBTRACT}` `{MULTIPLY}` `{DIVIDE}` `{NUMPAD0}`..`{NUMPAD9}`  
 `{+}` `{%}` `{^}` `{~}` `{(}` `{)}` `{[}` `{]}` `{{}` `{}}`  
 
-## Substitutions
+### Substitutions
 
 `{TITLE}` `{USERNAME}` `{URL}` `{PASSWORD}` `{NOTES}` `{GROUP}`  
 `{TOTP}` `{S:Custom Field Name}`  
 `{DT_SIMPLE}` `{DT_YEAR}` `{DT_MONTH}` `{DT_DAY}` `{DT_HOUR}` `{DT_MINUTE}` `{DT_SECOND}`  
 `{DT_UTC_SIMPLE}` `{DT_UTC_YEAR}` `{DT_UTC_MONTH}` `{DT_UTC_DAY}` `{DT_UTC_HOUR}` `{DT_UTC_MINUTE}` `{DT_UTC_SECOND}`  
 
-## Commands
+### Commands
 
 `{DELAY X}` `{CLEARFIELD}` `{VKEY X}`
 
-## Combinations
+### Combinations
 
 `+(abc)` &rarr; ABC (abc with shift)  
 `{a 3}` &rarr; aaa  
 `^^({TAB} +{TAB})` &rarr; ctrl-tab ctrl-shift-tab  
 
-# Not supported
+## Not supported
 
 `{CAPSLOCK}` `{NUMLOCK}` `{SCROLLLOCK}` `{APPS}` `{HELP}` `{PRTSC}` `{BREAK}`  
 `{DELAY=X}`  
