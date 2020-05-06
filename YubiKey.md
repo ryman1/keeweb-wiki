@@ -16,8 +16,8 @@ KeeWeb is using [ykman](https://github.com/Yubico/yubikey-manager#yubikey-manage
 
 This mode is used to store a component of master key on a YubiKey. The implementation is compatible with [KeeChallenge](https://github.com/brush701/keechallenge) plugin, [KeePassXC](https://keepassxc.org/docs/#faq-yubikey-2fa), and many other apps.
 
-Yubico: https://www.yubico.com/products/services-software/personalization-tools/challenge-response/
-KeePass: https://keepass.info/help/kb/yubikey.html
+Yubico: https://www.yubico.com/products/services-software/personalization-tools/challenge-response/  
+KeePass: https://keepass.info/help/kb/yubikey.html  
 
 To select a YubiKey slot, click the YubiKey icon on the open screen. Clicking it several times switches between available slots and YubiKeys. Once selected, YubiKey choice is saved in settings, next time it will be used automatically.
 
@@ -27,7 +27,7 @@ There's a caveat: YubiKey must be plugged in and you have to press the key every
 
 YubiKey can be used to generate one-time codes for 2FA. Compared to 2FA implemented in KeeWeb, this is a much better option because secrets cannot be exported from a YubiKey.
 
-Yubico: https://www.yubico.com/products/services-software/personalization-tools/oath/
+Yubico: https://www.yubico.com/products/services-software/personalization-tools/oath/  
 
 YubiKey OATH is usually protected with a password, which is managed by `ykman`. If you don't have it saved there, KeeWeb will show an error.
 
