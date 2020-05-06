@@ -14,7 +14,7 @@ KeeWeb is using [ykman](https://github.com/Yubico/yubikey-manager#yubikey-manage
 
 ## Challenge-response
 
-This mode is used to store a component of master key on a YubiKey. The implementation is compatible with [KeeChallenge](https://github.com/brush701/keechallenge) plugin, [KeePassXC](https://keepassxc.org/docs/#faq-yubikey-2fa), and many other apps.
+This mode is used to store a component of master key on a YubiKey. The implementation is compatible with [KeeChallenge](https://github.com/brush701/keechallenge) plugin for KeePass, [KeePassXC](https://keepassxc.org/docs/#faq-yubikey-2fa), and many other apps.
 
 Yubico: https://www.yubico.com/products/services-software/personalization-tools/challenge-response/  
 KeePass: https://keepass.info/help/kb/yubikey.html  
