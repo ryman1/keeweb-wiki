@@ -42,6 +42,8 @@ Yubico: https://www.yubico.com/products/services-software/personalization-tools/
 
 YubiKey OATH is usually protected with a password, which is managed by `ykman`. If you don't have it saved there, KeeWeb will show an error.
 
+New OATH codes can be added in other tools, such as YubiKey Authenticator. After modifying codes on the YubiKey reopen it in KeeWeb to load new codes.
+
 ### Entry matching
 
 When you open YubiKey from the open screen, the app shows codes saved there as read-only entries. If there's an open file, KeeWeb tries to match entries from files with entries on the YubiKey, so that both are displayed on the same details page. Entries are considered matching when:
