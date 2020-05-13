@@ -59,4 +59,4 @@ Sometimes YubiKeys can be stuck, in this case `ykman oath` command times out wit
 
 ## Platform support
 
-All features described here are supported only in 64-bit desktop apps.
+All features described here are supported only in desktop apps.
