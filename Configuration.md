@@ -64,3 +64,20 @@ kw.settings.del('setting');
 ```
 Values you set here are saved and applied immediately. Please be careful.  
 You can call these methods from dev console.
+
+## Portable
+
+By default KeeWeb saves temporary files and configs into a user data directory. To create a completely portable installation:
+
+1. put KeeWeb to the desired location, for example a USB drive
+2. create a file called `keeweb-portable.json` with the following content:
+    ```json
+    {
+        "userDataDir": "relative/path/to/data/dir"
+    }
+    ```
+    The config should be located:
+    - on windows: next to `KeeWeb.exe`
+    - on Linux: next to `KeeWeb`
+    - on macOS: next to `KeeWeb.app`
+3. launch KeeWeb and make sure it creates the directory you specified in the config
