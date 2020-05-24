@@ -53,9 +53,9 @@ When you open YubiKey from the open screen, the app shows codes saved there as r
 
 If it's not possible to change title and username (for example, PayPal has strange usernames in 2FA), you can add a custom property called `YubiKey` with the following contents: `title:username`. For example, if you have 2FA on Dropbox, it will be `Dropbox:user@mail.com`. It's exactly the same format as printed by `ykman oath list`.
 
-### Issues
+## Issues
 
-Sometimes YubiKeys can be stuck, in this case `ykman oath` command times out without giving any codes and `ykman list` doesn't show the serial number. For example, this happens if you're actively using actively using other YubiKey features, such as gpg or ssh integration. It can be easily fixed if you re-enable the OATH interface (`ykman config usb -e oath -f`), however it's a potentially invasive operation, so KeeWeb doesn't do it by default. If you would like to run this command automatically when a YubiKey is stuck, you can enable this option in Settings / Devices.
+Sometimes YubiKeys can be stuck, in this case `ykman list` doesn't show the serial number. For example, this happens if you're actively using actively using other YubiKey features, such as gpg or ssh integration. It can be easily fixed if you re-enable the OATH interface (`ykman config usb -e oath -f`), however it's a potentially invasive operation, so KeeWeb doesn't do it by default. If you would like to run this command automatically when a YubiKey is stuck, you can enable this option in Settings / Devices.
 
 ## Platform support
 
