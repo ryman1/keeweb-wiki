@@ -70,7 +70,7 @@ You can call these methods from dev console.
 ##### 🚧 UNDER CONSTRUCTION 🚧
 This possibility will appear in v1.15.
 
-By default KeeWeb saves temporary files and configs into a user data directory. To create a completely portable installation:
+By default KeeWeb saves temporary files and configs into the default user's data directory. To create a completely portable installation:
 
 1. put KeeWeb to the desired location, for example a USB drive
 2. create a file called `keeweb-portable.json` with the following content:
