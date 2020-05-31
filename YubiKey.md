@@ -25,6 +25,8 @@ To select a YubiKey, click the YubiKey icon on the open screen. Once selected, Y
 
 It's possible to save YubiKey codes in memory while the app is open. Depending on your threat model it may be unexpected or not desired, so it's disabled by default. To enable it, check the corresponding option in settings.
 
+After changing YubiKey settings of a file it's recommended to delete it on other devices and re-add again, to avoid syncing issues.
+
 ### Caveats
 
 There are some caveats:
