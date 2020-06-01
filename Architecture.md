@@ -103,4 +103,6 @@ Desktop apps are packaged with [electron-packager](https://github.com/electron/e
 
 ## Native modules
 
-KeeWeb uses native modules ([node.js C++ addons](https://nodejs.org/api/addons.html#addons_context_aware_addons)) in desktop apps. All modules used in KeeWeb are built in [keeweb-native-modules](https://github.com/keeweb/keeweb-native-modules) repository.
+KeeWeb uses native modules ([node.js C++ addons](https://nodejs.org/api/addons.html#addons_context_aware_addons)) in desktop apps. All modules used in KeeWeb are built in [keeweb-native-modules](https://github.com/keeweb/keeweb-native-modules) repository. Native modules are created:
+- if the functionality is not available in Electron, for example, YubiKey API
+- when implementing it in JavaScript would be significantly slower, for example, Argon2
