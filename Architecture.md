@@ -89,7 +89,7 @@ The app is built on our own [micro-framework](https://github.com/keeweb/keeweb/t
 * [collection](https://github.com/keeweb/keeweb/blob/master/app/scripts/framework/collection.js)
 * [view](https://github.com/keeweb/keeweb/blob/master/app/scripts/framework/views/view.js)
 
-Views are built on [Handlebars.js](https://handlebarsjs.com) and rendered with [morphdom](https://github.com/patrick-steele-idem/morphdom), which gives us a possibility to re-render them without losing input state.
+Views are built on [Handlebars.js](https://handlebarsjs.com) and rendered with [morphdom](https://github.com/patrick-steele-idem/morphdom), which gives us a possibility to re-render them without losing input state. New code should be written in reactive style, however there are some direct DOM modifications in different places, ideally they should be replaced.
 
 SCSS styles are using [Bourbon](https://www.bourbon.io) as a framework. We have our own [theme engine](https://github.com/keeweb/keeweb/tree/master/app/styles/themes) that supports switching themes with CSS custom properties.
 
