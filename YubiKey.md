@@ -40,7 +40,7 @@ YubiKey can be used to generate one-time codes for 2FA. Compared to 2FA implemen
 
 Yubico: https://www.yubico.com/products/services-software/personalization-tools/oath/  
 
-KeeWeb is using [ykman](https://github.com/Yubico/yubikey-manager#yubikey-manager-cli), YubiKey Manager CLI, a tool developed by Yubico to access YubiKey OATH application. If you don't have it installed, KeeWeb will show the installation instructions.
+KeeWeb is using [ykman](https://github.com/Yubico/yubikey-manager#yubikey-manager-cli), YubiKey Manager CLI, a tool developed by Yubico to access the YubiKey OATH application. If you don't have it installed, KeeWeb will show the installation instructions.
 
 YubiKey OATH is usually protected with a password, which is managed by `ykman`. If you don't have it saved there, KeeWeb will show an error.
 
