@@ -8,10 +8,6 @@ YubiKey can be used in several modes with KeeWeb:
 - [Challenge-response](#Challenge-response): to provide a hardware-backed component of master key
 - [OATH](#OATH): for generating one-time codes
 
-## Tools
-
-KeeWeb is using [ykman](https://github.com/Yubico/yubikey-manager#yubikey-manager-cli), YubiKey Manager CLI, a tool developed by Yubico to access YubiKey from terminal. If you don't have it installed, KeeWeb will show the installation instructions.
-
 ## Challenge-response
 
 This mode is used to store a component of master key on a YubiKey. The implementation is compatible with [KeeChallenge](https://github.com/brush701/keechallenge) plugin for KeePass, [KeePassXC](https://keepassxc.org/docs/#faq-yubikey-2fa), and many other apps.
@@ -43,6 +39,8 @@ YubiKey can be used to generate one-time codes for 2FA. Compared to 2FA implemen
 ## Usage
 
 Yubico: https://www.yubico.com/products/services-software/personalization-tools/oath/  
+
+KeeWeb is using [ykman](https://github.com/Yubico/yubikey-manager#yubikey-manager-cli), YubiKey Manager CLI, a tool developed by Yubico to access YubiKey OATH application. If you don't have it installed, KeeWeb will show the installation instructions.
 
 YubiKey OATH is usually protected with a password, which is managed by `ykman`. If you don't have it saved there, KeeWeb will show an error.
 
