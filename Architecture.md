@@ -18,6 +18,8 @@
 * [keeweb-tools](https://github.com/keeweb/keeweb-tools)
   * tools for low-level working with kdbx files
   * [tools.keeweb.info](https://tools.keeweb.info)
+* [keeweb-native-modules](https://github.com/keeweb/keeweb-native-modules)
+  * pre-built native modules used in KeeWeb
 * ...forks of some repositories that can be found in [keeweb](https://github.com/keeweb) organization
 
 ## KeeWeb repository layout
@@ -98,3 +100,7 @@ Desktop apps are created with Electron.
 The app is bundled with WebPack and built with Grunt. While it's so 2010s to use Grunt nowadays, it's still far ahead of using npm scripts and perfectly does the job of running different actions with JS. However it't not used for any of web bundle building tasks, this part is completely moved to WebPack.
 
 Desktop apps are packaged with [electron-packager](https://github.com/electron/electron-packager) and then built into distributables with Grunt. We're not using [electron-builder](https://www.electron.build) because the installers are heavily customized and patching it is harder than implementing them on our own.
+
+## Native modules
+
+KeeWeb is using native modules ([node.js C++ addons](https://nodejs.org/api/addons.html#addons_context_aware_addons)) in desktop apps. All modules used in KeeWeb are compiled in [keeweb-native-modules](https://github.com/keeweb/keeweb-native-modules) repository.
