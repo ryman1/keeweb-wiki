@@ -29,8 +29,13 @@ There are some caveats:
 
 1. YubiKey must be plugged in and you have to press the key every time a file is saved or synced. This means that if you have automatic save enabled, you will be asked to press the button on your YubiKey. If you fail to do so in a timely manner or reject the request, syncing or saving will result in an error.
 2. If a file is changed remotely and these changes arrived during sync, you will see the same question again. In case you won't be able to touch the YubiKey in a timely manner, sync will fail.
+3. The implementation is compatible to KeePassXC and not KeePass/KeeChallenge, which means, you will be able to use it with clients implementing YubiKey integration this way.
 
-It's recommended to save the file manually after making changes to avoid issues mentioned above.
+### Compatibility
+
+### Warning
+
+⚠️ It's strongly recommended to save the file manually after making changes to avoid issues mentioned above.
 
 ## OATH
 
