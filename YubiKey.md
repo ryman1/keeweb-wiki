@@ -36,7 +36,6 @@ There are some caveats:
 - ✅ [KeePassXC](https://keepassxc.org/docs/#faq-yubikey-incompatible)
 - ✅ [Strongbox](https://strongboxsafe.com/faq/#hrf-entry-400)
 - ✅ [KeePassium](https://keepassium.com/blog/keepassium-1.10-yubikey/)
-
 - 🚫 [KeePass/KeeChallenge](https://keepass.info/plugins.html#keechl)
 - 🚫 [Keepass2Android](https://github.com/PhilippC/keepass2android/blob/master/docs/How-to-use-Keepass2Android-with-YubiKey-NEO.md)
 
