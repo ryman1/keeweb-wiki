@@ -1,7 +1,3 @@
-## 🚧 UNDER CONSTRUCTION 🚧
-
-YubiKey integration is under construction, it's expected to appear in v1.15.
-
 ## YubiKey modes
 
 YubiKey can be used in several modes with KeeWeb:
