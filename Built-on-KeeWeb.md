@@ -1,4 +1,4 @@
-KeeWeb is opensource. More important, the code is released under a liberal MIT license, so that other developwes can build their apps based on technologies used in KeeWeb. Below are examples of such apps.
+KeeWeb is opensource. More important, the code is released under a liberal MIT license, so that other developers can build their apps based on technologies used in KeeWeb. Below are examples of such apps.
 
 ☢️⚠️ Please note: we have absolutely no idea about trustworthiness and contents of those apps. Their source code may have diverged long ago, developers added or removed some features, or made them look and behave different. Treat them as something based on what we built, not something we recommend.
 
