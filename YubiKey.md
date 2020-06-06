@@ -13,7 +13,7 @@ This mode is used to store a component of master key on a YubiKey. The implement
 Yubico: https://www.yubico.com/products/services-software/personalization-tools/challenge-response/  
 KeePass: https://keepass.info/help/kb/yubikey.html  
 
-To select a YubiKey, click the YubiKey icon on the open screen. Once selected, YubiKey choice is saved in settings, next time it will be used automatically. If the YubiKey is not plugged in, you will be requested to attach it.
+To select a YubiKey, click the YubiKey icon on the open screen. Once selected, YubiKey choice is saved in settings, next time it will be used automatically. If the YubiKey is not plugged in, you will be prompted about it.
 
 It's possible to save YubiKey codes in memory while the app is open. Depending on your threat model it may be unexpected or not desired, so it's disabled by default. To enable it, check the corresponding option in settings.
 
