@@ -67,9 +67,6 @@ You can call these methods from dev console.
 
 ## Portable
 
-##### 🚧 UNDER CONSTRUCTION 🚧
-This possibility will appear in v1.15.
-
 By default KeeWeb saves temporary files and configs into the default user's data directory. To create a completely portable installation:
 
 1. put KeeWeb to the desired location, for example a USB drive
