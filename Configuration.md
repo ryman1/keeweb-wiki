@@ -81,5 +81,3 @@ By default KeeWeb saves temporary files and configs into the default user's data
     - on Linux: next to `KeeWeb` (executable)
     - on macOS: next to `KeeWeb.app`
 3. launch KeeWeb and make sure it creates the directory you specified in the config
-
-This guide on Vimeo: https://vimeo.com/426706823
