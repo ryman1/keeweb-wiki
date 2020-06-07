@@ -7,5 +7,4 @@ Timeline: [Release Notes](https://github.com/keeweb/keeweb/blob/master/release-n
 On one page: [Features](https://keeweb.info/#features), [FAQ](FAQ)  
 Website: [keeweb.info](https://keeweb.info)  
 Twitter: [kee_web](https://twitter.com/kee_web)  
-Vimeo: [keeweb](https://vimeo.com/keeweb)  
 Donate: [OpenCollective](https://opencollective.com/keeweb#support), [GitHub](https://github.com/sponsors/antelle)  
