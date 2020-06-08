@@ -76,7 +76,7 @@ By default KeeWeb saves temporary files and configs into the default user's data
         "userDataDir": "relative/path/to/data/dir"
     }
     ```
-    (if you're on Windows, don't forget to escape slashes in JSON, like `"c:\\program files\\..."`)
+    (if you're on Windows, don't forget to escape slashes in JSON, like `"C:\\program files\\..."`).  
     The config should be located:
     - on windows: next to `KeeWeb.exe`
     - on Linux: next to `KeeWeb` (executable)
