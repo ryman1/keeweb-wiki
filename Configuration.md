@@ -5,6 +5,7 @@ In order to control some features of desktop app, you can use the following comm
 `--proxy-server=1.2.3.4:80` use proxy 1.2.3.4:80 instead of system-wide setting  
 `--minimized` start the app minimized to tray or menubar  
 `--devtools` show devtools on start  
+`--start-logging` print startup debugging messages to stdout  
 
 You can also specify a file you would like to open as the last argument:  
 ```bash
