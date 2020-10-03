@@ -12,7 +12,7 @@ IE was abandoned by Microsoft, we don't support it anymore.
 Same as [electron](https://www.electronjs.org/docs/tutorial/support#supported-platforms):
 - Windows 7
 - Mac OS X 10.10 Yosemite
-- Linux Ubuntu 12, Debian 8, Fedora 21
+- Linux Ubuntu 12.04, Debian 8, Fedora 21
 
 Desktop apps have a number of features that are not available on web:
 - auto-type
