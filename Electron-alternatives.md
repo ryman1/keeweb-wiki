@@ -47,6 +47,11 @@ If we compare the file size:
 
 <img width="527" alt="KeeWeb Filesystem" src="https://user-images.githubusercontent.com/633557/94990520-19fd1780-057d-11eb-8ab5-70f62a794dcc.png">
 
+Download size impact:
+
+<img width="527" alt="KeeWeb download size" src="https://user-images.githubusercontent.com/633557/94990553-5cbeef80-057d-11eb-8655-2604f8df199d.png">
+
+
 So, replacing Electron with either WebView or Qt would reduce memory consumption by 50..70 MB and save ≈100 MB of disk space. The difference between WebView or Qt in terms of performance is negligible.
 
 We're not concerned much about disk space since extra 100 MB doesn't matter nowadays (which is arguable but that's our opinion), while reducing memory requirements would be nice.
