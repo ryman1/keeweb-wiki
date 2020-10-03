@@ -1,4 +1,4 @@
-Electron is known to be less memory-efficient, so here's a comparison between Electron, WebView, and Qt. This evaluation was made in October 2020.
+Electron is known to be less memory-efficient, so here's a comparison between Electron, WebView, and Qt, applied to KeeWeb. This evaluation was made in October 2020.
 
 ### About memory in macOS
 
