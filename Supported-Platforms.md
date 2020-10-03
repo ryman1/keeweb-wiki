@@ -10,7 +10,7 @@ IE was abandoned by Microsoft, we don't support it anymore.
 
 ## Desktop
 Same as [electron](https://www.electronjs.org/docs/tutorial/support#supported-platforms):
-- Windows 8
+- Windows 7
 - Mac OS X 10.10 Yosemite
 - Linux Ubuntu 12, Debian 8, Fedora 21
 
