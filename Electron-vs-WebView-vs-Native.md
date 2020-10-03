@@ -28,8 +28,8 @@ KeePassXC with the same demo database open. They have a minimalistic user interf
 
 <img width="834" alt="KeePassXC" src="https://user-images.githubusercontent.com/633557/94986320-35a4f580-055e-11eb-91d1-c052bebd76ac.png">
 
-Total: ≈118 MB  
-Approximated UI implementation: ≈140 MB  
+Total: ≈160 MB  
+Approximated UI implementation: ≈180 MB  
 
 ### Environment
 
@@ -43,7 +43,7 @@ Quick comparison gives us the following results:
 |----------|----------|------------|
 | Electron | 215 MB   | -          |
 | WebView  | 112 MB   | 140 MB     |
-| Qt       | 118 MB   | 140 MB     |
+| Qt       | 160 MB   | 180 MB     |
 
 If we compare the file size:
 
@@ -53,7 +53,7 @@ If we compare the file size:
 | WebView  | 50 MB  |
 | Qt       | 80 MB  |
 
-So, replacing Electron with either WebView or Qt would reduce memory consumption by ≈70 MB (≈35%) and save ≈100 MB (≈55%) of disk space. The difference between WebView or Qt in terms of performance is negligible.
+So, replacing Electron with either WebView or Qt would reduce memory consumption by 50..70 MB and save ≈100 MB of disk space. The difference between WebView or Qt in terms of performance is negligible.
 
 While we're not concerned much about disk space since extra 100 MB doesn't matter much nowadays, while reducing memory requirements would be nice. In terms of development effort, rewriting the app in Qt is equal to full re-creation from scratch and switching to a WebView would require some work on app stability and implementation of missing features.
 
