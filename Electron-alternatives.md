@@ -15,7 +15,7 @@ Our current electron app, production version, with the demo database open.
 Total: ≈215 MB
 
 ### WebView
-WebKit web view with app.keeweb.info, that's the theoretical minimum that we can get with this approach. Additionally there would be more memory consumed in the main process, a rough approximation is around 25 MB.
+WebKit web view with app.keeweb.info, that's the theoretical minimum that we can get with this approach. Additionally there would be more memory consumed in the main process, what we can expect here is something around 25 MB.
 
 What is actually a “WebView”? For this evaluation we selected the [minimal possible embedding](https://github.com/webview/webview) of a built-in WKWebView, it doesn’t have any node.js or other framework. Other options like Neutralino, Tauri, etc... would just use more memory compared to it.
 
