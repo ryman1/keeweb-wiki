@@ -17,7 +17,7 @@ Total: ≈215 MB
 ### WebView
 WebKit web view with app.keeweb.info, that's the theoretical minimum that we can get with this approach. Additionally there would be more memory consumed in the main process, a rough approximation is around 25 MB.
 
-What is actually a “WebView”? For this evaluation we selected the [minimal possible implementation](https://github.com/webview/webview) of WKWebView, it doesn’t have any node.js or other framework. Other options like Neutralino, Tauri, etc... would be similar to it.
+What is actually a “WebView”? For this evaluation we selected the [minimal possible embedding](https://github.com/webview/webview) of WKWebView, it doesn’t have any node.js or other framework. Other options like Neutralino, Tauri, etc... would be similar to it.
 
 <img width="615" alt="WebView" src="https://user-images.githubusercontent.com/633557/94986319-30e04180-055e-11eb-9a76-70117af26148.png">
 
