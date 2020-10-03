@@ -41,19 +41,11 @@ All testing was done on macOS Catalina without memory pressure, with a demo data
 
 Quick comparison gives us the following results:
 
-|          | Observed | Calculated |
-|----------|----------|------------|
-| Electron | 215 MB   | -          |
-| WebView  | 112 MB   | 140 MB     |
-| Qt       | 160 MB   | 180 MB     |
+<img width="527" alt="KeeWeb Memory" src="https://user-images.githubusercontent.com/633557/94990519-136ea000-057d-11eb-86ff-c5ff2d6dcf19.png">
 
 If we compare the file size:
 
-|          | Size   |
-|----------|--------|
-| Electron | 180 MB |
-| WebView  | 20 MB  |
-| Qt       | 80 MB  |
+<img width="527" alt="KeeWeb Filesystem" src="https://user-images.githubusercontent.com/633557/94990520-19fd1780-057d-11eb-8ab5-70f62a794dcc.png">
 
 So, replacing Electron with either WebView or Qt would reduce memory consumption by 50..70 MB and save ≈100 MB of disk space. The difference between WebView or Qt in terms of performance is negligible.
 
