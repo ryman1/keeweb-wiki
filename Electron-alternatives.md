@@ -43,7 +43,7 @@ Quick comparison gives us the following results:
 
 <img width="527" alt="KeeWeb Memory" src="https://user-images.githubusercontent.com/633557/94990519-136ea000-057d-11eb-86ff-c5ff2d6dcf19.png">
 
-If we compare the file size:
+If we compare the filesystem space:
 
 <img width="527" alt="KeeWeb Filesystem" src="https://user-images.githubusercontent.com/633557/94990520-19fd1780-057d-11eb-8ab5-70f62a794dcc.png">
 
