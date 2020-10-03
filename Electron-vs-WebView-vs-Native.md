@@ -1,4 +1,11 @@
-Electron is known to be less memory-efficient. Here's the comparison:
+Electron is known to be less memory-efficient. Here's the comparison.
+
+### About memory in macOS
+
+[Mac OS X Memory Jargon](https://apple.stackexchange.com/questions/284464/how-is-the-memory-column-calculated-in-activity-monitor)  
+[Mac OS X Process Memory Statistics](https://www.mikeash.com/pyblog/friday-qa-2009-06-19-mac-os-x-process-memory-statistics.html)  
+
+Here we're using "Memory" value because it's the most realistic expectation of memory that would become available if you terminate the app.
 
 ### KeeWeb
 Current electron app, production version, with the demo database open.
