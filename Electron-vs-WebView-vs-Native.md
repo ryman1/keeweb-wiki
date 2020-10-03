@@ -1,4 +1,4 @@
-Electron is known to be less memory-efficient. Here's the comparison.
+Electron is known to be less memory-efficient, here's a comparison between Electron, WebView, and Qt.
 
 ### About memory in macOS
 
