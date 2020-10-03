@@ -22,7 +22,7 @@ WebKit web view with app.keeweb.info, that's the theoretical minimum that we can
 Total: ≈112 MB  
 What it would be if missing parts are implemented: ≈140 MB
 
-### Native
+### Qt
 
 KeePassXC with the same demo database open. They have a minimalistic user interface without have animations, transitions, transparency, rich icons, and other resource-consuming elements of graphic design that we have in KeeWeb. Very rough approximation is that implementing them with QT would require extra 20 MB.  
 
