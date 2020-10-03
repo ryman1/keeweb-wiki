@@ -62,4 +62,4 @@ Switching to a WebView-based solution would need some work on app stability and 
 
 ### Decision
 
-Right now the decision is not to migrate, KeeWeb continues using Electron. Having a stable app built on a mature framework and better support of older operating systems is more important compared to extra 70 MB or memory and 100 MB of filesystem space.
+Right now the decision is not to migrate, KeeWeb continues using Electron. Having a stable app built on a mature framework and better support of older operating systems is more important compared to extra 70 MB of memory and 100 MB of filesystem space.
