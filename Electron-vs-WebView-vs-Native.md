@@ -24,7 +24,7 @@ What it would be if missing parts are implemented: ≈140 MB
 
 ### Native
 
-KeePassXC with the same demo database open. They have a minimalistic interface which doesn't have animations, transitions, transparency, rich icons, and other resource-consuming elements of graphic design that we have in KeeWeb. Very rough approximation is that implementing them with QT would require extra 20 MB.  
+KeePassXC with the same demo database open. They have a minimalistic user interface without have animations, transitions, transparency, rich icons, and other resource-consuming elements of graphic design that we have in KeeWeb. Very rough approximation is that implementing them with QT would require extra 20 MB.  
 
 <img width="834" alt="KeePassXC" src="https://user-images.githubusercontent.com/633557/94986320-35a4f580-055e-11eb-91d1-c052bebd76ac.png">
 
