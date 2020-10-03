@@ -50,7 +50,7 @@ If we compare the file size:
 |          | Size   |
 |----------|--------|
 | Electron | 180 MB |
-| WebView  | 50 MB  |
+| WebView  | 20 MB  |
 | Qt       | 80 MB  |
 
 So, replacing Electron with either WebView or Qt would reduce memory consumption by 50..70 MB and save ≈100 MB of disk space. The difference between WebView or Qt in terms of performance is negligible.
