@@ -55,7 +55,7 @@ If we compare the file size:
 
 So, replacing Electron with either WebView or Qt would reduce memory consumption by 50..70 MB and save ≈100 MB of disk space. The difference between WebView or Qt in terms of performance is negligible.
 
-While we're not concerned much about disk space since extra 100 MB doesn't matter much nowadays, while reducing memory requirements would be nice. In terms of development effort, rewriting the app in Qt is equal to full re-creation from scratch and switching to a WebView would require some work on app stability and implementation of missing features.
+While we're not concerned much about disk space since extra 100 MB doesn't matter nowadays (which is arguable but that's our opinion), while reducing memory requirements would be nice. In terms of development effort, rewriting the app in Qt is equal to full re-creation from scratch and switching to a WebView would require some work on app stability and implementation of missing features.
 
 Right the decision is not to migrate.
 
