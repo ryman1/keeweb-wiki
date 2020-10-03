@@ -8,7 +8,7 @@ Electron is known to be less memory-efficient, so here's a comparison between El
 Here we're using "Memory" value because it's the most realistic expectation of memory that would become available if you terminate the app.
 
 ### Electron
-Current electron app, production version, with the demo database open.
+Our current electron app, production version, with the demo database open.
 
 <img width="615" alt="KeeWeb" src="https://user-images.githubusercontent.com/633557/94986318-2a51ca00-055e-11eb-8aff-cf4506279b9c.png">
 
