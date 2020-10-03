@@ -30,8 +30,8 @@ KeePassXC with the same demo database open. They have a minimalistic user interf
 
 <img width="834" alt="KeePassXC" src="https://user-images.githubusercontent.com/633557/94986320-35a4f580-055e-11eb-91d1-c052bebd76ac.png">
 
-Total: ≈160 MB  
-Approximated UI implementation: ≈180 MB  
+Total: ≈118 MB  
+Approximated UI implementation: ≈150 MB  
 
 ### Environment
 
