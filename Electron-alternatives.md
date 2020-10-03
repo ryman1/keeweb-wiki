@@ -41,7 +41,7 @@ All testing was done on macOS Catalina without memory pressure, with a demo data
 
 Quick comparison gives us the following results:
 
-<img width="527" alt="KeeWeb Memory" src="https://user-images.githubusercontent.com/633557/94990519-136ea000-057d-11eb-86ff-c5ff2d6dcf19.png">
+<img width="527" alt="KeeWeb Memory" src="https://user-images.githubusercontent.com/633557/94991497-d2c65500-0583-11eb-91d8-5f2c1d0abde1.png">
 
 If we compare the filesystem space:
 
