@@ -58,7 +58,7 @@ We're not concerned much about disk space since extra 100 MB doesn't matter nowa
 
 In terms of development effort, rewriting the app in Qt is equal to full re-creation from scratch, this doesn’t sound realistic. Apart from this, the difference is not that big, so we won’t get anything from it.
 
-Switching to a WebView-based solution would need some work on app stability and implementation of missing features, but it has big wins in filesystem space and consumes 35% less memory. WebView support is however not great and it will also add limitations on our operating system coverage.
+Switching to a WebView-based solution would need some work on app stability and implementation of missing features, but it has big wins in filesystem space and consumes 35% less memory. WebView feature support is however not great and it will also add limitations on our operating system coverage because we're using latest web technologies, such as WebAssembly and WebCrypto.
 
 ### Decision
 
