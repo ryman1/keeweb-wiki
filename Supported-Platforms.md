@@ -6,7 +6,7 @@ Last stable version of browsers:
 - Edge
 - Opera
 
-IE was abandoned by Microsoft, we don't support it anymore.  
+IE is abandoned by Microsoft, we don't support it anymore.  
 
 ## Desktop
 Same as [electron](https://www.electronjs.org/docs/tutorial/support#supported-platforms):
