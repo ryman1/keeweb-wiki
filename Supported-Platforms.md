@@ -1,5 +1,5 @@
 ## Web
-Last stable version of browsers:
+Last two stable versions of browsers:
 - Chrome
 - Firefox
 - Safari
