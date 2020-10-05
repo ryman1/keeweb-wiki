@@ -3,8 +3,7 @@ Last stable version of browsers:
 - Chrome
 - Firefox
 - Safari
-- Edge
-- Opera
+- Chromium browsers: Edge, Opera, Vivaldi, Brave, etc...
 
 IE is abandoned by Microsoft, we don't support it anymore.  
 
