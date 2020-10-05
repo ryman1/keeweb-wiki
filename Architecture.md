@@ -97,7 +97,7 @@ Desktop apps are created with Electron.
 
 ## Building
 
-The app is bundled with WebPack and built with Grunt. While it's so 2010s to use Grunt nowadays, it's still far ahead of using npm scripts and perfectly does the job of running different actions with JS. However it't not used for any of web bundle building tasks, this part is completely moved to WebPack.
+The app is bundled with WebPack and built with Grunt. While it's so 2010s to use Grunt nowadays, it's still far ahead of using npm scripts and perfectly does the job of running different actions with JS. However it's not used for any of web bundle building tasks, this part is completely moved to WebPack.
 
 Desktop apps are packaged with [electron-packager](https://github.com/electron/electron-packager) and then built into distributables with Grunt. We're not using [electron-builder](https://www.electron.build) for major installers (Windows MSI, macOS app, .deb, .zip) because the setup process is heavily customized and patching electron-builder would be way harder than implementing builders on our own. However electron-builder is used for various Linux packages, such as Snap or AppImage.
 
