@@ -20,6 +20,7 @@ Desktop apps have a number of features that are not available on web:
 - WebDAV sync without CORS on the webserver
 - more shortcuts
 - possibility to clear clipboard after some time
+- YubiKey integration
 
 ## Mobile web
 - iOS 12 Safari, Chrome
