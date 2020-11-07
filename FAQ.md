@@ -9,7 +9,7 @@ Q: Are there plans to commercialize KeeWeb?
 A: KeeWeb will always remain free and ad-free, at least for personal use. If you're asked to pay for “full version” or “ad removal”, most probably it's a scam. The only official app is https://app.keeweb.info and desktop apps downloaded from https://keeweb.info or [GitHub releases](https://github.com/keeweb/keeweb/releases).  
 
 Q: What is the geography of KeeWeb?  
-A: KeeWeb is made in Amsterdam, the Netherlands. The source code is hosted on GitHub in the U.S. Website content is stored on Google Cloud in multiple locations in the EU (Finland, Belgium, Frankfurt, Netherlands) and delivered through CloudFlare content delivery network. Domain names are registered in the U.S.  
+A: KeeWeb is made in Amsterdam, the Netherlands. The source code is hosted on GitHub in the U.S. Website content is stored on Google Cloud and AWS in multiple locations in the EU (Finland, Belgium, Frankfurt, Netherlands) and delivered through CloudFlare content delivery network. Domain names are registered in the U.S.  
 
 ## Compatibility
 Q: Is it compatible with KeePass? What about KeePassX or other clients?  
