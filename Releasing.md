@@ -8,7 +8,7 @@ For maintainers: how to build and publish a new KeeWeb release.
 2. checkout a release or patch branch
 3. copy languages with `node util/copy-languages.js`, commit changes, if any
 4. update version date in `release-notes.md`
-5. bump version with `node util/set-version.js X.Y.Z`
+5. bump version with `node util/bump-version.js`
 6. merge the release branch into `master`
 
 ### Build
