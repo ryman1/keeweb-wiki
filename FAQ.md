@@ -44,7 +44,7 @@ Q: I've found a vulnerability.
 A: Please [contact the author](mailto:antelle.net@gmail.com).  
 
 Q: Was there an audit of KeeWeb?  
-A: Yes, in April-May 2020 [Hackmanit](https://www.hackmanit.de/) conducted a penetration test of KeeWeb during their [Pro Bono](https://www.hackmanit.de/en/blog-en/80-pro-bono-penetration-test) 2020 program. All the vulnerabilities have been fixed in v1.4.2, more information and the report can be found [in this blog post](https://www.hackmanit.de/en/blog-en/104-pro-bono-penetration-test-keeweb).  
+A: Yes, in April-May 2020 [Hackmanit](https://www.hackmanit.de/) conducted a penetration test of KeeWeb during their [Pro Bono](https://www.hackmanit.de/en/blog-en/80-pro-bono-penetration-test) 2020 program. All the vulnerabilities have been fixed in v1.14.2, more information and the report can be found [in this blog post](https://www.hackmanit.de/en/blog-en/104-pro-bono-penetration-test-keeweb).  
 
 ## Sync
 Q: What will happen if I change a file saved to cloud storage on another computer?  
