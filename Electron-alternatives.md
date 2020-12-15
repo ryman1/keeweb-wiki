@@ -33,6 +33,8 @@ KeePassXC with the same demo database open. They have a minimalistic user interf
 Total: ≈118 MB  
 With approximated UI implementation: ≈140 MB  
 
+There are additional processes on the screenshot above, they're not included in this metric because they're also present in other apps.
+
 ### Environment
 
 All testing was done on macOS Catalina without memory pressure, with a demo database that you can find in KeeWeb.
