@@ -41,3 +41,5 @@ How to make Dropbox and Google Drive work on your server?
 7. Save
 8. Copy the `Application Id` value and place it in KeeWeb's `config.json` under the key `onedriveClientId`
 8. Copy the secret into `onedriveClientSecret`
+
+If this doesn't work for you (see [#1629](https://github.com/keeweb/keeweb/issues/1629)), try changing app type to SPA, change its redirect URIs to SPA type respectively, and add only `onedriveClientId` to KeeWeb, without `onedriveClientSecret`. This might help, however you will have to authorize every day.
