@@ -25,7 +25,7 @@ Q: Is there an iOS app?
 A: Yes and no, please see different options described on [this page](iOS).  
 
 Q: Does it support 2FA (two-factor, second factor authentication)?  
-A: Yes, you can set up 2FA on your cloud storage and additionally you can protect your file with a YubiKey ([more info](YubiKey)).  
+A: Yes, you can set up 2FA on your cloud storage and additionally you can [protect your file with a YubiKey](YubiKey).  
 
 ## Security
 Q: Does it send my data anywhere?  
