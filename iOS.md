@@ -66,6 +66,14 @@ We don't have an own app, but there's a workaround. However it's recommended to 
 ➕ Face ID  
 ➕ AutoFill  
 
+### MiKee
+
+[Website](https://mikee.maxep.me/), [GitHub](https://github.com/MiKeePass/MiKee), App Store: still in beta
+
+💲 price unknown, not in App Store yet
+➕ open-source  
+➖ still in beta
+
 ## Blacklist
 
 We advise against using these iOS apps:
