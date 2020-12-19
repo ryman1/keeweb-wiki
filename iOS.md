@@ -79,7 +79,6 @@ We don't have an own app, but there's a workaround. However it's recommended to 
 We advise against using these iOS apps:
 
 - MiniKeePass: abandoned, has known issues
-- PassDrop 2: abandoned
 - KeePass: they have simply stolen the name, it's something else
 
 Also there's a number of other abandoned apps in the App Store not mentioned there. We strongly recommend not using them, since they're not kept up to date with latest security features of iOS and the KeePass format.
