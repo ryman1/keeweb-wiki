@@ -29,15 +29,6 @@ We don't have an own app, but there's a workaround. However it's recommended to 
 ➕ various sync options  
 ➕ YubiKey support  
 
-### KeePass Touch
-
-[Website](https://www.innervate.de/keepass-touch.html), [GitHub: see this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606), [App Store](https://apps.apple.com/app/keepass-touch/id966759076)  
-
-💲 freemium, full version $0.99  
-➖ source code is provided only per request, see [this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606)  
-➕ Face ID  
-➕ AutoFill  
-
 ### KeePassium
 
 [Website](https://keepassium.com), [GitHub](https://github.com/keepassium/KeePassium), [App Store](https://apps.apple.com/app/id1435127111)  
@@ -66,11 +57,21 @@ We don't have an own app, but there's a workaround. However it's recommended to 
 ➕ Face ID  
 ➖ no AutoFill support  
 
+### KeePass Touch
+
+[Website](https://www.innervate.de/keepass-touch.html), [GitHub: see this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606), [App Store](https://apps.apple.com/app/keepass-touch/id966759076)  
+
+💲 freemium, full version $0.99  
+➖ source code is provided only per request, see [this thread](https://github.com/MiniKeePass/MiniKeePass/issues/606)  
+➕ Face ID  
+➕ AutoFill  
+
 ## Blacklist
 
 We advise against using these iOS apps:
 
-- MiniKeePass: abandoned, probably has issues
+- MiniKeePass: abandoned, has issues
+- PassDrop 2: abandoned
 - KeePass: they have simply stolen the name, it's something else
 
 Also there's a number of other abandoned apps in the App Store not mentioned there. We strongly recommend not using them, since they're not kept up to date with latest security features of iOS and the KeePass format.
