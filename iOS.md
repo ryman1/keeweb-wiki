@@ -78,7 +78,7 @@ We don't have an own app, but there's a workaround. However it's recommended to 
 
 We advise against using these iOS apps:
 
-- MiniKeePass: abandoned, has issues
+- MiniKeePass: abandoned, has known issues
 - PassDrop 2: abandoned
 - KeePass: they have simply stolen the name, it's something else
 
