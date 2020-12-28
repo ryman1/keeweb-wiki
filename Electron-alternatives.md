@@ -62,6 +62,10 @@ In terms of development effort, rewriting the app in Qt is equal to full re-crea
 
 Switching to a WebView-based solution would need some work on app stability and implementation of missing features, but it has big wins in filesystem space and consumes 35% less memory. WebView feature support is however not great and it will also add limitations on our operating system coverage because we're using latest web technologies, such as WebAssembly and WebCrypto.
 
+### Related
+
+[Why Slack switched to Electron](https://slack.engineering/building-hybrid-applications-with-electron/)
+
 ### Decision
 
 Right now the decision is not to migrate, KeeWeb continues using Electron. Having a stable app built on a mature framework and better support of older operating systems is more important compared to extra 70 MB of memory and 100 MB of disk space.
