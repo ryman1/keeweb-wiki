@@ -30,7 +30,7 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 
 ### Commands
 
-`{DELAY X}` `{CLEARFIELD}` `{VKEY X}`
+`{DELAY X}` `{DELAY=X}` `{CLEARFIELD}` `{VKEY X}`
 
 ### Combinations
 
@@ -41,7 +41,6 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 ## Not supported
 
 `{CAPSLOCK}` `{NUMLOCK}` `{SCROLLLOCK}` `{APPS}` `{HELP}` `{PRTSC}` `{BREAK}`  
-`{DELAY=X}`  
 `{VKEY-NX *}` `{VKEY-EX *}`  
 `{REF:*}` `{T-REPLACE-RX:*}` `{T-CONV:*}`  
 `{BASE}` `{BASE:*}` `{URL:*}`  
