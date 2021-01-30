@@ -2,6 +2,7 @@
 
 Auto-Type is available for all desktop platforms.  
 On Linux, xdotool installation is required: `sudo apt-get install xdotool`.  
+⚠️ this dependency is being removed, in v1.17 auto-type won't use `xdotool`.
 
 ## Supported
 
