@@ -14,12 +14,17 @@ How to make Dropbox and Google Drive work on your server?
 7. If it doesn't work, make sure that PKCE is enabled and custom scopes are configured on the Permissions tab
 8. To add a file from Dropbox folder using config.json, use the following snippet:
    ```
-   "files": [{
-       "storage": "dropbox",
-       "name": "Your file name",
-       "path": "/your_file.kdbx"
-     }
-   ],
+   {
+       "settings": {
+           "dropboxAppKey" : "APP_KEY_FROM_DROPBOX",
+           "dropboxSecret" : "APP_SECRET_FROM_DROPBOX"
+       },
+       "files": [{
+           "storage": "dropbox",
+           "name": "Your file name",
+           "path": "/your_file.kdbx"
+       }]
+   }
    ```
 
 ## Google Drive
