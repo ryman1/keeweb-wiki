@@ -16,8 +16,8 @@ How to make Dropbox and Google Drive work on your server?
    ```
    {
        "settings": {
-           "dropboxAppKey" : "APP_KEY_FROM_DROPBOX",
-           "dropboxSecret" : "APP_SECRET_FROM_DROPBOX"
+           "dropboxAppKey": "APP_KEY_FROM_DROPBOX",
+           "dropboxSecret": "APP_SECRET_FROM_DROPBOX"
        },
        "files": [{
            "storage": "dropbox",
