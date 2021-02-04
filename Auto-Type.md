@@ -52,3 +52,7 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 `{HMACOTP}`  
 `{APPACTIVATE WindowTitle}`  
 `{GROUP_PATH}` `{GROUP_NOTES}` `{DB_PATH}` `{DB_DIR}` `{DB_NAME}` `{DB_BASENAME}` `{DB_EXT}`  
+
+## macOS
+
+Auto-type requires Accessibility permission to be able to work on macOS. Normally it asks you to give access, however some updates make macOS forget about it. In this case, go to `System Settings` → `Security & Privacy` → `Privacy` -> `Accessibility`, remove KeeWeb from there and add it again.
