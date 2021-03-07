@@ -53,7 +53,7 @@ What else you can try to debug it:
 - check KeeWeb logs, they can be found in Settings / General / Advanced
 - try switching to legacy auto-type in Settings / General / Advanced (this will be removed in future releases)
 
-Nothing worked? Please open an issue: https://github.com/keeweb/keeweb/issues/new/choose
+Nothing worked? Please [open an issue](https://github.com/keeweb/keeweb/issues/new?labels=bug,auto-type,desktop,mac&template=bug_report.md)!
 
 ## Not supported
 
