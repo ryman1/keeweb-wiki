@@ -41,6 +41,8 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 
 ## macOS
 
+👋 hey! Auto Type module has been re-written in v1.17, which means it will have some issues. Please bear with us for now, it should get stable in future releases.
+
 Auto-type requires Accessibility permission to be able to work on macOS. Normally it asks you to give access, however some updates make macOS forget about it. In this case, go to `System Settings` → `Security & Privacy` → `Privacy` -> `Accessibility`, remove KeeWeb from there and add it again. If this doesn't help, you can try the same on to `Input Monitoring` on the same tab in System Preferences.
 
 What else you can try to debug it:
@@ -49,6 +51,9 @@ What else you can try to debug it:
 - open a simple text editor, then launch KeeWeb and press <kbd>⌘</kbd><kbd>T</kbd>;
 - restart the app where you try to do auto typing;
 - check KeeWeb logs, they can be found in Settings / General / Advanced
+- try switching to legacy auto-type in Settings / General / Advanced (this will be removed in future releases)
+
+Nothing worked? Please open an issue: https://github.com/keeweb/keeweb/issues/new/choose
 
 ## Not supported
 
