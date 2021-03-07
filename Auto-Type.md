@@ -41,7 +41,7 @@ On Linux, xdotool installation is required: `sudo apt-get install xdotool`.
 
 ## macOS
 
-Auto Type module has been re-written in KeeWeb v1.17, which means it will have some issues. Please forgive us this inconvenience, it should become even more stable in future releases. Additionally, it's extracted to [its own library](https://github.com/antelle/keyboard-auto-type), which should help developers building auto-type in their apps too.
+Auto Type module has been re-written in KeeWeb v1.17, this unfortunately means we'll have a bit more issues with it in this version. Please forgive us this inconvenience, it should become even more stable in future releases. Additionally, it's extracted to [its own library](https://github.com/antelle/keyboard-auto-type), which should help developers building auto-type in their apps too.
 
 Auto-type requires Accessibility and Input Monitoring permissions to be able to work on macOS. Normally it asks you to give access, however some updates make macOS forget about it. In this case, go to `System Settings` → `Security & Privacy` → `Privacy` -> `Accessibility`, remove KeeWeb from there and add it again. If this doesn't help, you can try the same on the `Input Monitoring` tab.
 
