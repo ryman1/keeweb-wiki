@@ -31,7 +31,6 @@ It consists of the following parts:
 * `build`: build system tasks and the webpack config
 * `desktop`: source code of the desktop part, entry point of the Electron app
 * `graphics`: icons and images
-* `helper`: source code and compiled versions of the auto-type helper for desktop apps
 * `img`: screenshots for the README on GitHub
 * `package`: support files for packagers, docker images, and installers
 * `plugins`: infrastructure for developing plugins and plugin examples
