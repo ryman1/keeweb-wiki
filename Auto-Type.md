@@ -1,7 +1,3 @@
-## Requirements
-
-Auto-Type is available for all desktop platforms.  
-
 ## Supported
 
 ### Modifiers
