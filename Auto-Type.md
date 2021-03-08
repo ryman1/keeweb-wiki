@@ -33,6 +33,20 @@
 `{a 3}` &rarr; aaa  
 `^^({TAB} +{TAB})` &rarr; ctrl-tab ctrl-shift-tab  
 
+## Not supported
+
+`{CAPSLOCK}` `{NUMLOCK}` `{SCROLLLOCK}` `{APPS}` `{HELP}` `{PRTSC}` `{BREAK}`  
+`{DELAY=X}`  
+`{VKEY-NX *}` `{VKEY-EX *}`  
+`{REF:*}` `{T-REPLACE-RX:*}` `{T-CONV:*}`  
+`{BASE}` `{BASE:*}` `{URL:*}`  
+`{%ENVVAR%}` `{ENV_DIRSEP}` `{ENV_PROGRAMFILES_X86}` `{APPDIR}`  
+`{INTERNETEXPLORER}` `{FIREFOX}` `{OPERA}` `{GOOGLECHROME}` `{SAFARI}`  
+`{PICKCHARS}` `{PICKCHARS:*}` `{NEWPASSWORD}` `{NEWPASSWORD:*}` `{PASSWORD_ENC}` `{BEEP *}`  
+`{HMACOTP}`  
+`{APPACTIVATE WindowTitle}`  
+`{GROUP_PATH}` `{GROUP_NOTES}` `{DB_PATH}` `{DB_DIR}` `{DB_NAME}` `{DB_BASENAME}` `{DB_EXT}`  
+
 ## macOS
 
 Auto Type module has been re-written in KeeWeb v1.17, this unfortunately means we'll have a bit more issues with it in this version. Please forgive us this inconvenience, it should become even more stable in future releases. Additionally, it's extracted to [its own library](https://github.com/antelle/keyboard-auto-type), which should help developers building auto-type in their apps too.
@@ -48,17 +62,3 @@ What else you can try to debug it:
 - try switching to legacy auto-type in Settings / General / Advanced (this will be removed in future releases)
 
 Nothing worked? Please [open an issue](https://github.com/keeweb/keeweb/issues/new?labels=bug,auto-type,desktop,mac&template=bug_report.md)!
-
-## Not supported
-
-`{CAPSLOCK}` `{NUMLOCK}` `{SCROLLLOCK}` `{APPS}` `{HELP}` `{PRTSC}` `{BREAK}`  
-`{DELAY=X}`  
-`{VKEY-NX *}` `{VKEY-EX *}`  
-`{REF:*}` `{T-REPLACE-RX:*}` `{T-CONV:*}`  
-`{BASE}` `{BASE:*}` `{URL:*}`  
-`{%ENVVAR%}` `{ENV_DIRSEP}` `{ENV_PROGRAMFILES_X86}` `{APPDIR}`  
-`{INTERNETEXPLORER}` `{FIREFOX}` `{OPERA}` `{GOOGLECHROME}` `{SAFARI}`  
-`{PICKCHARS}` `{PICKCHARS:*}` `{NEWPASSWORD}` `{NEWPASSWORD:*}` `{PASSWORD_ENC}` `{BEEP *}`  
-`{HMACOTP}`  
-`{APPACTIVATE WindowTitle}`  
-`{GROUP_PATH}` `{GROUP_NOTES}` `{DB_PATH}` `{DB_DIR}` `{DB_NAME}` `{DB_BASENAME}` `{DB_EXT}`  
