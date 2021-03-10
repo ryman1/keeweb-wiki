@@ -107,3 +107,7 @@ KeeWeb uses native modules ([node.js C++ addons](https://nodejs.org/api/addons.h
 - when implementing it in JavaScript would be significantly slower, for example, Argon2
 
 In other cases it's better to implement everything in JavaScript. For example, a native module for reading QR codes would not be an acceptable solution.
+
+List of used native modules:
+
+- [`node-secure-enclave`](https://github.com/antelle/node-secure-enclave) on macOS
