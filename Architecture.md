@@ -110,4 +110,9 @@ In other cases it's better to implement everything in JavaScript. For example, a
 
 List of used native modules:
 
-- [`node-secure-enclave`](https://github.com/antelle/node-secure-enclave) on macOS
+- [`node-keyboard-auto-type`](https://github.com/antelle/node-keyboard-auto-type): auto-type implemented in [`keyboard-auto-type`](https://github.com/antelle/keyboard-auto-type)
+- [`node-argon2`](https://github.com/ranisalt/node-argon2): faster Argon2 for desktop apps
+- [`node-keytar`](https://github.com/atom/node-keytar): secret management, used for settings encryption
+- [`node-yubikey-chalresp`](https://github.com/antelle/node-yubikey-chalresp): YubiKey interaction
+- [`node-usb`](https://github.com/tessel/node-usb): for watching USB devices and displaying the YubiKey icon
+- [`node-secure-enclave`](https://github.com/antelle/node-secure-enclave): Touch ID support on macOS
