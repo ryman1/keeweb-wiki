@@ -62,7 +62,7 @@ In terms of development effort, rewriting the app in Qt is equal to full re-crea
 
 Switching to a WebView-based solution would need some work on app stability and implementation of missing features, but it has big wins in filesystem space and consumes 35% less memory. WebView feature support is however not great and it will also add limitations on our operating system coverage because we're using latest web technologies, such as WebAssembly and WebCrypto.
 
-Apart from this, there's some stigma around Electron. People are complaining about memory-hungry apps while attributing their high resource usage to Electron. Sometimes they don't know that a certain app is built on Electron even they're happily using it (for example, VSCode).
+Apart from this, there's some stigma around Electron. People are complaining about memory-hungry apps while attributing their high resource usage to the framework. Sometimes they don't know that a certain app is built on Electron even they're happily using it (for example, VSCode).
 
 ### Related
 
