@@ -29,7 +29,7 @@ Config fields description (all fields are optional; please don't copy exactly th
     ...
   },
   "files": [{ // pre-defined files that will appear on Open page
-    "storage": "webdav", // dropbox, webdav, etc...
+    "storage": "webdav", // dropbox, webdav, other cloud storage providers
     "name": "My file", // file name, as it will be displayed in UI
     "path": "webdav-url", // full path to file, including file name, e.g. WebDAV url
     "options": { "user": "", "password": "" } // only for WebDAV, server auth details
