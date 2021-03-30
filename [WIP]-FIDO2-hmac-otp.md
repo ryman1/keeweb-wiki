@@ -104,6 +104,8 @@ Additionally, there can be a section inside the file where you can assign names 
 
 Here's an image representation of the proposed change:
 
+❗ TODO: update the diagram with an OWF transform
+
 ![hmac-secret in kdbx](https://user-images.githubusercontent.com/633557/113034278-35df2000-9192-11eb-9a73-b1770421f6bc.png)
 
 
