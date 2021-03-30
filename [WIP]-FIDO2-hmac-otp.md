@@ -72,7 +72,7 @@ Addition to the header presented in human-readable form (would be stored in the 
 {
     "auth": [
         {
-            ❗ storing identities is not great, this is a TODO
+            "❗ TODO": "decide what to do with these identities",
             "identity": "credential identification, for example, credential_id",
             "challenge": "challenge used to compute HMAC on the authenticator",
             "transform": "piece of data used for HMAC transformation"
