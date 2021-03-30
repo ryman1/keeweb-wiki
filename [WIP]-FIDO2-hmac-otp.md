@@ -1,5 +1,5 @@
 This is a draft of using `hmac-otp` FIDO2 feature for YubiKey support in KeeWeb.  
-❗ This document is not ready and cannot be used for implementation, it has unresolved issues.
+❗ This document is not ready and cannot be used for implementation, it has unresolved security issues.
 
 First, some context. [FIDO2 `hmac-secret`](https://fidoalliance.org/specs/fido-v2.1-rd-20210309/fido-client-to-authenticator-protocol-v2.1-rd-20210309.html#sctn-hmac-secret-extension) extension provides support for hashing arbitrary data using a secret attached to a credential stored on the authenticator. It has two inputs:
 
