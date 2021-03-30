@@ -112,5 +112,8 @@ Benefits of this approach:
 3. It can be extensible for other authentication methods, for example, WebAuthn on web.
 
 Concerns:
-1. Storing identities in the public header of the database exposes used authenticators, if attackers get access to the kdbx file, they will know that you use an authenticator to open it. I'm not sure if this is a concern, I need advice here.
-2. It would be good to have it defined centralized in the format. When it's spread across different implementations, it's error-prone.
+1. Storing identities in the public header of the database exposes used authenticators, if attackers get access to the kdbx file, they will know that you use an authenticator to open it.
+
+TODO:
+1. Add a one-way transform function so that responses from other authenticators cannot be read by just one of them.
+2. Describe the storage inside the file.
