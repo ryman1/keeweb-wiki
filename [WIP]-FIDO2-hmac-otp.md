@@ -85,6 +85,7 @@ When saving the file, we need to generate a new challenge-response on this authe
 
 ```
 ReplaceHmac: (data, x) => {
+    // ❗ TODO: rewrite this thing, it should not be possible to read authenticator responses from the header
     // this can be cached to avoid computation
     old_hmac := HMAC*(data, x)
 
