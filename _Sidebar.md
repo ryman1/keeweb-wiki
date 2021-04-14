@@ -7,6 +7,7 @@
 [Browser AutoFill](Browser%20AutoFill)  
 [YubiKey](YubiKey)  
 [Contributing](https://github.com/keeweb/keeweb/blob/master/CONTRIBUTING.md#readme)  
+[About KeeWeb](About%20KeeWeb)  
 
 #### Self-hosting and configuration
 
