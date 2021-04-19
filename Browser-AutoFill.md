@@ -47,3 +47,5 @@ There's no extension at the moment. You can use auto-type to autofill passwords.
 ![keeweb](https://user-images.githubusercontent.com/633557/34462026-ada43584-ee3a-11e7-9fc6-1bb240696512.png)
 4. Check it:
 ![check](https://user-images.githubusercontent.com/633557/34462318-3da81f0a-ee41-11e7-82d7-27047a1f5abe.png)
+
+## Other browsers
