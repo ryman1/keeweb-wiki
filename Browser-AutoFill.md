@@ -1,3 +1,5 @@
+🚧  This page is going to change! Next version of KeeWeb will provide a better way of browser integration.
+
 Browser AutoFill is possible with extensions compatible with KeePassHTTP.  
 
 But first, we would like to warn you about the [criticism of KeePassHTTP security](https://github.com/pfn/keepasshttp/issues/258), that's why this extension not enabled by default in KeeWeb. [Auto-Type](https://github.com/keeweb/keeweb/wiki/Auto-Type) can be a solid alternative, moreover, it works with other apps, not only browsers. It's recommended to try auto-type approach first.
