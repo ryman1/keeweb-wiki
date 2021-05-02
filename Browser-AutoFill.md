@@ -52,7 +52,7 @@ There's no extension at the moment. You can use auto-type to autofill passwords.
 
 ## Other browsers
 
-To use KeeWeb Connect in other browsers, first, you need the extension itself. Depending on your browser type, you can install it either from the [Google Chrome Web Store](https://chrome.google.com/webstore/detail/keeweb-connect/pikpfmjfkekaeinceagbebpfkmkdlcjk), or from the [Mozilla Firefox](https://addons.mozilla.org/firefox/addon/keeweb-connect/) extension gallery.
+To use KeeWeb Connect in other browsers, first, you need the extension itself. Depending on your browser type, you can install it either from the [Google Chrome Web Store](https://chrome.google.com/webstore/detail/keeweb-connect/pikpfmjfkekaeinceagbebpfkmkdlcjk), or from the [Mozilla Firefox extension gallery](https://addons.mozilla.org/firefox/addon/keeweb-connect/).
 
 Next thing you need to do, is configure the connection with KeeWeb.
 
