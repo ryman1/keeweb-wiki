@@ -85,11 +85,11 @@ For browsers based on Firefox (you may also hear words "Mozilla" or "Gecko" abou
 }
 ```
 
-2. For Windows: add a registry entry as described in the guide below.
+2. For Windows: add a registry entry as described in the guide below
 
 3. Some browsers may need a restart
 
 Native messaging manifest setup guides:
 - [Google Chrome](https://developer.chrome.com/docs/apps/nativeMessaging/#native-messaging-host-location)
-- [Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging#setup)
+- [Mozilla Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging#setup)
 - [Microsoft Edge](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/native-messaging?tabs=windows#step-3---copy-the-native-messaging-host-manifest-file-to-your-system)
