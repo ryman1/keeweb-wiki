@@ -103,7 +103,7 @@ On macOS it will be inside the app bundle, for example:
 
 3. Some browsers may need a restart
 
-4. Still doesn't work? Open the extensions page and click inspect the "background page" of the extension, the Console tab there can give a clue
+4. Still doesn't work? Open the extensions page and inspect the "background page" of the extension, the Console tab there can give a clue
 
 Native messaging manifest setup guides:
 - [Google Chrome](https://developer.chrome.com/docs/apps/nativeMessaging/#native-messaging-host-location)
