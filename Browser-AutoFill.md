@@ -52,7 +52,7 @@ There's no extension at the moment. You can use auto-type to autofill passwords.
 
 KeeWeb Connect connects to KeeWeb using a secure communication technology called [Native Messaging](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging).
 
-While KeeWeb can automatically set up native messaging for known browsers, it requires a bit of manual effort for others.
+While KeeWeb can automatically set up native messaging for popular browsers, it requires a bit of manual effort for others.
 
 1. Create a file called `org.keepassxc.keepassxc_browser.json`:
 
