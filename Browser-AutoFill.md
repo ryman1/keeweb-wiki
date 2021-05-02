@@ -49,3 +49,47 @@ There's no extension at the moment. You can use auto-type to autofill passwords.
 ![check](https://user-images.githubusercontent.com/633557/34462318-3da81f0a-ee41-11e7-82d7-27047a1f5abe.png)
 
 ## Other browsers
+
+KeeWeb Connect connects to KeeWeb using a secure communication technology called [Native Messaging](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging).
+
+While KeeWeb can automatically set up native messaging for known browsers, it requires a bit of manual effort for others.
+
+1. Create a file called `org.keepassxc.keepassxc_browser.json`:
+
+For Chromium-based browsers (such as Vivaldi, Opera, Brave, ...):
+```json
+{
+    "allowed_origins": [
+        "chrome-extension://pikpfmjfkekaeinceagbebpfkmkdlcjk/",
+        "chrome-extension://nmggpehkjmeaeocmaijenpejbepckinm/",
+        "chrome-extension://aphablpbogbpmocgkpeeadeljldnphon/",
+        "chrome-extension://oblalfcdjjpbmfjdenkcmapabceefnmp/"
+    ],
+    "description": "KeeWeb native messaging host",
+    "name": "net.antelle.keeweb.keeweb_connect",
+    "type": "stdio",
+    "path": "/path/to/keeweb/keeweb-native-messaging-host"
+}
+```
+
+For browsers based on Firefox (you may also hear words "Mozilla" or "Gecko" about them):
+```json
+{
+    "allowed_extensions": [
+        "keeweb-connect@keeweb.info"
+    ],
+    "description": "KeeWeb native messaging host",
+    "name": "net.antelle.keeweb.keeweb_connect",
+    "type": "stdio",
+    "path": "/path/to/keeweb/keeweb-native-messaging-host"
+}
+```
+
+2. For Windows: add a registry entry as described in the guide below.
+
+3. Some browsers may need a restart
+
+Native messaging manifest setup guides:
+- [Google Chrome](https://developer.chrome.com/docs/apps/nativeMessaging/#native-messaging-host-location)
+- [Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging#setup)
+- [Microsoft Edge](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/native-messaging?tabs=windows#step-3---copy-the-native-messaging-host-manifest-file-to-your-system)
