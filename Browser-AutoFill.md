@@ -94,6 +94,11 @@ Note the `path` property. Make sure the file exists there and is executable. On 
     "path": "C:\\Program Files\\KeeWeb\\keeweb-native-messaging-host.exe"
 ```
 
+On macOS it will be inside the app bundle, for example:
+```
+    "path": "/Applications/KeeWeb.app/Contents/MacOS/util/keeweb-native-messaging-host"
+```
+
 2. For Windows: add a registry entry as described in the guide below
 
 3. Some browsers may need a restart
