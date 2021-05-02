@@ -87,6 +87,11 @@ For browsers based on Firefox (you may also hear words "Mozilla" or "Gecko" abou
 }
 ```
 
+Note the `path` property. Make sure the file exists there and is executable. On windows add `.exe` and don't forget about double slashes, for example, it can be something like:
+```
+C:\\Program Files\\KeeWeb\\keeweb-native-messaging-host.exe
+```
+
 2. For Windows: add a registry entry as described in the guide below
 
 3. Some browsers may need a restart
