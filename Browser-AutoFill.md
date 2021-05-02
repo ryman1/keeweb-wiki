@@ -52,6 +52,10 @@ There's no extension at the moment. You can use auto-type to autofill passwords.
 
 ## Other browsers
 
+To install KeeWeb Connect in other browsers, first, install the extension. Depending on your browser type, you can install it either from the [Google Chrome Web Store](https://chrome.google.com/webstore/detail/keeweb-connect/pikpfmjfkekaeinceagbebpfkmkdlcjk), or from the [Mozilla Firefox](https://addons.mozilla.org/firefox/addon/keeweb-connect/) extension gallery.
+
+Next thing you need to do, it configure the connection with KeeWeb.
+
 KeeWeb Connect connects to KeeWeb using a secure communication technology called [Native Messaging](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging).
 
 While KeeWeb can automatically set up native messaging for popular browsers, it requires a bit of manual effort for others.
