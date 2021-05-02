@@ -56,7 +56,7 @@ To use KeeWeb Connect in other browsers, first, you need the extension itself. D
 
 Next thing you need to do, is configure the connection with KeeWeb.
 
-KeeWeb Connect connects to KeeWeb using a secure communication technology called [Native Messaging](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging).
+KeeWeb Connect exchanges data with KeeWeb using a secure communication technology called [Native Messaging](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging).
 
 While KeeWeb can automatically set up native messaging for popular browsers, it requires a bit of manual effort for others.
 
