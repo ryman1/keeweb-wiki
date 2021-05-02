@@ -64,10 +64,7 @@ For Chromium-based browsers (such as Vivaldi, Opera, Brave, ...):
 ```json
 {
     "allowed_origins": [
-        "chrome-extension://pikpfmjfkekaeinceagbebpfkmkdlcjk/",
-        "chrome-extension://nmggpehkjmeaeocmaijenpejbepckinm/",
-        "chrome-extension://aphablpbogbpmocgkpeeadeljldnphon/",
-        "chrome-extension://oblalfcdjjpbmfjdenkcmapabceefnmp/"
+        "chrome-extension://pikpfmjfkekaeinceagbebpfkmkdlcjk/"
     ],
     "description": "KeeWeb native messaging host",
     "name": "net.antelle.keeweb.keeweb_connect",
