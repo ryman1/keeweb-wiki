@@ -86,7 +86,7 @@ For browsers based on Firefox (you may also hear words "Mozilla" or "Gecko" abou
 }
 ```
 
-Note the `path` property. Make sure the file exists there and is executable. On windows add `.exe` and don't forget about double slashes, for example, it can be something like:
+Note the `path` property. Make sure the file exists there and is executable. On Windows add `.exe` and don't forget about double slashes, for example, it can be something like:
 ```
     "path": "C:\\Program Files\\KeeWeb\\keeweb-native-messaging-host.exe"
 ```
