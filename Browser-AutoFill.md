@@ -14,11 +14,11 @@ The extension can be installed from the official stores, depending on your brows
 
 The main components of the extension are:
 
-Extension button:  
+Extension button, provides one-click auto-fill and submit:
 
 <img width="312" alt="KeeWeb Connect button" src="https://user-images.githubusercontent.com/633557/117531307-31ecbc00-afe2-11eb-902b-23fa16c9d6f1.png" />
 
-Extension menu:  
+Extension menu, gives an option to choose the desired action:
 
 <img width="756" alt="KeeWeb Connect menu" src="https://user-images.githubusercontent.com/633557/117531275-0a95ef00-afe2-11eb-9ffa-0ca0b6a84762.png" />
 
