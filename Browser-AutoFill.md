@@ -1,5 +1,3 @@
-🚧  This page describes the future version of KeeWeb.
-
 Browser auto-fill is more convenient with extensions. Compared to auto-type, they provide deeper and more convenient integration.
 
 KeeWeb Connect is developed here: https://github.com/keeweb/keeweb-connect  
