@@ -1,54 +1,20 @@
-🚧  This page is going to change! Next version of KeeWeb will provide a better way of browser integration.
+🚧  This page describes the future version of KeeWeb.
 
-Browser AutoFill is possible with extensions compatible with KeePassHTTP.  
+Browser auto-fill is more convenient with extensions. Compared to auto-type, they provide deeper and more convenient integration.
 
-But first, we would like to warn you about the [criticism of KeePassHTTP security](https://github.com/pfn/keepasshttp/issues/258), that's why this extension not enabled by default in KeeWeb. [Auto-Type](https://github.com/keeweb/keeweb/wiki/Auto-Type) can be a solid alternative, moreover, it works with other apps, not only browsers. It's recommended to try auto-type approach first.
+KeeWeb Connect is developed here: https://github.com/keeweb/keeweb-connect  
 
-## KeeWebHttp
+The extension can be installed from the official stores, depending on your browser:
 
-AutoFill is available only in Desktop apps.
-1. Go to Settings &rarr; Plugins and load the plugin gallery:
-![plugins](https://user-images.githubusercontent.com/633557/34461926-b0ba929c-ee38-11e7-9d71-3c47fa0cd3c7.png)
-2. Find KeeWebHttp plugin and install it:
-![http](https://user-images.githubusercontent.com/633557/34461924-b069df50-ee38-11e7-851a-548cc648c9fd.png)
-3. It's recommended to activate automatic update check to get updates and security fixes:
-![installed](https://user-images.githubusercontent.com/633557/34461947-f50025e8-ee38-11e7-9b05-3631eb331bdd.png)
+- [Chrome](https://chrome.google.com/webstore/detail/keeweb-connect/pikpfmjfkekaeinceagbebpfkmkdlcjk)
+- [Firefox](https://addons.mozilla.org/firefox/addon/keeweb-connect/)
+- [Edge](https://microsoftedge.microsoft.com/addons/detail/keeweb-connect/nmggpehkjmeaeocmaijenpejbepckinm)
+- [Safari](https://apps.apple.com/app/keeweb-connect/id1565748094)
+- Other browsers: [how to set up](#other-browsers)
 
-## Chrome
+How it works, in one picture:
 
-1. Install [KeePassHttp-Connector extension](https://chrome.google.com/webstore/detail/keepasshttp-connector/dafgdjggglmmknipkhngniifhplpcldb).
-2. Go to its settings and click Connect:
-![settings](https://user-images.githubusercontent.com/633557/34462051-49750146-ee3b-11e7-8fc7-1785e9b8b3ec.png)
-3. Approve the request in KeeWeb:
-![keeweb](https://user-images.githubusercontent.com/633557/34462026-ada43584-ee3a-11e7-9fc6-1bb240696512.png)
-4. Make sure it's connected:
-![connected](https://user-images.githubusercontent.com/633557/34462027-adcc24d6-ee3a-11e7-9324-2501f75c01e0.png)
-
-## Safari
-
-There's no extension at the moment. You can use auto-type to autofill passwords.
-
-## Firefox
-
-### KeePassHttp-Connector 
-
-1. Install [KeePassHttp-Connector](https://addons.mozilla.org/en-US/firefox/addon/keepasshttp-connector/).
-2. Click Connect button inside the extension popup:
-![firefox](https://user-images.githubusercontent.com/633557/34462254-f500e40e-ee3f-11e7-8717-6f359a5ad51f.png)
-3. Approve the request in KeeWeb:
-![keeweb](https://user-images.githubusercontent.com/633557/34462026-ada43584-ee3a-11e7-9fc6-1bb240696512.png)
-4. Check it on any website:
-![check](https://user-images.githubusercontent.com/633557/34462271-3c931008-ee40-11e7-9ddd-35aa1fe2db89.png)
-
-### KeePassHelper Password Manager
-
-1. Install [KeePassHelper Password Manager](https://addons.mozilla.org/en-US/firefox/addon/keepasshelper/).
-2. Click Lock button:
-![firefox](https://user-images.githubusercontent.com/633557/34462319-3dd07360-ee41-11e7-9f60-2a08d8b4f93f.png)
-3. Approve the request in KeeWeb:
-![keeweb](https://user-images.githubusercontent.com/633557/34462026-ada43584-ee3a-11e7-9fc6-1bb240696512.png)
-4. Check it:
-![check](https://user-images.githubusercontent.com/633557/34462318-3da81f0a-ee41-11e7-82d7-27047a1f5abe.png)
+![KeeWeb Connect communication](https://user-images.githubusercontent.com/633557/117531084-1503b900-afe1-11eb-9c80-97894433ce38.png)
 
 ## Other browsers
 
