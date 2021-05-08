@@ -33,6 +33,10 @@ In one picture:
 
 <img width="776" alt="KeeWeb Connect communication" src="https://user-images.githubusercontent.com/633557/117531084-1503b900-afe1-11eb-9c80-97894433ce38.png" />
 
+To be able to use the extension, enable the integration in KeeWeb settings:
+
+<img width="1136" alt="KeeWeb Settings" src="https://user-images.githubusercontent.com/633557/117531536-26e65b80-afe3-11eb-8326-1a2be6a0ea1f.png">
+
 ## Other browsers
 
 To use KeeWeb Connect in other browsers, first, you need the extension itself. Depending on your browser type, you can install it either from the [Google Chrome Web Store](https://chrome.google.com/webstore/detail/keeweb-connect/pikpfmjfkekaeinceagbebpfkmkdlcjk), or from the [Mozilla Firefox extension gallery](https://addons.mozilla.org/firefox/addon/keeweb-connect/). It's not possible to install from stores? You can also download the extension from [GitHub releases](https://github.com/keeweb/keeweb-connect/releases/latest).
