@@ -47,13 +47,13 @@ How to make Dropbox and Google Drive work on your server?
 ## OneDrive
 
 1. Create an app in [Azure Portal](https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade):  
-  <img width="923" alt="Azure Portal" src="https://user-images.githubusercontent.com/633557/117539118-7049a180-b009-11eb-8a82-763d0c713d94.png">
+  <img width="923" alt="Azure Portal" src="https://user-images.githubusercontent.com/633557/117539118-7049a180-b009-11eb-8a82-763d0c713d94.png" />
 2. Choose the desired audience and name, and click Register:  
-  <img width="923" alt="App name" src="https://user-images.githubusercontent.com/633557/117539144-9a9b5f00-b009-11eb-848c-1999c0d66f30.png">
+  <img width="923" alt="App name" src="https://user-images.githubusercontent.com/633557/117539144-9a9b5f00-b009-11eb-848c-1999c0d66f30.png" />
 3. Select Authentication and click Add Platform:  
-  <img width="923" alt="Platform" src="https://user-images.githubusercontent.com/633557/117539221-f960d880-b009-11eb-9602-e7c8132901ca.png">
+  <img width="923" alt="Platform" src="https://user-images.githubusercontent.com/633557/117539221-f960d880-b009-11eb-9602-e7c8132901ca.png" />
 
-xxxxx
+xxx
 4. Choose "Single-page application"  
 5. Enter a redirect URI as `https://your-domain/oauth-result/onedrive.html`:  
   <img width="579" alt="Domain" src="https://user-images.githubusercontent.com/633557/117539311-58265200-b00a-11eb-800e-8cf559ca5054.png">
