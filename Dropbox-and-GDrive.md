@@ -62,7 +62,7 @@ How to make Dropbox and Google Drive work on your server?
 
 6. Click Configure   
 
-7. Add the following API permissions: `Files.Read.All`, `Files.ReadWrite.All`, `Directory.Read.All` from `Microsoft Graph` section:  
+7. Add the following API permissions: `Files.Read.All` and `Files.ReadWrite.All` from `Microsoft Graph` section:  
   <img width="1017" alt="Permissions" src="https://user-images.githubusercontent.com/633557/117539562-88babb80-b00b-11eb-9b75-b4f38b8ccc68.png" />
 
 8. Make sure the permission screen looks like this:  
