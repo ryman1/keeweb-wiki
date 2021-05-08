@@ -22,7 +22,7 @@ Extension button:
 
 How it works, in one picture:
 
-![KeeWeb Connect communication](https://user-images.githubusercontent.com/633557/117531084-1503b900-afe1-11eb-9c80-97894433ce38.png)
+<img width="776" alt="KeeWeb Connect communication" src="https://user-images.githubusercontent.com/633557/117531084-1503b900-afe1-11eb-9c80-97894433ce38.png" />
 
 ## Other browsers
 
