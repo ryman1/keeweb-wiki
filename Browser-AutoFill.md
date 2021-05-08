@@ -22,6 +22,11 @@ Extension menu, gives an option to choose the desired action:
 
 <img width="756" alt="KeeWeb Connect menu" src="https://user-images.githubusercontent.com/633557/117531275-0a95ef00-afe2-11eb-9ffa-0ca0b6a84762.png" />
 
+Extension settings page:
+
+<img width="922" alt="KeeWeb Connect Settings" src="https://user-images.githubusercontent.com/633557/117531461-df5fcf80-afe2-11eb-9ed4-87ee9acfa339.png" />
+
+
 ## How it works
 
 In one picture:
