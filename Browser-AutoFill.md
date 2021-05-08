@@ -14,13 +14,17 @@ The extension can be installed from the official stores, depending on your brows
 
 The main components of the extension are:
 
-Extension menu:  
-<img width="756" alt="KeeWeb Connect menu" src="https://user-images.githubusercontent.com/633557/117531275-0a95ef00-afe2-11eb-9ffa-0ca0b6a84762.png" />
-
 Extension button:  
+
 <img width="312" alt="KeeWeb Connect button" src="https://user-images.githubusercontent.com/633557/117531307-31ecbc00-afe2-11eb-902b-23fa16c9d6f1.png" />
 
-How it works, in one picture:
+Extension menu:  
+
+<img width="756" alt="KeeWeb Connect menu" src="https://user-images.githubusercontent.com/633557/117531275-0a95ef00-afe2-11eb-9ffa-0ca0b6a84762.png" />
+
+## How it works
+
+In one picture:
 
 <img width="776" alt="KeeWeb Connect communication" src="https://user-images.githubusercontent.com/633557/117531084-1503b900-afe1-11eb-9c80-97894433ce38.png" />
 
