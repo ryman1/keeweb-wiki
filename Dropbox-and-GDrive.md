@@ -52,15 +52,13 @@ How to make Dropbox and Google Drive work on your server?
   <img width="923" alt="App name" src="https://user-images.githubusercontent.com/633557/117539144-9a9b5f00-b009-11eb-848c-1999c0d66f30.png" />
 3. Select Authentication and click Add Platform:  
   <img width="923" alt="Platform" src="https://user-images.githubusercontent.com/633557/117539221-f960d880-b009-11eb-9602-e7c8132901ca.png" />
-
-xxx
-4. Choose "Single-page application"  
+4. Choose "Single-page application"   
 5. Enter a redirect URI as `https://your-domain/oauth-result/onedrive.html`:  
-  <img width="579" alt="Domain" src="https://user-images.githubusercontent.com/633557/117539311-58265200-b00a-11eb-800e-8cf559ca5054.png">
-6. Click Configure  
+  <img width="579" alt="Domain" src="https://user-images.githubusercontent.com/633557/117539311-58265200-b00a-11eb-800e-8cf559ca5054.png" />
+6. Click Configure   
 7. Add the following API permissions: `Files.Read.All`, `Files.ReadWrite.All`, `Directory.Read.All` from `Microsoft Graph` section:  
-  <img width="1017" alt="Permissions" src="https://user-images.githubusercontent.com/633557/117539562-88babb80-b00b-11eb-9b75-b4f38b8ccc68.png">
+  <img width="1017" alt="Permissions" src="https://user-images.githubusercontent.com/633557/117539562-88babb80-b00b-11eb-9b75-b4f38b8ccc68.png" />
 8. Make sure the permission screen looks like this:  
-  <img width="925" alt="API permissions" src="https://user-images.githubusercontent.com/633557/117539622-ca4b6680-b00b-11eb-9a64-5b32ecb7a217.png">
+  <img width="925" alt="API permissions" src="https://user-images.githubusercontent.com/633557/117539622-ca4b6680-b00b-11eb-9a64-5b32ecb7a217.png" />
 9. Copy the `Application (client) ID` value from the Overview screen and put it in KeeWeb's `config.json` under `onedriveClientId` key  
 10. If desired, your can also set up the secret in "Certificates and secrets" section and save it as `onedriveClientSecret`, but it doesn't seem to change anything
