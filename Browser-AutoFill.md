@@ -43,7 +43,7 @@ Next thing you need to do is configuring connection with KeeWeb.
 
 KeeWeb Connect exchanges data with KeeWeb using a secure communication technology called [Native Messaging](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging). While KeeWeb can automatically set up native messaging for popular browsers, it requires a bit of manual effort for others.
 
-1. Create a file called `net.antelle.keeweb.keeweb_connect.json` (where? check in the guide below):
+1. Create a file called `net.antelle.keeweb.keeweb_connect.json` (where? check in the [manifest setup guides](# Native-messaging-manifest-setup-guides) below:
 
 For Chromium-based browsers (such as Vivaldi, Opera, Brave, ...):
 ```json
@@ -87,7 +87,7 @@ On macOS it will be inside the app bundle, for example:
 
 4. Still doesn't work? Open the extensions page and inspect the "background page" of the extension, the Console tab there can give a clue
 
-Native messaging manifest setup guides:
+## Native messaging manifest setup guides:
 - [Google Chrome](https://developer.chrome.com/docs/apps/nativeMessaging/#native-messaging-host-location)
 - [Mozilla Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_messaging#setup)
 - [Microsoft Edge](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/developer-guide/native-messaging?tabs=windows#step-3---copy-the-native-messaging-host-manifest-file-to-your-system)
